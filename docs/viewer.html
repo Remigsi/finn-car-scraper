@@ -1,72 +1,122 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sorted Cars</title>
   <style>
+    .table-wrapper { overflow-x: auto; }
     table { border-collapse: collapse; width: 100%; }
     th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
     th { cursor: pointer; background-color: #f2f2f2; }
+    th:hover { background-color: #e0e0e0; }
+    th.sorted::after { content: ' ↑'; }
+    th.sorted.desc::after { content: ' ↓'; }
+    .pagination { margin-top: 10px; }
+    .pagination button { margin: 0 5px; }
+    @media (max-width: 600px) {
+      th, td { padding: 4px; font-size: 14px; }
+    }
   </style>
 </head>
 <body>
   <h1>Sorted Cars Viewer</h1>
-  <table id="carTable">
-    <thead>
-      <tr>
-        <th onclick="sortTable(0)">Title</th>
-        <th onclick="sortTable(1)">Year</th>
-        <th onclick="sortTable(2)">Price</th>
-        <th onclick="sortTable(3)">Mileage</th>
-        <th onclick="sortTable(4)">Location</th>
-      </tr>
-    </thead>
-    <tbody id="tableBody"></tbody>
-  </table>
+  <div class="table-wrapper">
+    <table id="carTable">
+      <thead>
+        <tr>
+          <th onclick="sortTable(0)">Title</th>
+          <th onclick="sortTable(1)">Year</th>
+          <th onclick="sortTable(2)">Price</th>
+          <th onclick="sortTable(3)">Mileage</th>
+          <th onclick="sortTable(4)">Location</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+  </div>
 
   <script>
+    const tableBody = document.getElementById('tableBody');
+    let carData = [];
+    let currentPage = 1;
+    const rowsPerPage = 50;
+
+    tableBody.innerHTML = '<tr><td colspan="5">Loading...</td></tr>';
+
     fetch('sorted_cars.json')
-      .then(response => response.json())
+      .then(response => {
+        if (!response.ok) throw new Error('Failed to load sorted_cars.json');
+        return response.json();
+      })
       .then(data => {
-        const body = document.getElementById('tableBody');
-        data.forEach(car => {
-          const row = `<tr>
-            <td>${car.Title}</td>
-            <td>${car.Year}</td>
-            <td>${car.Price}</td>
-            <td>${car.Mileage}</td>
-            <td>${car.Location}</td>
-          </tr>`;
-          body.insertAdjacentHTML('beforeend', row);
-        });
+        carData = data;
+        renderPage(1);
+      })
+      .catch(error => {
+        tableBody.innerHTML = `<tr><td colspan="5">Error: ${error.message}</td></tr>`;
+        console.error(error);
       });
 
+    function renderTable(data) {
+      tableBody.innerHTML = '';
+      data.forEach(car => {
+        const row = `<tr>
+          <td>${car.Title || 'N/A'}</td>
+          <td>${car.Year || 'N/A'}</td>
+          <td>${car.Price || 'N/A'}</td>
+          <td>${car.Mileage || 'N/A'}</td>
+          <td>${car.Location || 'N/A'}</td>
+        </tr>`;
+        tableBody.insertAdjacentHTML('beforeend', row);
+      });
+    }
+
+    function renderPage(page) {
+      currentPage = page;
+      const start = (page - 1) * rowsPerPage;
+      const end = start + rowsPerPage;
+      renderTable(carData.slice(start, end));
+      updatePagination();
+    }
+
+    function updatePagination() {
+      const totalPages = Math.ceil(carData.length / rowsPerPage);
+      const pagination = document.createElement('div');
+      pagination.className = 'pagination';
+      pagination.innerHTML = `
+        <button onclick="renderPage(${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>Previous</button>
+        <span>Page ${currentPage} of ${totalPages}</span>
+        <button onclick="renderPage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}>Next</button>
+      `;
+      document.getElementById('carTable').after(pagination);
+    }
+
     function sortTable(n) {
-      const table = document.getElementById("carTable");
-      let switching = true, dir = "asc", switchcount = 0;
-      while (switching) {
-        switching = false;
-        const rows = table.rows;
-        for (let i = 1; i < (rows.length - 1); i++) {
-          let shouldSwitch = false;
-          let x = rows[i].getElementsByTagName("TD")[n];
-          let y = rows[i + 1].getElementsByTagName("TD")[n];
-          if ((dir === "asc" && x.innerHTML > y.innerHTML) ||
-              (dir === "desc" && x.innerHTML < y.innerHTML)) {
-            shouldSwitch = true;
-            break;
-          }
+      const headers = document.querySelectorAll('th');
+      headers.forEach((th, i) => {
+        th.classList.toggle('sorted', i === n);
+        th.classList.toggle('desc', i === n && th.classList.contains('asc'));
+        th.classList.toggle('asc', i === n && !th.classList.contains('desc'));
+      });
+
+      const isAsc = !headers[n].classList.contains('desc');
+      const keyMap = ['Title', 'Year', 'Price', 'Mileage', 'Location'];
+      const isNumeric = [false, true, true, true, false];
+
+      carData.sort((a, b) => {
+        let x = a[keyMap[n]], y = b[keyMap[n]];
+        if (isNumeric[n]) {
+          x = parseFloat(x) || 0;
+          y = parseFloat(y) || 0;
+          return isAsc ? x - y : y - x;
         }
-        if (shouldSwitch) {
-          rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
-          switching = true;
-          switchcount++;
-        } else {
-          if (switchcount === 0 && dir === "asc") {
-            dir = "desc";
-            switching = true;
-          }
-        }
-      }
+        x = (x || '').toLowerCase();
+        y = (y || '').toLowerCase();
+        return isAsc ? x.localeCompare(y) : y.localeCompare(x);
+      });
+
+      renderPage(1); // Reset to first page after sorting
     }
   </script>
 </body>
