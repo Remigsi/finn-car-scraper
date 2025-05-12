@@ -48,3 +48,8 @@ try:
 except Exception as e:
     print(f"❌ Error in best-match analysis: {e}")
     sys.exit(1)
+
+docs_output_path = os.path.join(BASE_DIR, 'docs', 'sorted_cars.json')
+os.makedirs(os.path.dirname(docs_output_path), exist_ok=True)
+with open(docs_output_path, 'w', encoding='utf-8') as f:
+    json.dump(df_sorted.to_dict(orient='records'), f, ensure_ascii=False, indent=2)
