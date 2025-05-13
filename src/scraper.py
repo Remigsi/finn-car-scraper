@@ -1,5 +1,3 @@
-# src/scraper.py
-
 from playwright.sync_api import sync_playwright, TimeoutError
 import logging
 import time
@@ -18,6 +16,7 @@ def accept_cookie_consent(page):
     except Exception:
         logging.warning("⚠️ Error accepting cookie consent.")
 
+
 def go_to_next_page(page, page_number):
     try:
         next_btn = page.query_selector("a:has-text('Neste')")
@@ -30,6 +29,7 @@ def go_to_next_page(page, page_number):
     except Exception:
         logging.info("✅ No more pages (or navigation failed).")
         return False
+
 
 def scrape_finn_cars(return_data=False):
     with sync_playwright() as p:
@@ -69,40 +69,40 @@ def scrape_finn_cars(return_data=False):
                     if not link:
                         continue
 
-                    # 📌 Parse price
+                    # Parse price
                     raw_price_elem = listing.query_selector("span.t3.font-bold")
                     raw_price = raw_price_elem.inner_text().strip() if raw_price_elem else "0"
                     price = int(re.sub(r"\D", "", raw_price) or 0)
 
-                    # 📌 Parse year, mileage, etc.
+                    # Parse year, mileage
                     details_text_elem = listing.query_selector("span.text-caption.font-bold")
                     details_text = details_text_elem.inner_text() if details_text_elem else ""
                     details = details_text.split(" ∙ ")
                     year = int(details[0]) if len(details) > 0 and details[0].isdigit() else 0
                     mileage = int(re.sub(r"\D", "", details[1])) if len(details) > 1 else 999999
 
-                    # 🚫 Filter out ads that don’t meet your thresholds
-                    if price < 10000 and year >= 2019 and mileage <= 100000:
-                        print(f"❌ Skipped (filter) - {title}: {price} NOK, {year}, {mileage} km")
+                    # Filter logic
+                    if not (price <= 10000 and year >= 2020 and mileage <= 100000):
                         continue
 
-                    # 👁️ Check for 'Månedspris' inside ad page
-                    ad_page = page.context.new_page()
+                    # Open ad page to check for monthly payment info
                     try:
-                        ad_page.goto(link, timeout=15000)
+                        ad_page = context.new_page()
+                        ad_page.goto(link, timeout=10000)
                         ad_page.wait_for_selector("body", timeout=3000)
 
-                        monthly_tags = ad_page.query_selector_all("p.s-text-subtle")
-                        if any("Månedspris" in (el.inner_text() or "") for el in monthly_tags):
-                            print(f"⏩ Skipped (monthly payment): {title}")
+                        monthly_texts = ad_page.query_selector_all("p.s-text-subtle")
+                        if any("Månedspris" in (el.inner_text() or "") for el in monthly_texts):
+                            logging.info(f"⏩ Skipped (monthly payment): {title}")
                             ad_page.close()
                             continue
-                    except Exception as e:
-                        print(f"⚠️ Ad page error for {title}: {e}")
-                    finally:
-                        ad_page.close()
 
-                    # 📦 Finish parsing rest of data
+                        ad_page.close()
+                    except Exception as e:
+                        logging.warning(f"⚠️ Could not open ad page for '{title}': {e}")
+                        continue
+
+                    # Parse remaining details
                     transmission = details[2] if len(details) > 2 else "N/A"
                     fuel = details[3] if len(details) > 3 else "N/A"
                     location_elem = listing.query_selector("div.text-detail span:first-child")
@@ -122,10 +122,8 @@ def scrape_finn_cars(return_data=False):
                         "Link": link
                     })
 
-                    # print(f"✅ Added: {title} | {price} NOK | {year} | {mileage} km")
-
                 except Exception as e:
-                    print(f"⚠️ Error parsing listing: {e}")
+                    logging.error(f"⚠️ Error parsing listing: {e}")
                     continue
 
             if not go_to_next_page(page, page_number):

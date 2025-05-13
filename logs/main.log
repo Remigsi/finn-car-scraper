@@ -1182,3 +1182,101 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-05-13 21:34:32,864 [INFO] 📄 Scraping page 1
 2025-05-13 21:35:29,659 [INFO] 📄 Scraping page 2
 2025-05-13 21:36:25,592 [INFO] 📄 Scraping page 3
+2025-05-13 21:36:52,799 [INFO] 🔁 Scraping every 15 min. Press Ctrl+C to stop.
+2025-05-13 21:36:52,799 [INFO] 
+⏳ Scraping new data...
+2025-05-13 21:36:55,429 [INFO] ✅ Cookie consent accepted.
+2025-05-13 21:36:55,930 [INFO] 📄 Scraping page 1
+2025-05-13 21:37:58,904 [INFO] 📄 Scraping page 2
+2025-05-13 21:38:56,072 [INFO] 📄 Scraping page 3
+2025-05-13 21:39:52,930 [INFO] 📄 Scraping page 4
+2025-05-13 21:40:45,780 [INFO] 📄 Scraping page 5
+2025-05-13 21:41:44,593 [INFO] 📄 Scraping page 6
+2025-05-13 21:42:38,254 [INFO] 📄 Scraping page 7
+2025-05-13 21:52:27,922 [INFO] 🔁 Scraping every 15 min. Press Ctrl+C to stop.
+2025-05-13 21:52:27,922 [INFO] 
+⏳ Scraping new data...
+2025-05-13 21:52:32,788 [INFO] ✅ Cookie consent accepted.
+2025-05-13 21:52:33,290 [INFO] 📄 Scraping page 1
+2025-05-13 21:52:35,844 [INFO] 📄 Scraping page 2
+2025-05-13 21:52:38,280 [INFO] 📄 Scraping page 3
+2025-05-13 21:52:40,830 [INFO] 📄 Scraping page 4
+2025-05-13 21:52:41,806 [WARNING] ⚠️ Could not open ad page for 'Volvo XC90': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:52:41,853 [WARNING] ⚠️ Could not open ad page for 'Volvo XC90': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:52:41,955 [WARNING] ⚠️ Could not open ad page for 'Volvo XC90': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:52:41,981 [WARNING] ⚠️ Could not open ad page for 'Volvo XC90': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:52:43,294 [INFO] 📄 Scraping page 5
+2025-05-13 21:52:45,749 [INFO] 📄 Scraping page 6
+2025-05-13 21:52:47,013 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-13 21:52:48,101 [INFO] 📄 Scraping page 7
+2025-05-13 21:52:48,665 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-13 21:52:50,595 [INFO] 📄 Scraping page 8
+2025-05-13 21:52:52,962 [INFO] 📄 Scraping page 9
+2025-05-13 21:52:55,307 [INFO] 📄 Scraping page 10
+2025-05-13 21:52:57,625 [INFO] 📄 Scraping page 11
+2025-05-13 21:52:59,973 [INFO] 📄 Scraping page 12
+2025-05-13 21:53:01,074 [WARNING] ⚠️ Could not open ad page for 'Hyundai Kona': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:53:02,330 [INFO] 📄 Scraping page 13
+2025-05-13 21:53:02,742 [WARNING] ⚠️ Could not open ad page for 'Volkswagen ID.5 GTX': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:53:04,720 [INFO] 📄 Scraping page 14
+2025-05-13 21:53:07,263 [INFO] 📄 Scraping page 15
+2025-05-13 21:53:09,694 [INFO] 📄 Scraping page 16
+2025-05-13 21:53:10,857 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-13 21:53:12,121 [INFO] 📄 Scraping page 17
+2025-05-13 21:53:14,607 [INFO] 📄 Scraping page 18
+2025-05-13 21:53:17,029 [INFO] 📄 Scraping page 19
+2025-05-13 21:53:17,807 [WARNING] ⚠️ Could not open ad page for 'Lexus UX': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:53:19,458 [INFO] 📄 Scraping page 20
+2025-05-13 21:53:20,619 [WARNING] ⚠️ Could not open ad page for 'Peugeot 3008': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:53:21,941 [INFO] 📄 Scraping page 21
+2025-05-13 21:53:22,577 [WARNING] ⚠️ Could not open ad page for 'Peugeot 208': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:53:24,379 [INFO] 📄 Scraping page 22
+2025-05-13 21:53:26,782 [INFO] 📄 Scraping page 23
+2025-05-13 21:53:29,221 [INFO] 📄 Scraping page 24
+2025-05-13 21:53:30,020 [WARNING] ⚠️ Could not open ad page for 'Jeep Avenger': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:53:31,643 [INFO] 📄 Scraping page 25
+2025-05-13 21:53:32,967 [WARNING] ⚠️ Could not open ad page for 'BYD Tang': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:53:34,041 [INFO] 📄 Scraping page 26
+2025-05-13 21:53:34,306 [WARNING] ⚠️ Could not open ad page for 'Skoda Enyaq': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:53:36,424 [INFO] 📄 Scraping page 27
+2025-05-13 21:53:37,020 [WARNING] ⚠️ Could not open ad page for 'Volkswagen Tiguan': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:53:38,757 [INFO] 📄 Scraping page 28
+2025-05-13 21:53:41,109 [INFO] 📄 Scraping page 29
+2025-05-13 21:53:43,491 [INFO] 📄 Scraping page 30
+2025-05-13 21:53:45,824 [INFO] 📄 Scraping page 31
+2025-05-13 21:53:48,205 [INFO] 📄 Scraping page 32
+2025-05-13 21:53:49,102 [WARNING] ⚠️ Could not open ad page for 'Cupra Born': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:53:50,538 [INFO] 📄 Scraping page 33
+2025-05-13 21:53:51,733 [WARNING] ⚠️ Could not open ad page for 'Renault Megane': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:53:52,889 [INFO] 📄 Scraping page 34
+2025-05-13 21:53:53,142 [WARNING] ⚠️ Could not open ad page for 'MG ZS EV': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:53:55,274 [INFO] 📄 Scraping page 35
+2025-05-13 21:53:57,625 [INFO] 📄 Scraping page 36
+2025-05-13 21:53:59,990 [INFO] 📄 Scraping page 37
+2025-05-13 21:54:01,079 [WARNING] ⚠️ Could not open ad page for 'Volvo XC40': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:54:02,339 [INFO] 📄 Scraping page 38
+2025-05-13 21:54:02,982 [WARNING] ⚠️ Could not open ad page for 'Hyundai Kona': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:54:04,724 [INFO] 📄 Scraping page 39
+2025-05-13 21:54:07,054 [INFO] 📄 Scraping page 40
+2025-05-13 21:54:07,108 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-13 21:54:07,360 [WARNING] ⚠️ Could not open ad page for 'Volkswagen ID.4 GTX': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:54:07,613 [WARNING] ⚠️ Could not open ad page for 'Skoda Enyaq': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:54:07,862 [WARNING] ⚠️ Could not open ad page for 'Toyota bZ4X': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:54:09,422 [INFO] 📄 Scraping page 41
+2025-05-13 21:54:11,752 [INFO] 📄 Scraping page 42
+2025-05-13 21:54:12,242 [WARNING] ⚠️ Could not open ad page for 'Skoda Octavia': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:54:14,156 [INFO] 📄 Scraping page 43
+2025-05-13 21:54:14,661 [WARNING] ⚠️ Could not open ad page for 'Volkswagen UP!': Page.goto: Target page, context or browser has been closed
+2025-05-13 21:54:16,570 [INFO] 📄 Scraping page 44
+2025-05-13 21:54:18,938 [INFO] 📄 Scraping page 45
+2025-05-13 21:54:21,288 [INFO] 📄 Scraping page 46
+2025-05-13 21:54:23,584 [INFO] 📄 Scraping page 47
+2025-05-13 21:54:25,940 [INFO] 📄 Scraping page 48
+2025-05-13 21:54:26,935 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-13 21:54:28,291 [INFO] 📄 Scraping page 49
+2025-05-13 21:54:30,689 [INFO] 📄 Scraping page 50
+2025-05-13 21:54:32,086 [INFO] ✅ Reached last page.
+2025-05-13 21:54:32,155 [INFO] 🆕 Added 0 new ads.
+2025-05-13 21:54:32,212 [INFO] 💾 Saved 5690 entries to 'D:\Projects\CodeA\PythonProject\finn_car_scraper\data\finn_cars.json'
+2025-05-13 21:55:44,781 [WARNING] 
+❌ Scraper stopped by user.
