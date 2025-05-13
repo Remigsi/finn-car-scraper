@@ -1280,3 +1280,76 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-05-13 21:54:32,212 [INFO] 💾 Saved 5690 entries to 'D:\Projects\CodeA\PythonProject\finn_car_scraper\data\finn_cars.json'
 2025-05-13 21:55:44,781 [WARNING] 
 ❌ Scraper stopped by user.
+2025-05-13 21:56:03,012 [INFO] 🔁 Scraping every 15 min. Press Ctrl+C to stop.
+2025-05-13 21:56:03,013 [INFO] 
+⏳ Scraping new data...
+2025-05-13 21:56:06,271 [INFO] ✅ Cookie consent accepted.
+2025-05-13 21:56:06,773 [INFO] 📄 Scraping page 1
+2025-05-13 21:56:06,897 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-13 21:56:09,423 [INFO] 📄 Scraping page 2
+2025-05-13 21:56:11,808 [INFO] 📄 Scraping page 3
+2025-05-13 21:56:14,186 [INFO] 📄 Scraping page 4
+2025-05-13 21:56:16,132 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-13 21:56:16,951 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-13 21:56:17,818 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-13 21:56:18,591 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-13 21:56:19,752 [INFO] 📄 Scraping page 5
+2025-05-13 21:56:22,205 [INFO] 📄 Scraping page 6
+2025-05-13 21:56:24,553 [INFO] 📄 Scraping page 7
+2025-05-13 21:56:24,842 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-13 21:56:25,278 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-13 21:56:26,886 [INFO] 📄 Scraping page 8
+2025-05-13 21:56:29,335 [INFO] 📄 Scraping page 9
+2025-05-13 21:56:31,686 [INFO] 📄 Scraping page 10
+2025-05-13 21:56:34,055 [INFO] 📄 Scraping page 11
+2025-05-13 21:56:36,435 [INFO] 📄 Scraping page 12
+2025-05-13 21:56:38,814 [INFO] 📄 Scraping page 13
+2025-05-13 21:56:43,120 [INFO] 📄 Scraping page 14
+2025-05-13 21:56:45,499 [INFO] 📄 Scraping page 15
+2025-05-13 21:56:47,899 [INFO] 📄 Scraping page 16
+2025-05-13 21:56:48,814 [INFO] ⏩ Skipped (monthly payment): BMW iX xDrive 40
+2025-05-13 21:56:51,252 [INFO] 📄 Scraping page 17
+2025-05-13 21:56:51,395 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-13 21:56:53,685 [INFO] 📄 Scraping page 18
+2025-05-13 21:56:56,069 [INFO] 📄 Scraping page 19
+2025-05-13 21:56:59,684 [INFO] 📄 Scraping page 20
+2025-05-13 21:57:01,820 [INFO] ⏩ Skipped (monthly payment): Peugeot 3008
+2025-05-13 21:57:02,901 [INFO] 📄 Scraping page 21
+2025-05-13 21:57:06,370 [INFO] 📄 Scraping page 22
+2025-05-13 21:57:08,742 [INFO] 📄 Scraping page 23
+2025-05-13 21:57:11,098 [INFO] 📄 Scraping page 24
+2025-05-13 21:57:13,109 [INFO] ⏩ Skipped (monthly payment): Jeep Avenger
+2025-05-13 21:57:14,530 [INFO] 📄 Scraping page 25
+2025-05-13 21:57:16,908 [INFO] 📄 Scraping page 26
+2025-05-13 21:57:21,234 [INFO] 📄 Scraping page 27
+2025-05-13 21:57:24,517 [INFO] 📄 Scraping page 28
+2025-05-13 21:57:26,850 [INFO] 📄 Scraping page 29
+2025-05-13 21:57:29,198 [INFO] 📄 Scraping page 30
+2025-05-13 21:57:31,630 [INFO] 📄 Scraping page 31
+2025-05-13 21:57:34,063 [INFO] 📄 Scraping page 32
+2025-05-13 21:57:37,316 [INFO] 📄 Scraping page 33
+2025-05-13 21:57:39,683 [INFO] 📄 Scraping page 34
+2025-05-13 21:57:40,699 [INFO] ⏩ Skipped (monthly payment): Renault Megane
+2025-05-13 21:57:43,951 [INFO] 📄 Scraping page 35
+2025-05-13 21:57:46,317 [INFO] 📄 Scraping page 36
+2025-05-13 21:57:48,714 [INFO] 📄 Scraping page 37
+2025-05-13 21:57:51,016 [INFO] 📄 Scraping page 38
+2025-05-13 21:57:53,713 [INFO] ⏩ Skipped (monthly payment): Hyundai Kona
+2025-05-13 21:57:55,212 [INFO] 📄 Scraping page 39
+2025-05-13 21:57:57,595 [INFO] 📄 Scraping page 40
+2025-05-13 21:58:01,449 [INFO] ⏩ Skipped (monthly payment): Skoda Enyaq
+2025-05-13 21:58:02,748 [INFO] 📄 Scraping page 41
+2025-05-13 21:58:04,043 [INFO] ⏩ Skipped (monthly payment): Toyota bZ4X
+2025-05-13 21:58:06,316 [INFO] 📄 Scraping page 42
+2025-05-13 21:58:09,696 [INFO] 📄 Scraping page 43
+2025-05-13 21:58:12,999 [INFO] 📄 Scraping page 44
+2025-05-13 21:58:15,363 [INFO] 📄 Scraping page 45
+2025-05-13 21:58:17,713 [INFO] 📄 Scraping page 46
+2025-05-13 21:58:20,063 [INFO] 📄 Scraping page 47
+2025-05-13 21:58:22,431 [INFO] 📄 Scraping page 48
+2025-05-13 21:58:24,774 [INFO] 📄 Scraping page 49
+2025-05-13 21:58:25,095 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-13 21:58:27,130 [INFO] 📄 Scraping page 50
+2025-05-13 21:58:28,408 [INFO] ✅ Reached last page.
+2025-05-13 21:58:28,473 [INFO] 🆕 Added 9 new ads.
+2025-05-13 21:58:28,531 [INFO] 💾 Saved 5699 entries to 'D:\Projects\CodeA\PythonProject\finn_car_scraper\data\finn_cars.json'

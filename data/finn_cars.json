@@ -62588,5 +62588,113 @@
     "Fuel": "El",
     "Location": "Sarpsborg ∙ Sulland Sarpsborg",
     "No": 5690
+  },
+  {
+    "Annonse ID": "405416077",
+    "Title": "Hyundai Kona",
+    "Price": 0,
+    "Year": 2021,
+    "Mileage": 63750,
+    "Transmission": "Automat",
+    "Fuel": "El",
+    "Location": "Oslo ∙ Birger N. Haug AS avd. Oslo",
+    "Link": "https://www.finn.no/mobility/item/405416077",
+    "No": 5691
+  },
+  {
+    "Annonse ID": "407674747",
+    "Title": "BYD Tang",
+    "Price": 0,
+    "Year": 2022,
+    "Mileage": 43200,
+    "Transmission": "Automat",
+    "Fuel": "El",
+    "Location": "Spillum ∙ Høylandet Auto AS",
+    "Link": "https://www.finn.no/mobility/item/407674747",
+    "No": 5692
+  },
+  {
+    "Annonse ID": "407674390",
+    "Title": "Skoda Enyaq",
+    "Price": 0,
+    "Year": 2021,
+    "Mileage": 58300,
+    "Transmission": "Automat",
+    "Fuel": "El",
+    "Location": "Kokstad ∙ Møller Bil Bruktbilsenter Bergen",
+    "Link": "https://www.finn.no/mobility/item/407674390",
+    "No": 5693
+  },
+  {
+    "Annonse ID": "407657333",
+    "Title": "Cupra Born",
+    "Price": 0,
+    "Year": 2023,
+    "Mileage": 42100,
+    "Transmission": "Automat",
+    "Fuel": "El",
+    "Location": "Skjetten ∙ Møller Bil Bruktbilsenter Stor-Oslo",
+    "Link": "https://www.finn.no/mobility/item/407657333",
+    "No": 5694
+  },
+  {
+    "Annonse ID": "407654571",
+    "Title": "MG ZS EV",
+    "Price": 0,
+    "Year": 2024,
+    "Mileage": 4000,
+    "Transmission": "Automat",
+    "Fuel": "El",
+    "Location": "Sandnes ∙ Kverneland Bil | Volvo Bilhuset",
+    "Link": "https://www.finn.no/mobility/item/407654571",
+    "No": 5695
+  },
+  {
+    "Annonse ID": "407636548",
+    "Title": "Volvo XC40",
+    "Price": 0,
+    "Year": 2024,
+    "Mileage": 21000,
+    "Transmission": "Automat",
+    "Fuel": "El",
+    "Location": "Hønefoss ∙ PRESTMARKEN",
+    "Link": "https://www.finn.no/mobility/item/407636548",
+    "No": 5696
+  },
+  {
+    "Annonse ID": "407643858",
+    "Title": "Volkswagen ID.4 GTX",
+    "Price": 0,
+    "Year": 2022,
+    "Mileage": 39400,
+    "Transmission": "Automat",
+    "Fuel": "El",
+    "Location": "Stavanger ∙ Møller Bil Stavanger",
+    "Link": "https://www.finn.no/mobility/item/407643858",
+    "No": 5697
+  },
+  {
+    "Annonse ID": "407637240",
+    "Title": "Skoda Octavia",
+    "Price": 0,
+    "Year": 2021,
+    "Mileage": 78483,
+    "Transmission": "Automat",
+    "Fuel": "Hybrid bensin",
+    "Location": "Oppdal ∙ Autotal AS",
+    "Link": "https://www.finn.no/mobility/item/407637240",
+    "No": 5698
+  },
+  {
+    "Annonse ID": "407631617",
+    "Title": "Volkswagen UP!",
+    "Price": 0,
+    "Year": 2020,
+    "Mileage": 28900,
+    "Transmission": "Automat",
+    "Fuel": "El",
+    "Location": "Nesbyen ∙ Nesbyen Auto AS",
+    "Link": "https://www.finn.no/mobility/item/407631617",
+    "No": 5699
   }
 ]
