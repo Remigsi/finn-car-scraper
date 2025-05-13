@@ -1,10 +1,12 @@
 # src/scraper.py
 
 from playwright.sync_api import sync_playwright, TimeoutError
+from urllib.parse import urljoin
 import logging
 import time
 import re
 
+BASE_URL = "https://www.finn.no"
 
 def accept_cookie_consent(page):
     try:
@@ -60,14 +62,32 @@ def scrape_finn_cars(return_data=False):
 
             for listing in listings:
                 try:
-                    title = listing.query_selector("h2 a").inner_text().strip()
-                    raw_price = listing.query_selector("span.t3.font-bold").inner_text().strip()
-                    price = re.sub(r"(?<=\d)\s+(?=\d)", "", raw_price.replace("kr", "")).strip()
+                    title_elem = listing.query_selector("h2 a")
+                    title = title_elem.inner_text().strip()
+                    href = title_elem.get_attribute("href")
+                    ad_url = urljoin(BASE_URL, href)
+
+                    title_elem = listing.query_selector("h2 a")
+                    price_elem = listing.query_selector("span.t3.font-bold")
+                    details_elem = listing.query_selector("span.text-caption.font-bold")
+                    location_elem = listing.query_selector("div.text-detail span:first-child")
+
+                    if not (title_elem and price_elem and details_elem and location_elem):
+                        raise ValueError("Missing required fields")
+
+                    title = title_elem.inner_text().strip()
+                    raw_price = price_elem.inner_text().strip()
+                    details_text = details_elem.inner_text().strip()
+                    location = location_elem.inner_text().strip()
+
+                    price_digits = re.sub(r"\D", "", raw_price)
+                    price = int(price_digits) if price_digits else None
 
                     details_text = listing.query_selector("span.text-caption.font-bold").inner_text()
                     details = details_text.split(" ∙ ")
-                    year = details[0] if len(details) > 0 else "N/A"
-                    mileage = details[1] if len(details) > 1 else "N/A"
+                    year = int(details[0]) if len(details) > 0 and details[0].isdigit() else None
+                    mileage_digits = re.sub(r"\D", "", details[1]) if len(details) > 1 else ""
+                    mileage = int(mileage_digits) if mileage_digits else None
                     transmission = details[2] if len(details) > 2 else "N/A"
                     fuel = details[3] if len(details) > 3 else "N/A"
 
@@ -75,6 +95,27 @@ def scrape_finn_cars(return_data=False):
                     ad_id_elem = listing.query_selector("div.absolute[aria-owns^='search-ad-']")
                     ad_id = ad_id_elem.get_attribute("aria-owns").replace("search-ad-", "") if ad_id_elem else "N/A"
 
+                    # ✅ Custom filtering logic
+                    if (price is None or price > 10000 or
+                            year is None or year < 2020 or
+                            mileage is None or mileage > 100000):
+                        continue
+
+                    # ✅ Visit ad page to check for Månedspris
+                    detail_page = context.new_page()
+                    detail_page.goto(ad_url, timeout=10000)
+                    detail_page.wait_for_timeout(2000)  # allow lazy content to load
+
+                    # Check if element exists
+                    has_monthly = detail_page.query_selector("p.s-text-subtle.mb-0")
+                    if has_monthly:
+                        text = has_monthly.inner_text().strip()
+                        if "Månedspris" in text:
+                            logging.warning(f"🚫 Skipped Månedspris ad: {ad_url}")
+                            detail_page.close()
+                            continue
+
+                    # ✅ Keep the ad
                     car_data.append({
                         "Annonse ID": ad_id,
                         "Title": title,
@@ -83,9 +124,13 @@ def scrape_finn_cars(return_data=False):
                         "Mileage": mileage,
                         "Transmission": transmission,
                         "Fuel": fuel,
-                        "Location": location
+                        "Location": location,
+                        "URL": ad_url
                     })
-                except Exception:
+                    detail_page.close()
+
+                except Exception as e:
+                    logging.warning(f"⚠️ Failed to process one listing: {e}")
                     continue
 
             if not go_to_next_page(page, page_number):
