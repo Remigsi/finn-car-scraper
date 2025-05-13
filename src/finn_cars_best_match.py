@@ -1,6 +1,6 @@
 # src/finn_cars_best_match.py
 
-
+import logging
 import sys
 import os
 import pandas as pd
@@ -14,7 +14,7 @@ OUTPUT_PATH = os.path.join(BASE_DIR, 'data', 'sorted_cars.json')
 try:
     # Verify file exists
     if not os.path.exists(DATA_PATH):
-        print(f"❌ Error: '{DATA_PATH}' does not exist. Run main.py from the project root to generate it.")
+        logging.error(f"❌ Error: '{DATA_PATH}' does not exist. Run main.py from the project root to generate it.")
         sys.exit(1)
 
     with open(DATA_PATH, 'r', encoding='utf-8') as f:
@@ -44,9 +44,9 @@ try:
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(df_sorted.to_dict(orient='records'), f, ensure_ascii=False, indent=2)
 
-    print(f"✅ Saved top {len(df_sorted)} best-matched ads to '{OUTPUT_PATH}'")
+    logging.info(f"✅ Saved top {len(df_sorted)} best-matched ads to '{OUTPUT_PATH}'")
 except Exception as e:
-    print(f"❌ Error in best-match analysis: {e}")
+    logging.error(f"❌ Error in best-match analysis: {e}")
     sys.exit(1)
 
 docs_output_path = os.path.join(BASE_DIR, 'docs', 'sorted_cars.json')

@@ -1,6 +1,7 @@
 # src/scraper.py
 
 from playwright.sync_api import sync_playwright, TimeoutError
+import logging
 import time
 import re
 
@@ -10,24 +11,24 @@ def accept_cookie_consent(page):
         iframe = page.wait_for_selector("iframe[id^='sp_message_iframe_']", timeout=8000)
         frame = iframe.content_frame()
         frame.click("button.sp_choice_type_11", timeout=5000)
-        print("✅ Cookie consent accepted.")
+        logging.info("✅ Cookie consent accepted.")
         time.sleep(0.5)
     except TimeoutError:
-        print("⚠️ Cookie consent iframe not found.")
+        logging.warning("⚠️ Cookie consent iframe not found.")
     except Exception:
-        print("⚠️ Error accepting cookie consent.")
+        logging.warning("⚠️ Error accepting cookie consent.")
 
 def go_to_next_page(page, page_number):
     try:
         next_btn = page.query_selector("a:has-text('Neste')")
         if not next_btn or not next_btn.is_enabled():
-            print("✅ Reached last page.")
+            logging.info("✅ Reached last page.")
             return False
         next_btn.click()
         time.sleep(1)
         return True
     except Exception:
-        print("✅ No more pages (or navigation failed).")
+        logging.info("✅ No more pages (or navigation failed).")
         return False
 
 def scrape_finn_cars(return_data=False):
@@ -48,11 +49,11 @@ def scrape_finn_cars(return_data=False):
         page_number = 1
 
         while True:
-            print(f"📄 Scraping page {page_number}...")
+            logging.info(f"📄 Scraping page {page_number}...")
             try:
                 page.wait_for_selector("article.sf-search-ad", timeout=8000)
             except TimeoutError:
-                print("⏱️ Listings not found, skipping page.")
+                logging.warning("⏱️ Listings not found, skipping page.")
                 break
 
             listings = page.query_selector_all("article.sf-search-ad")

@@ -2,12 +2,27 @@
 
 from src.scraper import scrape_finn_cars
 from src.data_handler import save_data
+import logging
 import os
 import json
 import time
 
 DATA_FILE = "data/finn_cars.json"
 INTERVAL_MINUTES = 15
+
+LOG_DIR = "logs"
+LOG_FILE = os.path.join(LOG_DIR, "main.log")
+os.makedirs(LOG_DIR, exist_ok=True)
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[
+        logging.FileHandler(LOG_FILE, encoding="utf-8"),
+        logging.StreamHandler()  # optional: still see output in terminal
+    ]
+)
+
 
 def load_existing_data():
     if os.path.exists(DATA_FILE):
@@ -20,11 +35,11 @@ def run_loop():
     known_ids = {item["Annonse ID"] for item in all_ads}
     last_no = max((item.get("No", 0) for item in all_ads), default=0)
 
-    print(f"🔁 Scraping every {INTERVAL_MINUTES} min. Press Ctrl+C to stop.")
+    logging.info(f"🔁 Scraping every {INTERVAL_MINUTES} min. Press Ctrl+C to stop.")
 
     try:
         while True:
-            print("\n⏳ Scraping new data...")
+            logging.info("\n⏳ Scraping new data...")
             new_ads = scrape_finn_cars(return_data=True)
             added = 0
 
@@ -36,11 +51,11 @@ def run_loop():
                     known_ids.add(ad["Annonse ID"])
                     added += 1
 
-            print(f"🆕 Added {added} new ads.")
+            logging.info(f"🆕 Added {added} new ads.")
             save_data(all_ads)  # Trims to 10,000 and runs best match script
             time.sleep(INTERVAL_MINUTES * 60)
     except KeyboardInterrupt:
-        print("\n❌ Scraper stopped by user.")
+        logging.warning("\n❌ Scraper stopped by user.")
 
 if __name__ == "__main__":
     run_loop()

@@ -3,6 +3,7 @@
 
 import json
 import subprocess
+import logging
 import sys
 import os
 
@@ -21,7 +22,7 @@ def save_data(data, max_entries=10000):
 
     with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    print(f"💾 Saved {len(data)} entries to '{DATA_PATH}'")
+    logging.info(f"💾 Saved {len(data)} entries to '{DATA_PATH}'")
 
     try:
         # Use absolute path for best_match script
