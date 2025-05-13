@@ -726,3 +726,9 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-05-13 20:57:04,215 [INFO] 💾 Saved 5595 entries to 'D:\Projects\CodeA\PythonProject\finn_car_scraper\data\finn_cars.json'
 2025-05-13 20:57:57,483 [WARNING] 
 ❌ Scraper stopped by user.
+2025-05-13 20:58:07,563 [INFO] 🔁 Scraping every 15 min. Press Ctrl+C to stop.
+2025-05-13 20:58:07,563 [INFO] 
+⏳ Scraping new data...
+2025-05-13 20:58:10,052 [INFO] ✅ Cookie consent accepted.
+2025-05-13 20:58:10,554 [INFO] 📄 Scraping page 1...
+2025-05-13 20:58:15,164 [INFO] 📄 Scraping page 2...
