@@ -1,4 +1,4 @@
-# 🚗 FINN.no Car Scraper & Best Match Viewer
+# 🚗 finn.no Car Scraper & Best Match Viewer
 
 A full-stack data pipeline to **scrape used car listings from FINN.no**, **rank them by best deal**, and **publish the top results** to a public GitHub Pages viewer.
 
