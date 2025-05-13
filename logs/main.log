@@ -909,3 +909,15 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-05-13 21:07:40,015 [INFO] 💾 Saved 5595 entries to 'D:\Projects\CodeA\PythonProject\finn_car_scraper\data\finn_cars.json'
 2025-05-13 21:08:03,972 [WARNING] 
 ❌ Scraper stopped by user.
+2025-05-13 21:08:15,518 [INFO] 🔁 Scraping every 15 min. Press Ctrl+C to stop.
+2025-05-13 21:08:15,519 [INFO] 
+⏳ Scraping new data...
+2025-05-13 21:08:18,721 [INFO] ✅ Cookie consent accepted.
+2025-05-13 21:08:19,223 [INFO] 📄 Scraping page 1...
+2025-05-13 21:08:21,946 [INFO] 📄 Scraping page 2...
+2025-05-13 21:08:23,643 [INFO] ⏩ Skipping ad (monthly payment): https://www.finn.no/mobility/item/407731652
+2025-05-13 21:08:24,350 [INFO] ⏩ Skipping ad (monthly payment): https://www.finn.no/mobility/item/407731570
+2025-05-13 21:08:25,286 [INFO] ⏩ Skipping ad (monthly payment): https://www.finn.no/mobility/item/407731472
+2025-05-13 21:08:26,084 [INFO] ⏩ Skipping ad (monthly payment): https://www.finn.no/mobility/item/407731478
+2025-05-13 21:08:27,493 [INFO] 📄 Scraping page 3...
+2025-05-13 21:08:28,425 [INFO] ⏩ Skipping ad (monthly payment): https://www.finn.no/mobility/item/407034656
