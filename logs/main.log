@@ -921,3 +921,264 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-05-13 21:08:26,084 [INFO] ⏩ Skipping ad (monthly payment): https://www.finn.no/mobility/item/407731478
 2025-05-13 21:08:27,493 [INFO] 📄 Scraping page 3...
 2025-05-13 21:08:28,425 [INFO] ⏩ Skipping ad (monthly payment): https://www.finn.no/mobility/item/407034656
+2025-05-13 21:08:31,437 [INFO] 📄 Scraping page 4...
+2025-05-13 21:08:34,146 [INFO] 📄 Scraping page 5...
+2025-05-13 21:08:36,727 [INFO] 📄 Scraping page 6...
+2025-05-13 21:08:39,336 [INFO] 📄 Scraping page 7...
+2025-05-13 21:08:41,971 [INFO] 📄 Scraping page 8...
+2025-05-13 21:08:44,536 [INFO] 📄 Scraping page 9...
+2025-05-13 21:08:47,158 [INFO] 📄 Scraping page 10...
+2025-05-13 21:08:49,720 [INFO] 📄 Scraping page 11...
+2025-05-13 21:08:53,198 [INFO] 📄 Scraping page 12...
+2025-05-13 21:08:55,859 [INFO] 📄 Scraping page 13...
+2025-05-13 21:08:58,381 [INFO] 📄 Scraping page 14...
+2025-05-13 21:09:00,912 [INFO] 📄 Scraping page 15...
+2025-05-13 21:09:03,464 [INFO] 📄 Scraping page 16...
+2025-05-13 21:09:05,985 [INFO] 📄 Scraping page 17...
+2025-05-13 21:09:08,566 [INFO] 📄 Scraping page 18...
+2025-05-13 21:09:10,813 [INFO] ⏩ Skipping ad (monthly payment): https://www.finn.no/mobility/item/407687907
+2025-05-13 21:09:12,064 [INFO] 📄 Scraping page 19...
+2025-05-13 21:09:14,593 [INFO] 📄 Scraping page 20...
+2025-05-13 21:09:17,116 [INFO] 📄 Scraping page 21...
+2025-05-13 21:09:19,655 [INFO] 📄 Scraping page 22...
+2025-05-13 21:09:21,373 [INFO] ⏩ Skipping ad (monthly payment): https://www.finn.no/mobility/item/407677997
+2025-05-13 21:09:23,002 [INFO] 📄 Scraping page 23...
+2025-05-13 21:09:25,835 [INFO] 📄 Scraping page 24...
+2025-05-13 21:09:28,400 [INFO] 📄 Scraping page 25...
+2025-05-13 21:09:30,986 [INFO] 📄 Scraping page 26...
+2025-05-13 21:09:33,534 [INFO] 📄 Scraping page 27...
+2025-05-13 21:09:36,280 [INFO] 📄 Scraping page 28...
+2025-05-13 21:09:39,013 [INFO] 📄 Scraping page 29...
+2025-05-13 21:09:41,996 [INFO] 📄 Scraping page 30...
+2025-05-13 21:09:44,713 [INFO] 📄 Scraping page 31...
+2025-05-13 21:09:47,265 [INFO] 📄 Scraping page 32...
+2025-05-13 21:09:48,730 [INFO] ⏩ Skipping ad (monthly payment): https://www.finn.no/mobility/item/407654961
+2025-05-13 21:09:50,978 [INFO] 📄 Scraping page 33...
+2025-05-13 21:09:53,595 [INFO] 📄 Scraping page 34...
+2025-05-13 21:09:56,131 [INFO] 📄 Scraping page 35...
+2025-05-13 21:09:58,731 [INFO] 📄 Scraping page 36...
+2025-05-13 21:10:00,650 [INFO] ⏩ Skipping ad (monthly payment): https://www.finn.no/mobility/item/407646827
+2025-05-13 21:10:02,210 [INFO] 📄 Scraping page 37...
+2025-05-13 21:10:04,828 [INFO] 📄 Scraping page 38...
+2025-05-13 21:10:06,380 [INFO] ⏩ Skipping ad (monthly payment): https://www.finn.no/mobility/item/407620516
+2025-05-13 21:10:07,675 [INFO] ⏩ Skipping ad (monthly payment): https://www.finn.no/mobility/item/407641457
+2025-05-13 21:10:09,031 [INFO] 📄 Scraping page 39...
+2025-05-13 21:10:11,867 [INFO] 📄 Scraping page 40...
+2025-05-13 21:10:14,719 [INFO] 📄 Scraping page 41...
+2025-05-13 21:10:17,315 [INFO] 📄 Scraping page 42...
+2025-05-13 21:10:19,916 [INFO] 📄 Scraping page 43...
+2025-05-13 21:10:22,465 [INFO] 📄 Scraping page 44...
+2025-05-13 21:10:24,981 [INFO] 📄 Scraping page 45...
+2025-05-13 21:10:27,565 [INFO] 📄 Scraping page 46...
+2025-05-13 21:10:30,127 [INFO] 📄 Scraping page 47...
+2025-05-13 21:10:32,812 [INFO] 📄 Scraping page 48...
+2025-05-13 21:10:35,324 [INFO] 📄 Scraping page 49...
+2025-05-13 21:10:37,626 [INFO] ⏩ Skipping ad (monthly payment): https://www.finn.no/mobility/item/407592170
+2025-05-13 21:10:38,880 [INFO] 📄 Scraping page 50...
+2025-05-13 21:10:41,121 [INFO] ⏩ Skipping ad (monthly payment): https://www.finn.no/mobility/item/407592170
+2025-05-13 21:10:42,321 [INFO] 📄 Scraping page 51...
+2025-05-13 21:10:43,817 [INFO] ✅ Reached last page.
+2025-05-13 21:10:43,887 [INFO] 🆕 Added 0 new ads.
+2025-05-13 21:10:43,944 [INFO] 💾 Saved 5595 entries to 'D:\Projects\CodeA\PythonProject\finn_car_scraper\data\finn_cars.json'
+2025-05-13 21:12:07,295 [WARNING] 
+❌ Scraper stopped by user.
+2025-05-13 21:12:13,895 [INFO] 🔁 Scraping every 15 min. Press Ctrl+C to stop.
+2025-05-13 21:12:13,895 [INFO] 
+⏳ Scraping new data...
+2025-05-13 21:12:16,431 [INFO] ✅ Cookie consent accepted.
+2025-05-13 21:14:39,368 [INFO] ✅ Reached last page.
+2025-05-13 21:14:39,439 [INFO] 🆕 Added 95 new ads.
+2025-05-13 21:14:39,496 [INFO] 💾 Saved 5690 entries to 'D:\Projects\CodeA\PythonProject\finn_car_scraper\data\finn_cars.json'
+2025-05-13 21:19:06,965 [WARNING] 
+❌ Scraper stopped by user.
+2025-05-13 21:21:53,997 [INFO] 🔁 Scraping every 15 min. Press Ctrl+C to stop.
+2025-05-13 21:21:53,997 [INFO] 
+⏳ Scraping new data...
+2025-05-13 21:21:58,653 [INFO] ✅ Cookie consent accepted.
+2025-05-13 21:21:59,155 [INFO] 📄 Scraping page 1
+2025-05-13 21:22:01,855 [INFO] 📄 Scraping page 2
+2025-05-13 21:22:04,407 [INFO] 📄 Scraping page 3
+2025-05-13 21:22:06,916 [INFO] 📄 Scraping page 4
+2025-05-13 21:22:09,466 [INFO] 📄 Scraping page 5
+2025-05-13 21:22:11,966 [INFO] 📄 Scraping page 6
+2025-05-13 21:22:14,448 [INFO] 📄 Scraping page 7
+2025-05-13 21:22:16,908 [INFO] 📄 Scraping page 8
+2025-05-13 21:22:19,430 [INFO] 📄 Scraping page 9
+2025-05-13 21:22:21,916 [INFO] 📄 Scraping page 10
+2025-05-13 21:22:24,374 [INFO] 📄 Scraping page 11
+2025-05-13 21:22:26,871 [INFO] 📄 Scraping page 12
+2025-05-13 21:22:29,331 [INFO] 📄 Scraping page 13
+2025-05-13 21:22:31,746 [INFO] 📄 Scraping page 14
+2025-05-13 21:22:34,247 [INFO] 📄 Scraping page 15
+2025-05-13 21:22:36,714 [INFO] 📄 Scraping page 16
+2025-05-13 21:22:39,161 [INFO] 📄 Scraping page 17
+2025-05-13 21:22:41,630 [INFO] 📄 Scraping page 18
+2025-05-13 21:22:44,114 [INFO] 📄 Scraping page 19
+2025-05-13 21:22:46,545 [INFO] 📄 Scraping page 20
+2025-05-13 21:22:48,980 [INFO] 📄 Scraping page 21
+2025-05-13 21:22:51,483 [INFO] 📄 Scraping page 22
+2025-05-13 21:22:53,929 [INFO] 📄 Scraping page 23
+2025-05-13 21:22:56,378 [INFO] 📄 Scraping page 24
+2025-05-13 21:22:58,814 [INFO] 📄 Scraping page 25
+2025-05-13 21:23:01,245 [INFO] 📄 Scraping page 26
+2025-05-13 21:23:03,725 [INFO] 📄 Scraping page 27
+2025-05-13 21:23:06,182 [INFO] 📄 Scraping page 28
+2025-05-13 21:23:08,645 [INFO] 📄 Scraping page 29
+2025-05-13 21:23:11,126 [INFO] 📄 Scraping page 30
+2025-05-13 21:23:13,625 [INFO] 📄 Scraping page 31
+2025-05-13 21:23:16,061 [INFO] 📄 Scraping page 32
+2025-05-13 21:23:18,663 [INFO] 📄 Scraping page 33
+2025-05-13 21:23:21,246 [INFO] 📄 Scraping page 34
+2025-05-13 21:23:23,677 [INFO] 📄 Scraping page 35
+2025-05-13 21:23:26,368 [INFO] 📄 Scraping page 36
+2025-05-13 21:23:28,811 [INFO] 📄 Scraping page 37
+2025-05-13 21:23:31,295 [INFO] 📄 Scraping page 38
+2025-05-13 21:23:33,780 [INFO] 📄 Scraping page 39
+2025-05-13 21:23:36,284 [INFO] 📄 Scraping page 40
+2025-05-13 21:23:38,693 [INFO] 📄 Scraping page 41
+2025-05-13 21:23:41,160 [INFO] 📄 Scraping page 42
+2025-05-13 21:23:43,599 [INFO] 📄 Scraping page 43
+2025-05-13 21:23:46,110 [INFO] 📄 Scraping page 44
+2025-05-13 21:23:48,560 [INFO] 📄 Scraping page 45
+2025-05-13 21:23:51,092 [INFO] 📄 Scraping page 46
+2025-05-13 21:23:53,608 [INFO] 📄 Scraping page 47
+2025-05-13 21:23:56,078 [INFO] 📄 Scraping page 48
+2025-05-13 21:23:58,594 [INFO] 📄 Scraping page 49
+2025-05-13 21:24:01,072 [INFO] 📄 Scraping page 50
+2025-05-13 21:24:02,565 [INFO] ✅ Reached last page.
+2025-05-13 21:24:02,634 [INFO] 🆕 Added 0 new ads.
+2025-05-13 21:24:02,695 [INFO] 💾 Saved 5690 entries to 'D:\Projects\CodeA\PythonProject\finn_car_scraper\data\finn_cars.json'
+2025-05-13 21:24:59,399 [WARNING] 
+❌ Scraper stopped by user.
+2025-05-13 21:25:10,908 [INFO] 🔁 Scraping every 15 min. Press Ctrl+C to stop.
+2025-05-13 21:25:10,908 [INFO] 
+⏳ Scraping new data...
+2025-05-13 21:25:13,498 [INFO] ✅ Cookie consent accepted.
+2025-05-13 21:25:13,998 [INFO] 📄 Scraping page 1
+2025-05-13 21:25:16,822 [INFO] 📄 Scraping page 2
+2025-05-13 21:25:19,414 [INFO] 📄 Scraping page 3
+2025-05-13 21:25:22,011 [INFO] 📄 Scraping page 4
+2025-05-13 21:25:24,613 [INFO] 📄 Scraping page 5
+2025-05-13 21:25:26,852 [WARNING] 
+❌ Scraper stopped by user.
+2025-05-13 21:25:51,318 [INFO] 🔁 Scraping every 15 min. Press Ctrl+C to stop.
+2025-05-13 21:25:51,318 [INFO] 
+⏳ Scraping new data...
+2025-05-13 21:25:53,915 [INFO] ✅ Cookie consent accepted.
+2025-05-13 21:25:54,416 [INFO] 📄 Scraping page 1
+2025-05-13 21:25:57,231 [INFO] 📄 Scraping page 2
+2025-05-13 21:25:59,877 [INFO] 📄 Scraping page 3
+2025-05-13 21:26:02,562 [INFO] 📄 Scraping page 4
+2025-05-13 21:26:05,177 [INFO] 📄 Scraping page 5
+2025-05-13 21:26:07,823 [INFO] 📄 Scraping page 6
+2025-05-13 21:26:10,459 [INFO] 📄 Scraping page 7
+2025-05-13 21:26:13,056 [INFO] 📄 Scraping page 8
+2025-05-13 21:26:15,761 [INFO] 📄 Scraping page 9
+2025-05-13 21:26:18,392 [INFO] 📄 Scraping page 10
+2025-05-13 21:26:21,072 [INFO] 📄 Scraping page 11
+2025-05-13 21:26:23,704 [INFO] 📄 Scraping page 12
+2025-05-13 21:26:26,374 [INFO] 📄 Scraping page 13
+2025-05-13 21:26:29,021 [INFO] 📄 Scraping page 14
+2025-05-13 21:26:31,625 [INFO] 📄 Scraping page 15
+2025-05-13 21:26:34,207 [INFO] 📄 Scraping page 16
+2025-05-13 21:26:36,788 [INFO] 📄 Scraping page 17
+2025-05-13 21:26:39,422 [INFO] 📄 Scraping page 18
+2025-05-13 21:26:41,989 [INFO] 📄 Scraping page 19
+2025-05-13 21:26:44,760 [INFO] 📄 Scraping page 20
+2025-05-13 21:26:47,469 [INFO] 📄 Scraping page 21
+2025-05-13 21:26:50,118 [INFO] 📄 Scraping page 22
+2025-05-13 21:26:52,843 [INFO] 📄 Scraping page 23
+2025-05-13 21:26:55,597 [INFO] 📄 Scraping page 24
+2025-05-13 21:26:58,590 [INFO] 📄 Scraping page 25
+2025-05-13 21:27:01,339 [INFO] 📄 Scraping page 26
+2025-05-13 21:27:04,007 [INFO] 📄 Scraping page 27
+2025-05-13 21:27:06,824 [INFO] 📄 Scraping page 28
+2025-05-13 21:27:09,521 [INFO] 📄 Scraping page 29
+2025-05-13 21:27:12,223 [INFO] 📄 Scraping page 30
+2025-05-13 21:27:14,941 [INFO] 📄 Scraping page 31
+2025-05-13 21:27:17,586 [INFO] 📄 Scraping page 32
+2025-05-13 21:27:20,254 [INFO] 📄 Scraping page 33
+2025-05-13 21:27:22,935 [INFO] 📄 Scraping page 34
+2025-05-13 21:27:25,669 [INFO] 📄 Scraping page 35
+2025-05-13 21:27:28,338 [INFO] 📄 Scraping page 36
+2025-05-13 21:27:31,263 [INFO] 📄 Scraping page 37
+2025-05-13 21:27:33,954 [INFO] 📄 Scraping page 38
+2025-05-13 21:27:36,569 [INFO] 📄 Scraping page 39
+2025-05-13 21:27:39,171 [INFO] 📄 Scraping page 40
+2025-05-13 21:27:41,739 [INFO] 📄 Scraping page 41
+2025-05-13 21:27:44,318 [INFO] 📄 Scraping page 42
+2025-05-13 21:27:46,920 [INFO] 📄 Scraping page 43
+2025-05-13 21:27:49,504 [INFO] 📄 Scraping page 44
+2025-05-13 21:27:52,071 [INFO] 📄 Scraping page 45
+2025-05-13 21:27:54,650 [INFO] 📄 Scraping page 46
+2025-05-13 21:27:57,268 [INFO] 📄 Scraping page 47
+2025-05-13 21:28:00,240 [INFO] 📄 Scraping page 48
+2025-05-13 21:28:03,317 [INFO] 📄 Scraping page 49
+2025-05-13 21:28:05,901 [INFO] 📄 Scraping page 50
+2025-05-13 21:28:07,465 [INFO] ✅ Reached last page.
+2025-05-13 21:28:07,533 [INFO] 🆕 Added 0 new ads.
+2025-05-13 21:28:07,590 [INFO] 💾 Saved 5690 entries to 'D:\Projects\CodeA\PythonProject\finn_car_scraper\data\finn_cars.json'
+2025-05-13 21:28:37,366 [WARNING] 
+❌ Scraper stopped by user.
+2025-05-13 21:30:55,459 [INFO] 🔁 Scraping every 15 min. Press Ctrl+C to stop.
+2025-05-13 21:30:55,459 [INFO] 
+⏳ Scraping new data...
+2025-05-13 21:30:58,044 [INFO] ✅ Cookie consent accepted.
+2025-05-13 21:30:58,545 [INFO] 📄 Scraping page 1
+2025-05-13 21:31:01,209 [INFO] 📄 Scraping page 2
+2025-05-13 21:31:03,667 [INFO] 📄 Scraping page 3
+2025-05-13 21:31:10,435 [INFO] 📄 Scraping page 4
+2025-05-13 21:31:12,896 [INFO] 📄 Scraping page 5
+2025-05-13 21:31:15,365 [INFO] 📄 Scraping page 6
+2025-05-13 21:31:17,811 [INFO] 📄 Scraping page 7
+2025-05-13 21:31:20,265 [INFO] 📄 Scraping page 8
+2025-05-13 21:31:22,747 [INFO] 📄 Scraping page 9
+2025-05-13 21:31:25,196 [INFO] 📄 Scraping page 10
+2025-05-13 21:31:27,627 [INFO] 📄 Scraping page 11
+2025-05-13 21:31:31,030 [INFO] 📄 Scraping page 12
+2025-05-13 21:31:34,446 [INFO] 📄 Scraping page 13
+2025-05-13 21:31:36,847 [INFO] 📄 Scraping page 14
+2025-05-13 21:31:39,294 [INFO] 📄 Scraping page 15
+2025-05-13 21:31:41,850 [INFO] 📄 Scraping page 16
+2025-05-13 21:31:44,293 [INFO] 📄 Scraping page 17
+2025-05-13 21:31:46,783 [INFO] 📄 Scraping page 18
+2025-05-13 21:31:50,242 [INFO] 📄 Scraping page 19
+2025-05-13 21:31:53,563 [INFO] 📄 Scraping page 20
+2025-05-13 21:31:56,867 [INFO] 📄 Scraping page 21
+2025-05-13 21:31:59,348 [INFO] 📄 Scraping page 22
+2025-05-13 21:32:01,855 [INFO] 📄 Scraping page 23
+2025-05-13 21:32:05,232 [INFO] 📄 Scraping page 24
+2025-05-13 21:32:07,694 [INFO] 📄 Scraping page 25
+2025-05-13 21:32:11,914 [INFO] 📄 Scraping page 26
+2025-05-13 21:32:15,298 [INFO] 📄 Scraping page 27
+2025-05-13 21:32:17,787 [INFO] 📄 Scraping page 28
+2025-05-13 21:32:20,240 [INFO] 📄 Scraping page 29
+2025-05-13 21:32:22,648 [INFO] 📄 Scraping page 30
+2025-05-13 21:32:25,123 [INFO] 📄 Scraping page 31
+2025-05-13 21:32:28,728 [INFO] 📄 Scraping page 32
+2025-05-13 21:32:31,796 [INFO] 📄 Scraping page 33
+2025-05-13 21:32:35,222 [INFO] 📄 Scraping page 34
+2025-05-13 21:32:37,707 [INFO] 📄 Scraping page 35
+2025-05-13 21:32:40,142 [INFO] 📄 Scraping page 36
+2025-05-13 21:32:43,497 [INFO] 📄 Scraping page 37
+2025-05-13 21:32:46,885 [INFO] 📄 Scraping page 38
+2025-05-13 21:32:49,356 [INFO] 📄 Scraping page 39
+2025-05-13 21:32:55,066 [INFO] 📄 Scraping page 40
+2025-05-13 21:32:57,508 [INFO] 📄 Scraping page 41
+2025-05-13 21:32:57,921 [WARNING] 
+❌ Scraper stopped by user.
+2025-05-13 21:32:57,952 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-05-13 21:33:21,103 [INFO] 🔁 Scraping every 15 min. Press Ctrl+C to stop.
+2025-05-13 21:33:21,103 [INFO] 
+⏳ Scraping new data...
+2025-05-13 21:33:23,681 [INFO] ✅ Cookie consent accepted.
+2025-05-13 21:33:24,183 [INFO] 📄 Scraping page 1
+2025-05-13 21:34:29,828 [INFO] 🔁 Scraping every 15 min. Press Ctrl+C to stop.
+2025-05-13 21:34:29,828 [INFO] 
+⏳ Scraping new data...
+2025-05-13 21:34:32,363 [INFO] ✅ Cookie consent accepted.
+2025-05-13 21:34:32,864 [INFO] 📄 Scraping page 1
+2025-05-13 21:35:29,659 [INFO] 📄 Scraping page 2
+2025-05-13 21:36:25,592 [INFO] 📄 Scraping page 3

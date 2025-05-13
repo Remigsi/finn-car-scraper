@@ -49,7 +49,7 @@ def scrape_finn_cars(return_data=False):
         page_number = 1
 
         while True:
-            logging.info(f"📄 Scraping page {page_number}...")
+            logging.info(f"📄 Scraping page {page_number}")
             try:
                 page.wait_for_selector("article.sf-search-ad", timeout=8000)
             except TimeoutError:
@@ -60,41 +60,53 @@ def scrape_finn_cars(return_data=False):
 
             for listing in listings:
                 try:
-                    title = listing.query_selector("h2 a").inner_text().strip()
-                    link = listing.query_selector("h2 a").get_attribute("href")
-
-                    raw_price = listing.query_selector("span.t3.font-bold").inner_text().strip()
-                    price = int(re.sub(r"\D", "", raw_price))
-
-                    details_text = listing.query_selector("span.text-caption.font-bold").inner_text()
-                    details = details_text.split(" ∙ ")
-                    year = int(details[0]) if len(details) > 0 and details[0].isdigit() else 0
-                    mileage = int(re.sub(r"\D", "", details[1])) if len(details) > 1 else 999_999
-
-                    # 🧠 Basic filter
-                    if price > 10_000 or year <= 2019 or mileage >= 100_000:
+                    title_elem = listing.query_selector("h2 a")
+                    if not title_elem:
                         continue
 
-                    # 👀 Go into ad and check for "Månedspris"
-                    page_context = page.context
-                    ad_page = page_context.new_page()
-                    ad_page.goto(link, timeout=15000)
+                    title = title_elem.inner_text().strip()
+                    link = title_elem.get_attribute("href")
+                    if not link:
+                        continue
 
+                    # 📌 Parse price
+                    raw_price_elem = listing.query_selector("span.t3.font-bold")
+                    raw_price = raw_price_elem.inner_text().strip() if raw_price_elem else "0"
+                    price = int(re.sub(r"\D", "", raw_price) or 0)
+
+                    # 📌 Parse year, mileage, etc.
+                    details_text_elem = listing.query_selector("span.text-caption.font-bold")
+                    details_text = details_text_elem.inner_text() if details_text_elem else ""
+                    details = details_text.split(" ∙ ")
+                    year = int(details[0]) if len(details) > 0 and details[0].isdigit() else 0
+                    mileage = int(re.sub(r"\D", "", details[1])) if len(details) > 1 else 999999
+
+                    # 🚫 Filter out ads that don’t meet your thresholds
+                    if price < 10000 and year >= 2019 and mileage <= 100000:
+                        print(f"❌ Skipped (filter) - {title}: {price} NOK, {year}, {mileage} km")
+                        continue
+
+                    # 👁️ Check for 'Månedspris' inside ad page
+                    ad_page = page.context.new_page()
                     try:
-                        ad_page.wait_for_selector("p.s-text-subtle", timeout=3000)
-                        monthly_texts = ad_page.query_selector_all("p.s-text-subtle")
-                        if any("Månedspris" in el.inner_text() for el in monthly_texts):
-                            logging.info(f"⏩ Skipping ad (monthly payment): {link}")
+                        ad_page.goto(link, timeout=15000)
+                        ad_page.wait_for_selector("body", timeout=3000)
+
+                        monthly_tags = ad_page.query_selector_all("p.s-text-subtle")
+                        if any("Månedspris" in (el.inner_text() or "") for el in monthly_tags):
+                            print(f"⏩ Skipped (monthly payment): {title}")
                             ad_page.close()
                             continue
-                    except:
-                        pass
-                    ad_page.close()
+                    except Exception as e:
+                        print(f"⚠️ Ad page error for {title}: {e}")
+                    finally:
+                        ad_page.close()
 
-                    # 📦 Extract other data
+                    # 📦 Finish parsing rest of data
                     transmission = details[2] if len(details) > 2 else "N/A"
                     fuel = details[3] if len(details) > 3 else "N/A"
-                    location = listing.query_selector("div.text-detail span:first-child").inner_text().strip()
+                    location_elem = listing.query_selector("div.text-detail span:first-child")
+                    location = location_elem.inner_text().strip() if location_elem else "N/A"
                     ad_id_elem = listing.query_selector("div.absolute[aria-owns^='search-ad-']")
                     ad_id = ad_id_elem.get_attribute("aria-owns").replace("search-ad-", "") if ad_id_elem else "N/A"
 
@@ -110,8 +122,10 @@ def scrape_finn_cars(return_data=False):
                         "Link": link
                     })
 
+                    # print(f"✅ Added: {title} | {price} NOK | {year} | {mileage} km")
+
                 except Exception as e:
-                    # logging.warning(f"⚠️ Error in ad parsing: {e}")
+                    print(f"⚠️ Error parsing listing: {e}")
                     continue
 
             if not go_to_next_page(page, page_number):
