@@ -36631,3 +36631,120 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-05-14 23:11:25,787 [INFO] ✅ Cookie consent accepted.
 2025-05-14 23:11:26,169 [WARNING] 
 ❌ Scraper stopped by user.
+2025-05-14 23:16:08,214 [INFO] 🔁 Scraping every 15 min. Press Ctrl+C to stop.
+2025-05-14 23:16:08,214 [INFO] 
+⏳ Scraping new data...
+2025-05-14 23:16:10,784 [INFO] ✅ Cookie consent accepted.
+2025-05-14 23:16:11,286 [INFO] 📄 Scraping page 1
+2025-05-14 23:16:12,902 [INFO] ⏩ Skipped (price is 0): Subaru Legacy
+2025-05-14 23:16:14,468 [INFO] 📄 Scraping page 2
+2025-05-14 23:16:17,590 [INFO] 📄 Scraping page 3
+2025-05-14 23:16:20,534 [INFO] 📄 Scraping page 4
+2025-05-14 23:16:23,435 [INFO] 📄 Scraping page 5
+2025-05-14 23:16:26,397 [INFO] 📄 Scraping page 6
+2025-05-14 23:16:29,365 [INFO] 📄 Scraping page 7
+2025-05-14 23:16:29,932 [INFO] ✅ Found suspicious car: BYD Tang (Price: 6990, Year: 2023, Mileage: 18000)
+2025-05-14 23:16:32,289 [INFO] ⏩ Skipped (monthly payment): BYD Tang
+2025-05-14 23:16:34,614 [INFO] 📄 Scraping page 8
+2025-05-14 23:16:37,516 [INFO] 📄 Scraping page 9
+2025-05-14 23:16:40,464 [INFO] 📄 Scraping page 10
+2025-05-14 23:16:43,373 [INFO] 📄 Scraping page 11
+2025-05-14 23:16:46,247 [INFO] 📄 Scraping page 12
+2025-05-14 23:16:49,147 [INFO] 📄 Scraping page 13
+2025-05-14 23:16:49,527 [INFO] ✅ Found suspicious car: Tesla Model 3 (Price: 3992, Year: 2020, Mileage: 94932)
+2025-05-14 23:16:50,851 [INFO] ⏩ Skipped (monthly payment): Tesla Model 3
+2025-05-14 23:16:53,397 [INFO] 📄 Scraping page 14
+2025-05-14 23:16:53,808 [INFO] ✅ Found suspicious car: BYD Sealion 7 (Price: 3990, Year: 2025, Mileage: 10)
+2025-05-14 23:16:56,186 [INFO] ⏩ Skipped (monthly payment): BYD Sealion 7
+2025-05-14 23:16:57,173 [INFO] ✅ Found suspicious car: Hyundai Kona (Price: 5599, Year: 2024, Mileage: 7942)
+2025-05-14 23:16:59,475 [INFO] ⏩ Skipped (monthly payment): Hyundai Kona
+2025-05-14 23:17:00,980 [INFO] 📄 Scraping page 15
+2025-05-14 23:17:01,312 [INFO] ✅ Found suspicious car: BYD Dolphin (Price: 1784, Year: 2024, Mileage: 10)
+2025-05-14 23:17:04,181 [INFO] ⏩ Skipped (monthly payment): BYD Dolphin
+2025-05-14 23:17:06,731 [INFO] 📄 Scraping page 16
+2025-05-14 23:17:09,630 [INFO] 📄 Scraping page 17
+2025-05-14 23:17:09,767 [INFO] ✅ Found suspicious car: BMW i4 M50 (Price: 11900, Year: 2025, Mileage: 50)
+2025-05-14 23:17:12,119 [INFO] ⏩ Skipped (monthly payment): BMW i4 M50
+2025-05-14 23:17:14,897 [INFO] 📄 Scraping page 18
+2025-05-14 23:17:17,801 [INFO] 📄 Scraping page 19
+2025-05-14 23:17:20,730 [INFO] 📄 Scraping page 20
+2025-05-14 23:17:23,631 [INFO] 📄 Scraping page 21
+2025-05-14 23:17:25,391 [INFO] ⏩ Skipped (price is 0): Toyota Auris
+2025-05-14 23:17:26,496 [INFO] 📄 Scraping page 22
+2025-05-14 23:17:29,411 [INFO] 📄 Scraping page 23
+2025-05-14 23:17:30,266 [INFO] ✅ Found suspicious car: Mercedes-Benz GLC (Price: 10254, Year: 2024, Mileage: 2000)
+2025-05-14 23:17:31,431 [INFO] ⏩ Skipped (monthly payment): Mercedes-Benz GLC
+2025-05-14 23:17:33,478 [INFO] 📄 Scraping page 24
+2025-05-14 23:17:36,362 [INFO] 📄 Scraping page 25
+2025-05-14 23:17:39,330 [INFO] 📄 Scraping page 26
+2025-05-14 23:17:40,134 [INFO] ⏩ Skipped (price is 0): Kia Soul
+2025-05-14 23:17:42,245 [INFO] 📄 Scraping page 27
+2025-05-14 23:17:45,162 [INFO] 📄 Scraping page 28
+2025-05-14 23:17:48,078 [INFO] 📄 Scraping page 29
+2025-05-14 23:17:50,979 [INFO] 📄 Scraping page 30
+2025-05-14 23:17:53,895 [INFO] 📄 Scraping page 31
+2025-05-14 23:17:56,811 [INFO] 📄 Scraping page 32
+2025-05-14 23:17:57,405 [INFO] ⏩ Skipped (price is 0): Tesla Model 3
+2025-05-14 23:17:58,262 [INFO] ✅ Found suspicious car: Tesla Model Y (Price: 5490, Year: 2021, Mileage: 94000)
+2025-05-14 23:18:00,608 [INFO] ⏩ Skipped (monthly payment): Tesla Model Y
+2025-05-14 23:18:02,096 [INFO] 📄 Scraping page 33
+2025-05-14 23:18:04,993 [INFO] 📄 Scraping page 34
+2025-05-14 23:18:05,469 [INFO] ⏩ Skipped (price is 0): Honda CR-V
+2025-05-14 23:18:07,861 [INFO] 📄 Scraping page 35
+2025-05-14 23:18:08,178 [INFO] ✅ Found suspicious car: Nissan Ariya (Price: 4620, Year: 2025, Mileage: 20)
+2025-05-14 23:18:10,396 [INFO] ⏩ Skipped (monthly payment): Nissan Ariya
+2025-05-14 23:18:10,750 [INFO] ✅ Found suspicious car: BYD Sealion 7 (Price: 4052, Year: 2025, Mileage: 10)
+2025-05-14 23:18:13,085 [INFO] ⏩ Skipped (monthly payment): BYD Sealion 7
+2025-05-14 23:18:15,364 [INFO] 📄 Scraping page 36
+2025-05-14 23:18:16,218 [INFO] ⏩ Skipped (price is 0): Skoda Superb
+2025-05-14 23:18:17,057 [INFO] ⏩ Skipped (price is 0): Skoda Octavia
+2025-05-14 23:18:18,304 [INFO] 📄 Scraping page 37
+2025-05-14 23:18:18,784 [INFO] ✅ Found suspicious car: Mazda MX-30 (Price: 1199, Year: 2025, Mileage: 4000)
+2025-05-14 23:18:21,051 [INFO] ⏩ Skipped (monthly payment): Mazda MX-30
+2025-05-14 23:18:23,554 [INFO] 📄 Scraping page 38
+2025-05-14 23:18:24,138 [INFO] ⏩ Skipped (price is 0): BMW i4 M50
+2025-05-14 23:18:24,267 [INFO] ✅ Found suspicious car: Volkswagen ID.4 (Price: 4160, Year: 2025, Mileage: 10)
+2025-05-14 23:18:26,818 [INFO] ⏩ Skipped (monthly payment): Volkswagen ID.4
+2025-05-14 23:18:28,993 [INFO] 📄 Scraping page 39
+2025-05-14 23:18:29,199 [INFO] ✅ Found suspicious car: Hyundai Inster (Price: 2680, Year: 2025, Mileage: 10)
+2025-05-14 23:18:31,577 [INFO] ⏩ Skipped (monthly payment): Hyundai Inster
+2025-05-14 23:18:31,666 [INFO] ⏩ Skipped (price is 0): Audi e-tron
+2025-05-14 23:18:32,712 [INFO] ⏩ Skipped (price is 0): Polestar 2
+2025-05-14 23:18:32,844 [INFO] ✅ Found suspicious car: Nissan Leaf (Price: 3500, Year: 2022, Mileage: 14900)
+2025-05-14 23:18:34,990 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 23:18:35,237 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-14 23:18:36,391 [INFO] 📄 Scraping page 40
+2025-05-14 23:18:36,557 [INFO] ✅ Found suspicious car: BMW i4 M50 (Price: 7021, Year: 2024, Mileage: 20000)
+2025-05-14 23:18:38,874 [INFO] ⏩ Skipped (monthly payment): BMW i4 M50
+2025-05-14 23:18:39,048 [INFO] ✅ Found suspicious car: MG MG4 (Price: 8490, Year: 2024, Mileage: 15000)
+2025-05-14 23:18:41,507 [INFO] ⏩ Skipped (monthly payment): MG MG4
+2025-05-14 23:18:44,076 [INFO] 📄 Scraping page 41
+2025-05-14 23:18:44,902 [INFO] ⏩ Skipped (price is 0): Toyota C-HR
+2025-05-14 23:18:44,946 [INFO] ⏩ Skipped (price is 0): Toyota RAV4
+2025-05-14 23:18:46,907 [INFO] 📄 Scraping page 42
+2025-05-14 23:18:49,829 [INFO] 📄 Scraping page 43
+2025-05-14 23:18:50,172 [INFO] ⏩ Skipped (price is 0): Kia Soul
+2025-05-14 23:18:52,795 [INFO] 📄 Scraping page 44
+2025-05-14 23:18:53,060 [INFO] ⏩ Skipped (price is 0): Mitsubishi Outlander
+2025-05-14 23:18:53,608 [INFO] ⏩ Skipped (price is 0): Jaguar I-PACE
+2025-05-14 23:18:55,755 [INFO] 📄 Scraping page 45
+2025-05-14 23:18:56,049 [INFO] ⏩ Skipped (price is 0): Audi Q5
+2025-05-14 23:18:56,210 [INFO] ✅ Found suspicious car: Toyota bZ4X (Price: 4640, Year: 2023, Mileage: 22700)
+2025-05-14 23:18:58,527 [INFO] ⏩ Skipped (monthly payment): Toyota bZ4X
+2025-05-14 23:18:58,985 [INFO] ⏩ Skipped (price is 0): Mercedes-Benz SL
+2025-05-14 23:19:00,959 [INFO] 📄 Scraping page 46
+2025-05-14 23:19:02,390 [INFO] ✅ Found suspicious car: Volkswagen ID.5 GTX (Price: 6129, Year: 2023, Mileage: 39100)
+2025-05-14 23:19:03,639 [INFO] ⏩ Skipped (monthly payment): Volkswagen ID.5 GTX
+2025-05-14 23:19:05,126 [INFO] 📄 Scraping page 47
+2025-05-14 23:19:08,159 [INFO] 📄 Scraping page 48
+2025-05-14 23:19:08,794 [INFO] ✅ Found suspicious car: Nissan Leaf (Price: 4900, Year: 2023, Mileage: 33000)
+2025-05-14 23:19:11,093 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 23:19:13,445 [INFO] 📄 Scraping page 49
+2025-05-14 23:19:14,181 [INFO] ✅ Found suspicious car: Nissan Leaf (Price: 2500, Year: 2022, Mileage: 47000)
+2025-05-14 23:19:16,527 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 23:19:18,710 [INFO] 📄 Scraping page 50
+2025-05-14 23:19:19,134 [INFO] ✅ Found suspicious car: Peugeot 3008 (Price: 7500, Year: 2024, Mileage: 7300)
+2025-05-14 23:19:20,628 [INFO] ⏩ Skipped (monthly payment): Peugeot 3008
+2025-05-14 23:19:22,106 [INFO] ✅ Reached last page.
+2025-05-14 23:19:22,181 [INFO] 🆕 Added 62 new ads.
+2025-05-14 23:19:22,207 [INFO] 💾 Saved 2568 entries to 'D:\Projects\CodeA\PythonProject\finn_car_scraper\data\finn_cars.json'
