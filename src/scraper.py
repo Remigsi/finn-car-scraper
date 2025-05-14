@@ -73,6 +73,12 @@ def scrape_finn_cars(return_data=False):
                     raw_price = raw_price_elem.inner_text().strip() if raw_price_elem else "0"
                     price = int(re.sub(r"\D", "", raw_price) or 0)
 
+                    if price == 0:
+                        logging.info(f"⏩ Skipped (price is 0): {title}")
+                        continue
+
+
+
                     # Parse year, mileage
                     details_text_elem = listing.query_selector("span.text-caption.font-bold")
                     details_text = details_text_elem.inner_text() if details_text_elem else ""
@@ -81,8 +87,9 @@ def scrape_finn_cars(return_data=False):
                     mileage = int(re.sub(r"\D", "", details[1])) if len(details) > 1 else 999999
 
                     # ✅ Pre-filter the ads (price <= 10000 and year >= 2020 and mileage <= 100000)
-                    if (price <= 10000 and year >= 2020 and mileage <= 100000):
-                        # continue  # Skip ads that don't meet the filter criteria
+                    if price <= 15000 and year >= 2020 and mileage <= 100000:
+                        logging.info(
+                            f"✅ Found suspicious car: {title} (Price: {price}, Year: {year}, Mileage: {mileage})")
 
                         # Open ad page to check for monthly payment info
                         ad_page = context.new_page()
@@ -90,20 +97,19 @@ def scrape_finn_cars(return_data=False):
                             ad_page.goto(link, timeout=10000)
                             ad_page.wait_for_selector("body", timeout=3000)
 
-                            # Look for Månedspris indicator
-                            monthly_texts = ad_page.query_selector_all("p.s-text-subtle")
-                            if any("Månedspris" in (el.inner_text() or "") for el in monthly_texts):
+                            # Check for "Månedspris"
+                            monthly_info = ad_page.query_selector_all("p")
+                            if any("Månedspris" in (p.inner_text() or "") for p in monthly_info):
                                 logging.info(f"⏩ Skipped (monthly payment): {title}")
-                                ad_page.close()
-                                continue  # Skip ads with monthly payment options
+                                continue  # Skip ads with monthly payments
 
-                            ad_page.close()
                         except Exception as e:
                             logging.warning(f"⚠️ Could not open ad page for '{title}': {e}")
-                            ad_page.close()
                             continue
+                        finally:
+                            ad_page.close()
 
-                        # Parse remaining details and add to the list
+                        # ✅ Passed all checks → Add car
                         transmission = details[2] if len(details) > 2 else "N/A"
                         fuel = details[3] if len(details) > 3 else "N/A"
                         location_elem = listing.query_selector("div.text-detail span:first-child")
@@ -111,7 +117,6 @@ def scrape_finn_cars(return_data=False):
                         ad_id_elem = listing.query_selector("div.absolute[aria-owns^='search-ad-']")
                         ad_id = ad_id_elem.get_attribute("aria-owns").replace("search-ad-", "") if ad_id_elem else "N/A"
 
-                        # Add the valid car to the list
                         car_data.append({
                             "Annonse ID": ad_id,
                             "Title": title,
@@ -122,6 +127,33 @@ def scrape_finn_cars(return_data=False):
                             "Fuel": fuel,
                             "Location": location
                         })
+
+                    else:
+
+                        logging.info(f"⏩ Car is not suspicious: {title}")
+
+
+
+                        # ✅ Add car to list regardless of being suspicious
+                        transmission = details[2] if len(details) > 2 else "N/A"
+                        fuel = details[3] if len(details) > 3 else "N/A"
+                        location_elem = listing.query_selector("div.text-detail span:first-child")
+                        location = location_elem.inner_text().strip() if location_elem else "N/A"
+                        ad_id_elem = listing.query_selector("div.absolute[aria-owns^='search-ad-']")
+                        ad_id = ad_id_elem.get_attribute("aria-owns").replace("search-ad-", "") if ad_id_elem else "N/A"
+
+                        car_data.append({
+                            "Annonse ID": ad_id,
+                            "Title": title,
+                            "Price": price,
+                            "Year": year,
+                            "Mileage": mileage,
+                            "Transmission": transmission,
+                            "Fuel": fuel,
+                            "Location": location
+                        })
+
+
 
                 except Exception as e:
                     logging.error(f"⚠️ Error parsing listing: {e}")

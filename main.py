@@ -2,6 +2,7 @@
 
 from src.scraper import scrape_finn_cars
 from src.data_handler import save_data
+from logging.handlers import RotatingFileHandler
 import logging
 import os
 import json
@@ -14,11 +15,20 @@ LOG_DIR = "logs"
 LOG_FILE = os.path.join(LOG_DIR, "main.log")
 os.makedirs(LOG_DIR, exist_ok=True)
 
+
+# Create rotating file handler (max 5 MB per file, keep 5 backups)
+rotating_handler = RotatingFileHandler(
+    LOG_FILE,
+    maxBytes=5 * 1024 * 1024,  # 5 MB
+    backupCount=5,
+    encoding="utf-8"
+)
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
     handlers=[
-        logging.FileHandler(LOG_FILE, encoding="utf-8"),
+        rotating_handler,
         logging.StreamHandler()  # optional: still see output in terminal
     ]
 )
