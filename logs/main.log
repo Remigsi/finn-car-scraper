@@ -4826,3 +4826,304 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-05-14 18:40:54,116 [INFO] 📄 Scraping page 13
 2025-05-14 18:40:56,578 [INFO] 📄 Scraping page 14
 2025-05-14 18:40:59,225 [INFO] 📄 Scraping page 15
+2025-05-14 18:41:01,763 [INFO] 📄 Scraping page 16
+2025-05-14 18:41:04,362 [INFO] 📄 Scraping page 17
+2025-05-14 18:41:06,785 [INFO] 📄 Scraping page 18
+2025-05-14 18:41:09,252 [INFO] 📄 Scraping page 19
+2025-05-14 18:41:11,643 [INFO] 📄 Scraping page 20
+2025-05-14 18:41:14,061 [INFO] 📄 Scraping page 21
+2025-05-14 18:41:16,422 [INFO] 📄 Scraping page 22
+2025-05-14 18:41:18,810 [INFO] 📄 Scraping page 23
+2025-05-14 18:41:22,128 [INFO] 📄 Scraping page 24
+2025-05-14 18:41:23,241 [INFO] ⏩ Skipped (monthly payment): Tesla Model Y
+2025-05-14 18:41:25,510 [INFO] 📄 Scraping page 25
+2025-05-14 18:41:27,909 [INFO] 📄 Scraping page 26
+2025-05-14 18:41:29,418 [INFO] ⏩ Skipped (monthly payment): Nissan Ariya
+2025-05-14 18:41:30,540 [INFO] ⏩ Skipped (monthly payment): BYD Sealion 7
+2025-05-14 18:41:32,077 [INFO] 📄 Scraping page 27
+2025-05-14 18:41:34,495 [INFO] 📄 Scraping page 28
+2025-05-14 18:41:36,970 [INFO] ⏩ Skipped (monthly payment): Mazda MX-30
+2025-05-14 18:41:38,611 [INFO] 📄 Scraping page 29
+2025-05-14 18:41:41,122 [INFO] ⏩ Skipped (monthly payment): Volkswagen ID.4
+2025-05-14 18:41:42,622 [INFO] 📄 Scraping page 30
+2025-05-14 18:41:44,364 [INFO] ⏩ Skipped (monthly payment): Hyundai Inster
+2025-05-14 18:41:46,177 [INFO] 📄 Scraping page 31
+2025-05-14 18:41:48,046 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 18:41:48,227 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-14 18:41:49,252 [INFO] ⏩ Skipped (monthly payment): BMW i4 M50
+2025-05-14 18:41:50,798 [INFO] ⏩ Skipped (monthly payment): MG MG4
+2025-05-14 18:41:52,525 [INFO] 📄 Scraping page 32
+2025-05-14 18:41:54,894 [INFO] 📄 Scraping page 33
+2025-05-14 18:41:57,276 [INFO] 📄 Scraping page 34
+2025-05-14 18:41:59,677 [INFO] 📄 Scraping page 35
+2025-05-14 18:42:04,045 [INFO] 📄 Scraping page 36
+2025-05-14 18:42:05,702 [INFO] ⏩ Skipped (monthly payment): Toyota bZ4X
+2025-05-14 18:42:07,357 [INFO] 📄 Scraping page 37
+2025-05-14 18:42:09,758 [INFO] 📄 Scraping page 38
+2025-05-14 18:42:10,761 [INFO] ⏩ Skipped (monthly payment): Volkswagen ID.5 GTX
+2025-05-14 18:42:12,990 [INFO] 📄 Scraping page 39
+2025-05-14 18:42:14,808 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 18:42:16,294 [INFO] 📄 Scraping page 40
+2025-05-14 18:42:18,204 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 18:42:19,558 [INFO] 📄 Scraping page 41
+2025-05-14 18:42:21,360 [INFO] ⏩ Skipped (monthly payment): Peugeot 3008
+2025-05-14 18:42:22,923 [INFO] 📄 Scraping page 42
+2025-05-14 18:42:25,339 [INFO] 📄 Scraping page 43
+2025-05-14 18:42:27,719 [INFO] 📄 Scraping page 44
+2025-05-14 18:42:30,089 [INFO] 📄 Scraping page 45
+2025-05-14 18:42:32,502 [INFO] 📄 Scraping page 46
+2025-05-14 18:42:34,408 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-14 18:42:35,185 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-14 18:42:36,256 [INFO] 📄 Scraping page 47
+2025-05-14 18:42:37,203 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-14 18:42:38,360 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-14 18:42:40,557 [INFO] 📄 Scraping page 48
+2025-05-14 18:42:44,107 [INFO] 📄 Scraping page 49
+2025-05-14 18:42:44,468 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-14 18:42:44,923 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-14 18:42:46,470 [INFO] 📄 Scraping page 50
+2025-05-14 18:42:47,818 [INFO] ✅ Reached last page.
+2025-05-14 18:42:47,888 [INFO] 🆕 Added 5 new ads.
+2025-05-14 18:42:47,949 [INFO] 💾 Saved 6110 entries to 'D:\Projects\CodeA\PythonProject\finn_car_scraper\data\finn_cars.json'
+2025-05-14 18:57:48,940 [INFO] 
+⏳ Scraping new data...
+2025-05-14 18:57:53,745 [INFO] ✅ Cookie consent accepted.
+2025-05-14 18:57:54,246 [INFO] 📄 Scraping page 1
+2025-05-14 18:57:56,780 [INFO] 📄 Scraping page 2
+2025-05-14 18:57:59,174 [INFO] 📄 Scraping page 3
+2025-05-14 18:58:01,673 [INFO] 📄 Scraping page 4
+2025-05-14 18:58:03,896 [INFO] ⏩ Skipped (monthly payment): Tesla Model 3
+2025-05-14 18:58:05,110 [INFO] 📄 Scraping page 5
+2025-05-14 18:58:07,257 [INFO] ⏩ Skipped (monthly payment): BYD Sealion 7
+2025-05-14 18:58:08,413 [INFO] 📄 Scraping page 6
+2025-05-14 18:58:09,969 [INFO] ⏩ Skipped (monthly payment): Hyundai Kona
+2025-05-14 18:58:11,224 [INFO] ⏩ Skipped (monthly payment): BYD Dolphin
+2025-05-14 18:58:12,431 [INFO] 📄 Scraping page 7
+2025-05-14 18:58:14,803 [INFO] 📄 Scraping page 8
+2025-05-14 18:58:17,292 [INFO] 📄 Scraping page 9
+2025-05-14 18:58:19,669 [INFO] 📄 Scraping page 10
+2025-05-14 18:58:22,119 [INFO] 📄 Scraping page 11
+2025-05-14 18:58:24,520 [INFO] 📄 Scraping page 12
+2025-05-14 18:58:26,879 [INFO] 📄 Scraping page 13
+2025-05-14 18:58:29,251 [INFO] 📄 Scraping page 14
+2025-05-14 18:58:31,634 [INFO] 📄 Scraping page 15
+2025-05-14 18:58:34,001 [INFO] 📄 Scraping page 16
+2025-05-14 18:58:36,352 [INFO] 📄 Scraping page 17
+2025-05-14 18:58:38,719 [INFO] 📄 Scraping page 18
+2025-05-14 18:58:41,034 [INFO] 📄 Scraping page 19
+2025-05-14 18:58:43,436 [INFO] 📄 Scraping page 20
+2025-05-14 18:58:45,876 [INFO] 📄 Scraping page 21
+2025-05-14 18:58:48,241 [INFO] 📄 Scraping page 22
+2025-05-14 18:58:50,634 [INFO] 📄 Scraping page 23
+2025-05-14 18:58:52,985 [INFO] 📄 Scraping page 24
+2025-05-14 18:58:55,598 [INFO] ⏩ Skipped (monthly payment): Tesla Model Y
+2025-05-14 18:58:57,203 [INFO] 📄 Scraping page 25
+2025-05-14 18:58:59,573 [INFO] 📄 Scraping page 26
+2025-05-14 18:59:01,611 [INFO] ⏩ Skipped (monthly payment): Nissan Ariya
+2025-05-14 18:59:02,752 [INFO] 📄 Scraping page 27
+2025-05-14 18:59:03,783 [INFO] ⏩ Skipped (monthly payment): BYD Sealion 7
+2025-05-14 18:59:05,925 [INFO] 📄 Scraping page 28
+2025-05-14 18:59:09,318 [INFO] 📄 Scraping page 29
+2025-05-14 18:59:10,167 [INFO] ⏩ Skipped (monthly payment): Mazda MX-30
+2025-05-14 18:59:12,398 [INFO] 📄 Scraping page 30
+2025-05-14 18:59:14,325 [INFO] ⏩ Skipped (monthly payment): Volkswagen ID.4
+2025-05-14 18:59:15,962 [INFO] ⏩ Skipped (monthly payment): Hyundai Inster
+2025-05-14 18:59:17,185 [INFO] 📄 Scraping page 31
+2025-05-14 18:59:19,680 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 18:59:19,847 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-14 18:59:20,881 [INFO] ⏩ Skipped (monthly payment): BMW i4 M50
+2025-05-14 18:59:22,593 [INFO] ⏩ Skipped (monthly payment): MG MG4
+2025-05-14 18:59:23,702 [INFO] 📄 Scraping page 32
+2025-05-14 18:59:26,080 [INFO] 📄 Scraping page 33
+2025-05-14 18:59:28,414 [INFO] 📄 Scraping page 34
+2025-05-14 18:59:30,766 [INFO] 📄 Scraping page 35
+2025-05-14 18:59:33,115 [INFO] 📄 Scraping page 36
+2025-05-14 18:59:36,348 [INFO] 📄 Scraping page 37
+2025-05-14 18:59:37,284 [INFO] ⏩ Skipped (monthly payment): Toyota bZ4X
+2025-05-14 18:59:39,645 [INFO] 📄 Scraping page 38
+2025-05-14 18:59:41,385 [INFO] ⏩ Skipped (monthly payment): Volkswagen ID.5 GTX
+2025-05-14 18:59:43,017 [INFO] 📄 Scraping page 39
+2025-05-14 18:59:45,331 [INFO] 📄 Scraping page 40
+2025-05-14 18:59:46,416 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 18:59:48,568 [INFO] 📄 Scraping page 41
+2025-05-14 18:59:49,894 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 18:59:52,016 [INFO] 📄 Scraping page 42
+2025-05-14 18:59:53,036 [INFO] ⏩ Skipped (monthly payment): Peugeot 3008
+2025-05-14 18:59:55,324 [INFO] 📄 Scraping page 43
+2025-05-14 18:59:57,779 [INFO] 📄 Scraping page 44
+2025-05-14 19:00:00,133 [INFO] 📄 Scraping page 45
+2025-05-14 19:00:02,564 [INFO] 📄 Scraping page 46
+2025-05-14 19:00:04,917 [INFO] 📄 Scraping page 47
+2025-05-14 19:00:05,970 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-14 19:00:06,661 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-14 19:00:07,502 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-14 19:00:08,279 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-14 19:00:09,974 [INFO] 📄 Scraping page 48
+2025-05-14 19:00:13,566 [INFO] 📄 Scraping page 49
+2025-05-14 19:00:14,414 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-14 19:00:14,864 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-14 19:00:15,963 [INFO] 📄 Scraping page 50
+2025-05-14 19:00:17,227 [INFO] ✅ Reached last page.
+2025-05-14 19:00:17,290 [INFO] 🆕 Added 0 new ads.
+2025-05-14 19:00:17,353 [INFO] 💾 Saved 6110 entries to 'D:\Projects\CodeA\PythonProject\finn_car_scraper\data\finn_cars.json'
+2025-05-14 19:15:18,024 [INFO] 
+⏳ Scraping new data...
+2025-05-14 19:15:22,874 [INFO] ✅ Cookie consent accepted.
+2025-05-14 19:15:23,375 [INFO] 📄 Scraping page 1
+2025-05-14 19:15:25,929 [INFO] 📄 Scraping page 2
+2025-05-14 19:15:28,452 [INFO] 📄 Scraping page 3
+2025-05-14 19:15:30,848 [INFO] 📄 Scraping page 4
+2025-05-14 19:15:33,244 [INFO] 📄 Scraping page 5
+2025-05-14 19:15:35,086 [INFO] ⏩ Skipped (monthly payment): Tesla Model 3
+2025-05-14 19:15:36,660 [INFO] 📄 Scraping page 6
+2025-05-14 19:15:38,444 [INFO] ⏩ Skipped (monthly payment): BYD Sealion 7
+2025-05-14 19:15:39,943 [INFO] 📄 Scraping page 7
+2025-05-14 19:15:41,141 [INFO] ⏩ Skipped (monthly payment): Hyundai Kona
+2025-05-14 19:15:42,715 [INFO] ⏩ Skipped (monthly payment): BYD Dolphin
+2025-05-14 19:15:44,267 [INFO] 📄 Scraping page 8
+2025-05-14 19:15:46,660 [INFO] 📄 Scraping page 9
+2025-05-14 19:15:49,011 [INFO] 📄 Scraping page 10
+2025-05-14 19:15:51,376 [INFO] 📄 Scraping page 11
+2025-05-14 19:15:53,728 [INFO] 📄 Scraping page 12
+2025-05-14 19:15:56,091 [INFO] 📄 Scraping page 13
+2025-05-14 19:15:58,457 [INFO] 📄 Scraping page 14
+2025-05-14 19:16:00,823 [INFO] 📄 Scraping page 15
+2025-05-14 19:16:03,242 [INFO] 📄 Scraping page 16
+2025-05-14 19:16:05,628 [INFO] 📄 Scraping page 17
+2025-05-14 19:16:08,009 [INFO] 📄 Scraping page 18
+2025-05-14 19:16:10,393 [INFO] 📄 Scraping page 19
+2025-05-14 19:16:12,762 [INFO] 📄 Scraping page 20
+2025-05-14 19:16:15,192 [INFO] 📄 Scraping page 21
+2025-05-14 19:16:17,566 [INFO] 📄 Scraping page 22
+2025-05-14 19:16:19,910 [INFO] 📄 Scraping page 23
+2025-05-14 19:16:22,292 [INFO] 📄 Scraping page 24
+2025-05-14 19:16:25,576 [INFO] 📄 Scraping page 25
+2025-05-14 19:16:27,001 [INFO] ⏩ Skipped (monthly payment): Tesla Model Y
+2025-05-14 19:16:29,131 [INFO] 📄 Scraping page 26
+2025-05-14 19:16:31,543 [INFO] 📄 Scraping page 27
+2025-05-14 19:16:33,065 [INFO] ⏩ Skipped (monthly payment): Nissan Ariya
+2025-05-14 19:16:34,147 [INFO] ⏩ Skipped (monthly payment): BYD Sealion 7
+2025-05-14 19:16:35,490 [INFO] 📄 Scraping page 28
+2025-05-14 19:16:37,842 [INFO] 📄 Scraping page 29
+2025-05-14 19:16:40,426 [INFO] ⏩ Skipped (monthly payment): Mazda MX-30
+2025-05-14 19:16:41,911 [INFO] 📄 Scraping page 30
+2025-05-14 19:16:44,632 [INFO] ⏩ Skipped (monthly payment): Volkswagen ID.4
+2025-05-14 19:16:45,916 [INFO] 📄 Scraping page 31
+2025-05-14 19:16:47,469 [INFO] ⏩ Skipped (monthly payment): Hyundai Inster
+2025-05-14 19:16:49,058 [INFO] 📄 Scraping page 32
+2025-05-14 19:16:51,152 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 19:16:51,351 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-14 19:16:52,340 [INFO] ⏩ Skipped (monthly payment): BMW i4 M50
+2025-05-14 19:16:53,919 [INFO] ⏩ Skipped (monthly payment): MG MG4
+2025-05-14 19:16:55,428 [INFO] 📄 Scraping page 33
+2025-05-14 19:16:57,824 [INFO] 📄 Scraping page 34
+2025-05-14 19:17:00,258 [INFO] 📄 Scraping page 35
+2025-05-14 19:17:02,674 [INFO] 📄 Scraping page 36
+2025-05-14 19:17:05,947 [INFO] 📄 Scraping page 37
+2025-05-14 19:17:07,740 [INFO] ⏩ Skipped (monthly payment): Toyota bZ4X
+2025-05-14 19:17:09,174 [INFO] 📄 Scraping page 38
+2025-05-14 19:17:11,525 [INFO] 📄 Scraping page 39
+2025-05-14 19:17:12,822 [INFO] ⏩ Skipped (monthly payment): Volkswagen ID.5 GTX
+2025-05-14 19:17:14,838 [INFO] 📄 Scraping page 40
+2025-05-14 19:17:16,787 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 19:17:18,155 [INFO] 📄 Scraping page 41
+2025-05-14 19:17:20,195 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 19:17:21,407 [INFO] 📄 Scraping page 42
+2025-05-14 19:17:23,284 [INFO] ⏩ Skipped (monthly payment): Peugeot 3008
+2025-05-14 19:17:24,719 [INFO] 📄 Scraping page 43
+2025-05-14 19:17:27,076 [INFO] 📄 Scraping page 44
+2025-05-14 19:17:29,487 [INFO] 📄 Scraping page 45
+2025-05-14 19:17:31,821 [INFO] 📄 Scraping page 46
+2025-05-14 19:17:34,187 [INFO] 📄 Scraping page 47
+2025-05-14 19:17:36,589 [INFO] 📄 Scraping page 48
+2025-05-14 19:17:37,271 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-14 19:17:38,069 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-14 19:17:38,902 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-14 19:17:39,718 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-14 19:17:41,840 [INFO] 📄 Scraping page 49
+2025-05-14 19:17:45,723 [INFO] 📄 Scraping page 50
+2025-05-14 19:17:46,173 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-14 19:17:46,625 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-14 19:17:47,048 [INFO] ✅ Reached last page.
+2025-05-14 19:17:47,115 [INFO] 🆕 Added 0 new ads.
+2025-05-14 19:17:47,177 [INFO] 💾 Saved 6110 entries to 'D:\Projects\CodeA\PythonProject\finn_car_scraper\data\finn_cars.json'
+2025-05-14 19:32:47,860 [INFO] 
+⏳ Scraping new data...
+2025-05-14 19:32:53,218 [INFO] ✅ Cookie consent accepted.
+2025-05-14 19:32:53,719 [INFO] 📄 Scraping page 1
+2025-05-14 19:32:56,255 [INFO] 📄 Scraping page 2
+2025-05-14 19:32:58,679 [INFO] 📄 Scraping page 3
+2025-05-14 19:33:01,076 [INFO] 📄 Scraping page 4
+2025-05-14 19:33:03,438 [INFO] 📄 Scraping page 5
+2025-05-14 19:33:05,616 [INFO] ⏩ Skipped (monthly payment): Tesla Model 3
+2025-05-14 19:33:06,801 [INFO] 📄 Scraping page 6
+2025-05-14 19:33:08,893 [INFO] ⏩ Skipped (monthly payment): BYD Sealion 7
+2025-05-14 19:33:10,021 [INFO] 📄 Scraping page 7
+2025-05-14 19:33:11,651 [INFO] ⏩ Skipped (monthly payment): Hyundai Kona
+2025-05-14 19:33:13,041 [INFO] ⏩ Skipped (monthly payment): BYD Dolphin
+2025-05-14 19:33:14,220 [INFO] 📄 Scraping page 8
+2025-05-14 19:33:16,571 [INFO] 📄 Scraping page 9
+2025-05-14 19:33:18,955 [INFO] 📄 Scraping page 10
+2025-05-14 19:33:21,354 [INFO] 📄 Scraping page 11
+2025-05-14 19:33:23,757 [INFO] 📄 Scraping page 12
+2025-05-14 19:33:26,272 [INFO] 📄 Scraping page 13
+2025-05-14 19:33:28,619 [INFO] 📄 Scraping page 14
+2025-05-14 19:33:30,985 [INFO] 📄 Scraping page 15
+2025-05-14 19:33:33,333 [INFO] 📄 Scraping page 16
+2025-05-14 19:33:35,704 [INFO] 📄 Scraping page 17
+2025-05-14 19:33:38,121 [INFO] 📄 Scraping page 18
+2025-05-14 19:33:40,504 [INFO] 📄 Scraping page 19
+2025-05-14 19:33:42,936 [INFO] 📄 Scraping page 20
+2025-05-14 19:33:45,318 [INFO] 📄 Scraping page 21
+2025-05-14 19:33:47,702 [INFO] 📄 Scraping page 22
+2025-05-14 19:33:50,050 [INFO] 📄 Scraping page 23
+2025-05-14 19:33:52,454 [INFO] 📄 Scraping page 24
+2025-05-14 19:33:54,817 [INFO] 📄 Scraping page 25
+2025-05-14 19:33:57,531 [INFO] ⏩ Skipped (monthly payment): Tesla Model Y
+2025-05-14 19:33:59,200 [INFO] 📄 Scraping page 26
+2025-05-14 19:34:01,595 [INFO] 📄 Scraping page 27
+2025-05-14 19:34:03,616 [INFO] ⏩ Skipped (monthly payment): Nissan Ariya
+2025-05-14 19:34:04,717 [INFO] 📄 Scraping page 28
+2025-05-14 19:34:05,883 [INFO] ⏩ Skipped (monthly payment): BYD Sealion 7
+2025-05-14 19:34:08,002 [INFO] 📄 Scraping page 29
+2025-05-14 19:34:11,334 [INFO] 📄 Scraping page 30
+2025-05-14 19:34:12,276 [INFO] ⏩ Skipped (monthly payment): Mazda MX-30
+2025-05-14 19:34:14,567 [INFO] 📄 Scraping page 31
+2025-05-14 19:34:16,696 [INFO] ⏩ Skipped (monthly payment): Volkswagen ID.4
+2025-05-14 19:34:18,421 [INFO] ⏩ Skipped (monthly payment): Hyundai Inster
+2025-05-14 19:34:19,617 [INFO] 📄 Scraping page 32
+2025-05-14 19:34:22,174 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 19:34:22,373 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-14 19:34:23,440 [INFO] ⏩ Skipped (monthly payment): BMW i4 M50
+2025-05-14 19:34:24,742 [INFO] ⏩ Skipped (monthly payment): MG MG4
+2025-05-14 19:34:25,814 [INFO] 📄 Scraping page 33
+2025-05-14 19:34:28,184 [INFO] 📄 Scraping page 34
+2025-05-14 19:34:30,579 [INFO] 📄 Scraping page 35
+2025-05-14 19:34:33,034 [INFO] 📄 Scraping page 36
+2025-05-14 19:34:35,450 [INFO] 📄 Scraping page 37
+2025-05-14 19:34:38,614 [INFO] 📄 Scraping page 38
+2025-05-14 19:34:39,631 [INFO] ⏩ Skipped (monthly payment): Toyota bZ4X
+2025-05-14 19:34:41,965 [INFO] 📄 Scraping page 39
+2025-05-14 19:34:43,568 [INFO] ⏩ Skipped (monthly payment): Volkswagen ID.5 GTX
+2025-05-14 19:34:45,113 [INFO] 📄 Scraping page 40
+2025-05-14 19:34:47,482 [INFO] 📄 Scraping page 41
+2025-05-14 19:34:48,623 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 19:34:50,777 [INFO] 📄 Scraping page 42
+2025-05-14 19:34:51,945 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 19:34:53,999 [INFO] 📄 Scraping page 43
+2025-05-14 19:34:55,058 [INFO] ⏩ Skipped (monthly payment): Peugeot 3008
+2025-05-14 19:34:57,232 [INFO] 📄 Scraping page 44
+2025-05-14 19:34:59,597 [INFO] 📄 Scraping page 45
+2025-05-14 19:35:01,981 [INFO] 📄 Scraping page 46
+2025-05-14 19:35:04,381 [INFO] 📄 Scraping page 47
+2025-05-14 19:35:06,775 [INFO] 📄 Scraping page 48
+2025-05-14 19:35:08,087 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-14 19:35:08,847 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-14 19:35:09,574 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-14 19:35:10,411 [INFO] ⏩ Skipped (monthly payment): Volvo XC90
+2025-05-14 19:35:12,114 [INFO] 📄 Scraping page 49
+2025-05-14 19:35:15,863 [INFO] 📄 Scraping page 50
+2025-05-14 19:35:16,717 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-14 19:35:17,143 [INFO] ✅ Reached last page.
+2025-05-14 19:35:17,207 [INFO] 🆕 Added 0 new ads.
+2025-05-14 19:35:17,269 [INFO] 💾 Saved 6110 entries to 'D:\Projects\CodeA\PythonProject\finn_car_scraper\data\finn_cars.json'
