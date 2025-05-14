@@ -87,7 +87,7 @@ def scrape_finn_cars(return_data=False):
                     mileage = int(re.sub(r"\D", "", details[1])) if len(details) > 1 else 999999
 
                     # ✅ Pre-filter the ads (price <= 10000 and year >= 2020 and mileage <= 100000)
-                    if price <= 15000 and year >= 2020 and mileage <= 100000:
+                    if price <= 15000 and year >= 2019 and mileage <= 100000:
                         logging.info(
                             f"✅ Found suspicious car: {title} (Price: {price}, Year: {year}, Mileage: {mileage})")
 
@@ -109,6 +109,8 @@ def scrape_finn_cars(return_data=False):
                         finally:
                             ad_page.close()
 
+                        logging.info(
+                            f"✅ {title} passed suspicious test: (Price: {price}, Year: {year}, Mileage: {mileage})")
                         # ✅ Passed all checks → Add car
                         transmission = details[2] if len(details) > 2 else "N/A"
                         fuel = details[3] if len(details) > 3 else "N/A"
@@ -130,7 +132,7 @@ def scrape_finn_cars(return_data=False):
 
                     else:
 
-                        logging.info(f"⏩ Car is not suspicious: {title}")
+                        # logging.info(f"⏩ Car is not suspicious: {title}")
 
 
 

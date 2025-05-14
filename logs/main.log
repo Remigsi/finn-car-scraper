@@ -33964,3 +33964,2670 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-05-14 23:02:03,736 [INFO] 💾 Saved 2618 entries to 'D:\Projects\CodeA\PythonProject\finn_car_scraper\data\finn_cars.json'
 2025-05-14 23:03:45,056 [WARNING] 
 ❌ Scraper stopped by user.
+2025-05-14 23:03:47,424 [INFO] 🔁 Scraping every 15 min. Press Ctrl+C to stop.
+2025-05-14 23:03:47,424 [INFO] 
+⏳ Scraping new data...
+2025-05-14 23:03:49,765 [INFO] ✅ Cookie consent accepted.
+2025-05-14 23:03:50,265 [INFO] 📄 Scraping page 1
+2025-05-14 23:03:50,336 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQC
+2025-05-14 23:03:50,377 [INFO] ⏩ Car is not suspicious: Audi A6
+2025-05-14 23:03:50,476 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:03:50,515 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:03:50,561 [INFO] ⏩ Car is not suspicious: Volkswagen Caravelle
+2025-05-14 23:03:50,601 [INFO] ⏩ Car is not suspicious: Skoda Superb
+2025-05-14 23:03:50,639 [INFO] ⏩ Car is not suspicious: Peugeot 508
+2025-05-14 23:03:50,679 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:03:50,719 [INFO] ⏩ Car is not suspicious: Skoda Superb
+2025-05-14 23:03:50,760 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:03:50,801 [INFO] ⏩ Car is not suspicious: Volkswagen Transporter
+2025-05-14 23:03:50,842 [INFO] ⏩ Car is not suspicious: Audi Q5
+2025-05-14 23:03:50,878 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4 GTX
+2025-05-14 23:03:50,917 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:03:50,954 [INFO] ⏩ Car is not suspicious: Volvo 244
+2025-05-14 23:03:50,990 [INFO] ⏩ Car is not suspicious: Peugeot Traveller
+2025-05-14 23:03:51,028 [INFO] ⏩ Car is not suspicious: MINI Countryman
+2025-05-14 23:03:51,067 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:03:51,104 [INFO] ⏩ Car is not suspicious: Nissan Micra
+2025-05-14 23:03:51,142 [INFO] ⏩ Car is not suspicious: Volkswagen Touran
+2025-05-14 23:03:51,180 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:03:51,218 [INFO] ⏩ Car is not suspicious: Tesla Model S
+2025-05-14 23:03:51,253 [INFO] ⏩ Car is not suspicious: Land Rover Range Rover Evoque
+2025-05-14 23:03:51,290 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:03:51,332 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:03:51,366 [INFO] ⏩ Skipped (price is 0): Subaru Legacy
+2025-05-14 23:03:51,397 [INFO] ⏩ Car is not suspicious: Citroen DS3
+2025-05-14 23:03:51,437 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:03:51,472 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:03:51,508 [INFO] ⏩ Car is not suspicious: Peugeot 308
+2025-05-14 23:03:51,545 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:03:51,585 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4 GTX
+2025-05-14 23:03:51,633 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:03:51,670 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:03:51,705 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:03:51,742 [INFO] ⏩ Car is not suspicious: Peugeot 308
+2025-05-14 23:03:51,776 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:03:51,822 [INFO] ⏩ Car is not suspicious: Volvo V90
+2025-05-14 23:03:51,866 [INFO] ⏩ Car is not suspicious: Ford Fiesta
+2025-05-14 23:03:51,905 [INFO] ⏩ Car is not suspicious: Volkswagen Touran
+2025-05-14 23:03:51,941 [INFO] ⏩ Car is not suspicious: Peugeot 5008
+2025-05-14 23:03:51,978 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:03:52,015 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:03:52,061 [INFO] ⏩ Car is not suspicious: Renault Zoe
+2025-05-14 23:03:52,107 [INFO] ⏩ Car is not suspicious: Porsche Macan
+2025-05-14 23:03:52,143 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4 GTX
+2025-05-14 23:03:52,180 [INFO] ⏩ Car is not suspicious: Audi A6
+2025-05-14 23:03:52,217 [INFO] ⏩ Car is not suspicious: Mazda CX-60
+2025-05-14 23:03:52,252 [INFO] ⏩ Car is not suspicious: Peugeot 4008
+2025-05-14 23:03:52,297 [INFO] ⏩ Car is not suspicious: Tesla Model X
+2025-05-14 23:03:52,340 [INFO] ⏩ Car is not suspicious: Mercedes-Benz SLK
+2025-05-14 23:03:53,453 [INFO] 📄 Scraping page 2
+2025-05-14 23:03:53,514 [INFO] ⏩ Car is not suspicious: Jaguar I-PACE
+2025-05-14 23:03:53,540 [INFO] ⏩ Skipped (price is 0): Hyundai Tucson
+2025-05-14 23:03:53,563 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:03:53,597 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:03:53,634 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:03:53,676 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQA
+2025-05-14 23:03:53,726 [INFO] ⏩ Car is not suspicious: Cupra Born
+2025-05-14 23:03:53,764 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:03:53,801 [INFO] ⏩ Car is not suspicious: Skoda Karoq
+2025-05-14 23:03:53,836 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:03:53,873 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:03:53,916 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:03:53,956 [INFO] ⏩ Car is not suspicious: Fiat 500
+2025-05-14 23:03:53,993 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:03:54,029 [INFO] ⏩ Car is not suspicious: Land Rover Discovery
+2025-05-14 23:03:54,063 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:03:54,096 [INFO] ⏩ Car is not suspicious: Skoda Roomster
+2025-05-14 23:03:54,139 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:03:54,184 [INFO] ⏩ Car is not suspicious: Audi A4
+2025-05-14 23:03:54,220 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:03:54,256 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4
+2025-05-14 23:03:54,292 [INFO] ⏩ Car is not suspicious: Toyota Prius+ Seven
+2025-05-14 23:03:54,328 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:03:54,368 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:03:54,412 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:03:54,451 [INFO] ⏩ Car is not suspicious: Toyota Avensis
+2025-05-14 23:03:54,490 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:03:54,527 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:03:54,561 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:03:54,604 [INFO] ⏩ Car is not suspicious: Kia Soul
+2025-05-14 23:03:54,646 [INFO] ⏩ Car is not suspicious: Toyota Avensis
+2025-05-14 23:03:54,684 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:03:54,719 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:03:54,754 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:03:54,792 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:03:54,835 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:03:54,878 [INFO] ⏩ Car is not suspicious: Land Rover Range Rover Evoque
+2025-05-14 23:03:54,914 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:03:54,950 [INFO] ⏩ Car is not suspicious: Kia e-Soul
+2025-05-14 23:03:54,988 [INFO] ⏩ Car is not suspicious: Mercedes-Benz R-Klasse
+2025-05-14 23:03:55,026 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:03:55,070 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:03:55,113 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:03:55,153 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:03:55,192 [INFO] ⏩ Car is not suspicious: Kia EV6
+2025-05-14 23:03:55,231 [INFO] ⏩ Car is not suspicious: Kia Soul
+2025-05-14 23:03:55,267 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:03:55,309 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:03:55,349 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:03:55,385 [INFO] ⏩ Car is not suspicious: Mercedes-Benz S-Klasse
+2025-05-14 23:03:55,419 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:03:56,497 [INFO] 📄 Scraping page 3
+2025-05-14 23:03:56,554 [INFO] ⏩ Car is not suspicious: Honda Element
+2025-05-14 23:03:56,588 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:03:56,625 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:03:56,662 [INFO] ⏩ Car is not suspicious: Nissan Qashqai
+2025-05-14 23:03:56,698 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:03:56,754 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:03:56,795 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:03:56,831 [INFO] ⏩ Car is not suspicious: Mercedes-Benz B-Klasse
+2025-05-14 23:03:56,866 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:03:56,900 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:03:56,935 [INFO] ⏩ Car is not suspicious: Audi A6
+2025-05-14 23:03:56,976 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:03:57,020 [INFO] ⏩ Car is not suspicious: Honda CR-V
+2025-05-14 23:03:57,057 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:03:57,096 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:03:57,142 [INFO] ⏩ Car is not suspicious: Ford Mondeo
+2025-05-14 23:03:57,187 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:03:57,235 [INFO] ⏩ Car is not suspicious: Honda Civic
+2025-05-14 23:03:57,282 [INFO] ⏩ Car is not suspicious: Kia EV3
+2025-05-14 23:03:57,330 [INFO] ⏩ Car is not suspicious: BMW X6
+2025-05-14 23:03:57,385 [INFO] ⏩ Car is not suspicious: Toyota Yaris Cross
+2025-05-14 23:03:57,433 [INFO] ⏩ Car is not suspicious: Peugeot 5008
+2025-05-14 23:03:57,485 [INFO] ⏩ Car is not suspicious: Mazda 6
+2025-05-14 23:03:57,530 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:03:57,570 [INFO] ⏩ Car is not suspicious: Chevrolet Camaro
+2025-05-14 23:03:57,612 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:03:57,651 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:03:57,693 [INFO] ⏩ Car is not suspicious: Lexus CT200h
+2025-05-14 23:03:57,743 [INFO] ⏩ Car is not suspicious: Honda Civic
+2025-05-14 23:03:57,783 [INFO] ⏩ Car is not suspicious: Cadillac Deville
+2025-05-14 23:03:57,821 [INFO] ⏩ Car is not suspicious: Volkswagen ID.7
+2025-05-14 23:03:57,858 [INFO] ⏩ Car is not suspicious: Volkswagen Golf Plus
+2025-05-14 23:03:57,896 [INFO] ⏩ Car is not suspicious: Jeep Cherokee
+2025-05-14 23:03:57,943 [INFO] ⏩ Car is not suspicious: Mercedes-Benz SL
+2025-05-14 23:03:57,981 [INFO] ⏩ Car is not suspicious: Opel Vectra
+2025-05-14 23:03:58,016 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:03:58,049 [INFO] ⏩ Car is not suspicious: Volkswagen Polo
+2025-05-14 23:03:58,085 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:03:58,126 [INFO] ⏩ Car is not suspicious: Jaguar
+2025-05-14 23:03:58,169 [INFO] ⏩ Car is not suspicious: Mitsubishi Colt
+2025-05-14 23:03:58,205 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:03:58,239 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:03:58,276 [INFO] ⏩ Car is not suspicious: BMW M3
+2025-05-14 23:03:58,311 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:03:58,352 [INFO] ⏩ Car is not suspicious: Mercedes-Benz SLK
+2025-05-14 23:03:58,398 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:03:58,436 [INFO] ⏩ Car is not suspicious: Mercedes-Benz M-Klasse
+2025-05-14 23:03:58,476 [INFO] ⏩ Car is not suspicious: Volkswagen Jetta
+2025-05-14 23:03:58,514 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:03:58,553 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:03:58,599 [INFO] ⏩ Car is not suspicious: Mitsubishi ASX
+2025-05-14 23:03:59,680 [INFO] 📄 Scraping page 4
+2025-05-14 23:03:59,739 [INFO] ⏩ Car is not suspicious: Volkswagen UP!
+2025-05-14 23:03:59,776 [INFO] ⏩ Car is not suspicious: BMW M3
+2025-05-14 23:03:59,815 [INFO] ⏩ Car is not suspicious: Volkswagen Multivan
+2025-05-14 23:03:59,852 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:03:59,898 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:03:59,944 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:03:59,990 [INFO] ⏩ Car is not suspicious: Volvo V90
+2025-05-14 23:04:00,032 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:04:00,071 [INFO] ⏩ Car is not suspicious: Peugeot 207
+2025-05-14 23:04:00,111 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:04:00,155 [INFO] ⏩ Car is not suspicious: Volvo V40
+2025-05-14 23:04:00,203 [INFO] ⏩ Car is not suspicious: BMW 2-serie
+2025-05-14 23:04:00,239 [INFO] ⏩ Car is not suspicious: Dodge Challenger
+2025-05-14 23:04:00,275 [INFO] ⏩ Car is not suspicious: Cadillac CTS
+2025-05-14 23:04:00,309 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:04:00,359 [INFO] ⏩ Car is not suspicious: Nissan Juke
+2025-05-14 23:04:00,402 [INFO] ⏩ Car is not suspicious: Suzuki Grand Vitara
+2025-05-14 23:04:00,441 [INFO] ⏩ Car is not suspicious: Fiat 500
+2025-05-14 23:04:00,485 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:04:00,523 [INFO] ⏩ Car is not suspicious: Audi Q3
+2025-05-14 23:04:00,558 [INFO] ⏩ Car is not suspicious: Chevrolet Corvair
+2025-05-14 23:04:00,604 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:04:00,644 [INFO] ⏩ Car is not suspicious: Volkswagen Touareg
+2025-05-14 23:04:00,683 [INFO] ⏩ Car is not suspicious: Volvo 850
+2025-05-14 23:04:00,722 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLK
+2025-05-14 23:04:00,758 [INFO] ⏩ Car is not suspicious: Suzuki Across
+2025-05-14 23:04:00,796 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:00,839 [INFO] ⏩ Car is not suspicious: MG ZS EV
+2025-05-14 23:04:00,882 [INFO] ⏩ Car is not suspicious: Tesla Model S
+2025-05-14 23:04:00,918 [INFO] ⏩ Car is not suspicious: Toyota GR Yaris
+2025-05-14 23:04:00,954 [INFO] ⏩ Car is not suspicious: Saab
+2025-05-14 23:04:00,990 [INFO] ⏩ Car is not suspicious: Mercedes-Benz SL
+2025-05-14 23:04:01,026 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:04:01,068 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:04:01,110 [INFO] ⏩ Car is not suspicious: Volkswagen Caravelle
+2025-05-14 23:04:01,145 [INFO] ⏩ Car is not suspicious: Audi Q7
+2025-05-14 23:04:01,181 [INFO] ⏩ Car is not suspicious: Volkswagen ID. Buzz
+2025-05-14 23:04:01,221 [INFO] ⏩ Car is not suspicious: Toyota C-HR
+2025-05-14 23:04:01,257 [INFO] ⏩ Car is not suspicious: BMW iX1
+2025-05-14 23:04:01,301 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:04:01,344 [INFO] ⏩ Car is not suspicious: Mazda CX-5
+2025-05-14 23:04:01,380 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:04:01,414 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:04:01,449 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:04:01,486 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:04:01,527 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:04:01,571 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:04:01,606 [INFO] ⏩ Car is not suspicious: Audi A4
+2025-05-14 23:04:01,641 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:04:01,676 [INFO] ⏩ Car is not suspicious: Dodge Challenger
+2025-05-14 23:04:01,711 [INFO] ⏩ Car is not suspicious: Mitsubishi Pajero
+2025-05-14 23:04:02,803 [INFO] 📄 Scraping page 5
+2025-05-14 23:04:02,853 [INFO] ⏩ Car is not suspicious: Peugeot 508
+2025-05-14 23:04:02,889 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:04:02,927 [INFO] ⏩ Car is not suspicious: Tesla Model S
+2025-05-14 23:04:02,962 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:04:03,001 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:04:03,049 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQE
+2025-05-14 23:04:03,089 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:04:03,125 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:04:03,163 [INFO] ⏩ Car is not suspicious: Hyundai IONIQ
+2025-05-14 23:04:03,199 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:04:03,234 [INFO] ⏩ Car is not suspicious: Polestar 2
+2025-05-14 23:04:03,278 [INFO] ⏩ Car is not suspicious: Ford S-MAX
+2025-05-14 23:04:03,320 [INFO] ⏩ Car is not suspicious: Volkswagen UP!
+2025-05-14 23:04:03,357 [INFO] ⏩ Car is not suspicious: Peugeot e-2008
+2025-05-14 23:04:03,394 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:04:03,432 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:04:03,470 [INFO] ⏩ Car is not suspicious: Volvo V90
+2025-05-14 23:04:03,515 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:04:03,559 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:04:03,596 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4
+2025-05-14 23:04:03,634 [INFO] ⏩ Car is not suspicious: Chevrolet Suburban
+2025-05-14 23:04:03,672 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:04:03,710 [INFO] ⏩ Car is not suspicious: BMW M4
+2025-05-14 23:04:03,755 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:04:03,801 [INFO] ⏩ Car is not suspicious: Toyota Corolla
+2025-05-14 23:04:03,839 [INFO] ⏩ Car is not suspicious: Nissan Qashqai
+2025-05-14 23:04:03,876 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:04:03,911 [INFO] ⏩ Car is not suspicious: Peugeot 5008
+2025-05-14 23:04:03,946 [INFO] ⏩ Car is not suspicious: Subaru Outback
+2025-05-14 23:04:03,987 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:04:04,032 [INFO] ⏩ Car is not suspicious: Toyota GR Yaris
+2025-05-14 23:04:04,068 [INFO] ⏩ Car is not suspicious: Toyota Land Cruiser
+2025-05-14 23:04:04,107 [INFO] ⏩ Car is not suspicious: Volkswagen Polo
+2025-05-14 23:04:04,146 [INFO] ⏩ Car is not suspicious: Mercedes-Benz S-Klasse
+2025-05-14 23:04:04,181 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLC
+2025-05-14 23:04:04,225 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:04:04,266 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:04:04,304 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:04:04,341 [INFO] ⏩ Car is not suspicious: Audi A6 allroad
+2025-05-14 23:04:04,378 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:04:04,414 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:04:04,455 [INFO] ⏩ Car is not suspicious: Hyundai IONIQ
+2025-05-14 23:04:04,500 [INFO] ⏩ Car is not suspicious: Nissan Juke
+2025-05-14 23:04:04,539 [INFO] ⏩ Car is not suspicious: Ford Mustang Mach-E
+2025-05-14 23:04:04,575 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:04:04,611 [INFO] ⏩ Car is not suspicious: Volkswagen T-Roc
+2025-05-14 23:04:04,648 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:04:04,694 [INFO] ⏩ Car is not suspicious: BMW X2
+2025-05-14 23:04:04,736 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:04:04,772 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:04:04,809 [INFO] ⏩ Car is not suspicious: Audi Q4 e-tron
+2025-05-14 23:04:05,925 [INFO] 📄 Scraping page 6
+2025-05-14 23:04:05,977 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:06,015 [INFO] ⏩ Car is not suspicious: Tesla Model X
+2025-05-14 23:04:06,054 [INFO] ⏩ Car is not suspicious: Toyota Avensis
+2025-05-14 23:04:06,090 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:04:06,127 [INFO] ⏩ Car is not suspicious: Opel Corsa
+2025-05-14 23:04:06,173 [INFO] ⏩ Car is not suspicious: Porsche Macan
+2025-05-14 23:04:06,210 [INFO] ⏩ Car is not suspicious: Fiat Punto
+2025-05-14 23:04:06,246 [INFO] ⏩ Car is not suspicious: Honda CR-V
+2025-05-14 23:04:06,280 [INFO] ⏩ Car is not suspicious: Volvo V50
+2025-05-14 23:04:06,314 [INFO] ⏩ Car is not suspicious: Volkswagen UP!
+2025-05-14 23:04:06,353 [INFO] ⏩ Car is not suspicious: Toyota Urban Cruiser
+2025-05-14 23:04:06,397 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:04:06,432 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:04:06,468 [INFO] ⏩ Car is not suspicious: BMW M3
+2025-05-14 23:04:06,503 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:04:06,538 [INFO] ⏩ Car is not suspicious: Tesla Model X
+2025-05-14 23:04:06,578 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:04:06,623 [INFO] ⏩ Car is not suspicious: BMW 3-serie GT
+2025-05-14 23:04:06,661 [INFO] ⏩ Car is not suspicious: Kia Picanto
+2025-05-14 23:04:06,698 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:04:06,735 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:04:06,773 [INFO] ⏩ Car is not suspicious: Mercedes-Benz Viano
+2025-05-14 23:04:06,818 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:04:06,857 [INFO] ⏩ Car is not suspicious: Mercedes-Benz B-Klasse
+2025-05-14 23:04:06,894 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:04:06,929 [INFO] ⏩ Car is not suspicious: Audi A4
+2025-05-14 23:04:06,965 [INFO] ⏩ Car is not suspicious: Volkswagen Tiguan
+2025-05-14 23:04:07,008 [INFO] ⏩ Car is not suspicious: Skoda Superb
+2025-05-14 23:04:07,053 [INFO] ⏩ Car is not suspicious: Audi Q7
+2025-05-14 23:04:07,092 [INFO] ⏩ Car is not suspicious: Mercedes-Benz SL
+2025-05-14 23:04:07,131 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:04:07,180 [INFO] ⏩ Car is not suspicious: Toyota Corolla
+2025-05-14 23:04:07,214 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:04:07,250 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:07,284 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:04:07,319 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:04:07,356 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:04:07,391 [INFO] ⏩ Car is not suspicious: Opel Corsa
+2025-05-14 23:04:07,427 [INFO] ⏩ Car is not suspicious: Peugeot 508
+2025-05-14 23:04:07,462 [INFO] ⏩ Car is not suspicious: Kia Soul
+2025-05-14 23:04:07,497 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:04:07,532 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:04:07,568 [INFO] ⏩ Car is not suspicious: Volvo V90 Cross Country
+2025-05-14 23:04:07,603 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:04:07,638 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:04:07,672 [INFO] ⏩ Car is not suspicious: Mitsubishi Pajero
+2025-05-14 23:04:07,707 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:07,741 [INFO] ⏩ Car is not suspicious: Volvo V50
+2025-05-14 23:04:07,776 [INFO] ✅ Found suspicious car: BYD Tang (Price: 6990, Year: 2023, Mileage: 18000)
+2025-05-14 23:04:08,831 [INFO] ⏩ Skipped (monthly payment): BYD Tang
+2025-05-14 23:04:08,868 [INFO] ⏩ Car is not suspicious: Audi S6
+2025-05-14 23:04:08,909 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:04:10,004 [INFO] 📄 Scraping page 7
+2025-05-14 23:04:10,057 [INFO] ⏩ Car is not suspicious: BMW 7-serie
+2025-05-14 23:04:10,099 [INFO] ⏩ Car is not suspicious: Subaru Forester
+2025-05-14 23:04:10,140 [INFO] ⏩ Car is not suspicious: MINI Cooper
+2025-05-14 23:04:10,176 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:04:10,214 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:04:10,262 [INFO] ⏩ Car is not suspicious: Nissan Qashqai
+2025-05-14 23:04:10,299 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:04:10,339 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:04:10,409 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:10,466 [INFO] ⏩ Car is not suspicious: MG ZS EV
+2025-05-14 23:04:10,520 [INFO] ⏩ Car is not suspicious: Saab 9-3
+2025-05-14 23:04:10,563 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:04:10,606 [INFO] ⏩ Car is not suspicious: BMW iX3
+2025-05-14 23:04:10,654 [INFO] ⏩ Car is not suspicious: Toyota Prius Plug-in Hybrid
+2025-05-14 23:04:10,701 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:04:10,748 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:04:10,794 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:04:10,841 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:04:10,885 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:04:10,928 [INFO] ⏩ Car is not suspicious: Audi A6
+2025-05-14 23:04:10,971 [INFO] ⏩ Car is not suspicious: Cadillac Eldorado
+2025-05-14 23:04:11,012 [INFO] ⏩ Car is not suspicious: Audi A6 allroad
+2025-05-14 23:04:11,050 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:04:11,089 [INFO] ⏩ Car is not suspicious: Porsche Taycan
+2025-05-14 23:04:11,128 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:04:11,174 [INFO] ⏩ Car is not suspicious: Audi e-tron GT
+2025-05-14 23:04:11,212 [INFO] ⏩ Car is not suspicious: Toyota HiLux
+2025-05-14 23:04:11,248 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:04:11,283 [INFO] ⏩ Car is not suspicious: Volvo EX30
+2025-05-14 23:04:11,320 [INFO] ⏩ Car is not suspicious: Opel Corsa
+2025-05-14 23:04:11,356 [INFO] ⏩ Car is not suspicious: Volkswagen ID.5 GTX
+2025-05-14 23:04:11,398 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:04:11,437 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:04:11,472 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:04:11,510 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:04:11,544 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:04:11,576 [INFO] ⏩ Car is not suspicious: Audi S5
+2025-05-14 23:04:11,614 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:04:11,658 [INFO] ⏩ Car is not suspicious: Ford Escort
+2025-05-14 23:04:11,694 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLE
+2025-05-14 23:04:11,741 [INFO] ⏩ Car is not suspicious: Volkswagen Caravelle
+2025-05-14 23:04:11,809 [INFO] ⏩ Car is not suspicious: Ford S-MAX
+2025-05-14 23:04:11,867 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:04:11,916 [INFO] ⏩ Car is not suspicious: Jaguar E-TYPE
+2025-05-14 23:04:11,963 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:04:12,010 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:04:12,056 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:04:12,107 [INFO] ⏩ Car is not suspicious: Hyundai Santa Fe
+2025-05-14 23:04:12,152 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:04:12,189 [INFO] ⏩ Car is not suspicious: BMW M4
+2025-05-14 23:04:12,222 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:04:13,298 [INFO] 📄 Scraping page 8
+2025-05-14 23:04:13,352 [INFO] ⏩ Car is not suspicious: BMW iX xDrive 50
+2025-05-14 23:04:13,388 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:04:13,424 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:04:13,459 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:04:13,493 [INFO] ⏩ Car is not suspicious: Volkswagen Touran
+2025-05-14 23:04:13,536 [INFO] ⏩ Car is not suspicious: Opel Astra
+2025-05-14 23:04:13,578 [INFO] ⏩ Car is not suspicious: Volkswagen Golf Sportsvan
+2025-05-14 23:04:13,615 [INFO] ⏩ Car is not suspicious: Audi A6
+2025-05-14 23:04:13,651 [INFO] ⏩ Car is not suspicious: Audi A5
+2025-05-14 23:04:13,686 [INFO] ⏩ Car is not suspicious: Volvo V50
+2025-05-14 23:04:13,724 [INFO] ⏩ Car is not suspicious: Toyota Prius
+2025-05-14 23:04:13,770 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:04:13,814 [INFO] ⏩ Car is not suspicious: Volkswagen Caravelle
+2025-05-14 23:04:13,854 [INFO] ⏩ Car is not suspicious: Mercury Andre
+2025-05-14 23:04:13,890 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:04:13,926 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:13,966 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:04:14,009 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:04:14,052 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:04:14,089 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:04:14,124 [INFO] ⏩ Car is not suspicious: Porsche 911
+2025-05-14 23:04:14,159 [INFO] ⏩ Car is not suspicious: Hyundai Ioniq 5
+2025-05-14 23:04:14,196 [INFO] ⏩ Car is not suspicious: Lexus RX400h
+2025-05-14 23:04:14,236 [INFO] ⏩ Car is not suspicious: Volkswagen Polo
+2025-05-14 23:04:14,282 [INFO] ⏩ Car is not suspicious: Toyota Avensis
+2025-05-14 23:04:14,317 [INFO] ⏩ Car is not suspicious: Suzuki Liana
+2025-05-14 23:04:14,353 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:04:14,387 [INFO] ⏩ Car is not suspicious: Audi RS7
+2025-05-14 23:04:14,421 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:04:14,465 [INFO] ⏩ Car is not suspicious: Skoda Kodiaq
+2025-05-14 23:04:14,510 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:04:14,545 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:04:14,580 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:04:14,615 [INFO] ⏩ Car is not suspicious: Mazda 6
+2025-05-14 23:04:14,650 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:04:14,688 [INFO] ⏩ Car is not suspicious: Mercedes-Benz A-Klasse
+2025-05-14 23:04:14,733 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:14,769 [INFO] ⏩ Car is not suspicious: Jaguar XE
+2025-05-14 23:04:14,805 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLB
+2025-05-14 23:04:14,842 [INFO] ⏩ Car is not suspicious: Hyundai Ioniq 5
+2025-05-14 23:04:14,877 [INFO] ⏩ Car is not suspicious: Renault Captur
+2025-05-14 23:04:14,919 [INFO] ⏩ Car is not suspicious: Ford S-MAX
+2025-05-14 23:04:14,963 [INFO] ⏩ Car is not suspicious: Opel Ampera
+2025-05-14 23:04:14,998 [INFO] ⏩ Car is not suspicious: Audi A7
+2025-05-14 23:04:15,033 [INFO] ⏩ Car is not suspicious: Toyota RAV4 Plug-in Hybrid
+2025-05-14 23:04:15,067 [INFO] ⏩ Car is not suspicious: Audi Q5
+2025-05-14 23:04:15,102 [INFO] ⏩ Car is not suspicious: Volkswagen Scirocco
+2025-05-14 23:04:15,141 [INFO] ⏩ Car is not suspicious: Toyota Prius
+2025-05-14 23:04:15,184 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:04:15,221 [INFO] ⏩ Car is not suspicious: BMW iX3
+2025-05-14 23:04:15,259 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:16,382 [INFO] 📄 Scraping page 9
+2025-05-14 23:04:16,433 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:04:16,470 [INFO] ⏩ Car is not suspicious: MG ZS EV
+2025-05-14 23:04:16,505 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:04:16,541 [INFO] ⏩ Car is not suspicious: Volvo Amazon
+2025-05-14 23:04:16,578 [INFO] ⏩ Car is not suspicious: Toyota Land Cruiser
+2025-05-14 23:04:16,623 [INFO] ⏩ Car is not suspicious: Audi A4 allroad
+2025-05-14 23:04:16,666 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:04:16,705 [INFO] ⏩ Car is not suspicious: Kia Niro
+2025-05-14 23:04:16,739 [INFO] ⏩ Car is not suspicious: Subaru Forester
+2025-05-14 23:04:16,774 [INFO] ⏩ Car is not suspicious: Mazda CX-30
+2025-05-14 23:04:16,809 [INFO] ⏩ Car is not suspicious: Ford
+2025-05-14 23:04:16,852 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:04:16,899 [INFO] ⏩ Car is not suspicious: Mercedes-Benz CLK
+2025-05-14 23:04:16,934 [INFO] ⏩ Car is not suspicious: Peugeot 5008
+2025-05-14 23:04:16,970 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:04:17,005 [INFO] ⏩ Car is not suspicious: Citroen C4 Aircross
+2025-05-14 23:04:17,039 [INFO] ⏩ Car is not suspicious: Volvo V60 Cross Country
+2025-05-14 23:04:17,078 [INFO] ⏩ Car is not suspicious: Hyundai Ioniq 5
+2025-05-14 23:04:17,122 [INFO] ⏩ Car is not suspicious: BMW X2
+2025-05-14 23:04:17,167 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:04:17,212 [INFO] ⏩ Car is not suspicious: Peugeot 3008
+2025-05-14 23:04:17,251 [INFO] ⏩ Car is not suspicious: Volvo V50
+2025-05-14 23:04:17,293 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:04:17,329 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:04:17,370 [INFO] ⏩ Car is not suspicious: Toyota Land Cruiser
+2025-05-14 23:04:17,407 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:04:17,440 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:17,474 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:04:17,509 [INFO] ⏩ Car is not suspicious: Ford Andre
+2025-05-14 23:04:17,548 [INFO] ⏩ Car is not suspicious: Lexus RX450h
+2025-05-14 23:04:17,584 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:04:17,618 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:04:17,653 [INFO] ⏩ Car is not suspicious: Kia Niro
+2025-05-14 23:04:17,688 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:04:17,725 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:04:17,759 [INFO] ⏩ Car is not suspicious: Kia Picanto
+2025-05-14 23:04:17,798 [INFO] ⏩ Car is not suspicious: Audi A4 allroad
+2025-05-14 23:04:17,835 [INFO] ⏩ Car is not suspicious: Subaru Forester
+2025-05-14 23:04:17,872 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:04:17,909 [INFO] ⏩ Car is not suspicious: Audi Q7
+2025-05-14 23:04:17,946 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:04:17,982 [INFO] ⏩ Car is not suspicious: Audi e-tron Sportback
+2025-05-14 23:04:18,015 [INFO] ⏩ Car is not suspicious: Land Rover Range Rover Evoque
+2025-05-14 23:04:18,049 [INFO] ⏩ Car is not suspicious: Audi Q5
+2025-05-14 23:04:18,083 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:18,117 [INFO] ⏩ Car is not suspicious: Volvo EX30
+2025-05-14 23:04:18,152 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:04:18,188 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:04:18,224 [INFO] ⏩ Car is not suspicious: Jeep Wrangler
+2025-05-14 23:04:18,262 [INFO] ⏩ Car is not suspicious: Mazda MX-30
+2025-05-14 23:04:18,299 [INFO] ⏩ Car is not suspicious: Audi Q7
+2025-05-14 23:04:19,378 [INFO] 📄 Scraping page 10
+2025-05-14 23:04:19,438 [INFO] ⏩ Car is not suspicious: Land Rover Discovery
+2025-05-14 23:04:19,471 [INFO] ⏩ Car is not suspicious: Audi Q7
+2025-05-14 23:04:19,509 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:04:19,545 [INFO] ⏩ Car is not suspicious: Audi A6 allroad
+2025-05-14 23:04:19,581 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:04:19,618 [INFO] ⏩ Car is not suspicious: Ford Mustang Mach-E
+2025-05-14 23:04:19,656 [INFO] ⏩ Car is not suspicious: Subaru XV
+2025-05-14 23:04:19,694 [INFO] ⏩ Car is not suspicious: Hongqi E-HS9
+2025-05-14 23:04:19,731 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:04:19,769 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:19,806 [INFO] ⏩ Car is not suspicious: Renault Zoe
+2025-05-14 23:04:19,843 [INFO] ⏩ Car is not suspicious: Mazda CX-5
+2025-05-14 23:04:19,880 [INFO] ⏩ Car is not suspicious: Audi A4
+2025-05-14 23:04:19,916 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:04:19,957 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:04:19,995 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:04:20,033 [INFO] ⏩ Car is not suspicious: Volkswagen Tiguan
+2025-05-14 23:04:20,070 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:04:20,108 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:04:20,145 [INFO] ⏩ Car is not suspicious: Chevrolet Suburban
+2025-05-14 23:04:20,179 [INFO] ⏩ Car is not suspicious: Ford S-MAX
+2025-05-14 23:04:20,214 [INFO] ⏩ Car is not suspicious: Audi A4
+2025-05-14 23:04:20,250 [INFO] ⏩ Car is not suspicious: Audi A6
+2025-05-14 23:04:20,287 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:04:20,323 [INFO] ⏩ Car is not suspicious: Saab 9-3
+2025-05-14 23:04:20,361 [INFO] ⏩ Car is not suspicious: Ford S-MAX
+2025-05-14 23:04:20,399 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:04:20,435 [INFO] ⏩ Car is not suspicious: Peugeot 208
+2025-05-14 23:04:20,471 [INFO] ⏩ Car is not suspicious: BMW 4-serie
+2025-05-14 23:04:20,506 [INFO] ⏩ Car is not suspicious: Skoda Superb
+2025-05-14 23:04:20,543 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:20,580 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:04:20,615 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:04:20,648 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:20,683 [INFO] ⏩ Car is not suspicious: Mazda CX-5
+2025-05-14 23:04:20,721 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:04:20,757 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:04:20,793 [INFO] ⏩ Car is not suspicious: MG Marvel R
+2025-05-14 23:04:20,831 [INFO] ⏩ Car is not suspicious: Mercedes-Benz B-Klasse
+2025-05-14 23:04:20,866 [INFO] ⏩ Car is not suspicious: Porsche Taycan
+2025-05-14 23:04:20,904 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:04:20,940 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:04:20,974 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:04:21,009 [INFO] ⏩ Car is not suspicious: Mercedes-Benz A-Klasse
+2025-05-14 23:04:21,043 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:04:21,077 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:04:21,112 [INFO] ⏩ Car is not suspicious: Tesla Model S
+2025-05-14 23:04:21,146 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:04:21,180 [INFO] ⏩ Car is not suspicious: Toyota Prius
+2025-05-14 23:04:21,214 [INFO] ⏩ Car is not suspicious: Porsche 911
+2025-05-14 23:04:21,253 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:04:22,328 [INFO] 📄 Scraping page 11
+2025-05-14 23:04:22,381 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:04:22,418 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:04:22,455 [INFO] ⏩ Car is not suspicious: Seat Mii
+2025-05-14 23:04:22,492 [INFO] ⏩ Car is not suspicious: Toyota Avensis
+2025-05-14 23:04:22,528 [INFO] ⏩ Car is not suspicious: Kia e-Niro
+2025-05-14 23:04:22,565 [INFO] ⏩ Car is not suspicious: Ford Mondeo
+2025-05-14 23:04:22,602 [INFO] ⏩ Car is not suspicious: Honda Civic
+2025-05-14 23:04:22,641 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQC
+2025-05-14 23:04:22,678 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:04:22,716 [INFO] ⏩ Car is not suspicious: BMW iX3
+2025-05-14 23:04:22,755 [INFO] ⏩ Car is not suspicious: Audi TT
+2025-05-14 23:04:22,792 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:22,830 [INFO] ⏩ Car is not suspicious: Mazda CX-30
+2025-05-14 23:04:22,867 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:04:22,908 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:04:22,946 [INFO] ⏩ Car is not suspicious: Hyundai Ioniq 5
+2025-05-14 23:04:22,984 [INFO] ⏩ Car is not suspicious: Audi A1
+2025-05-14 23:04:23,020 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:04:23,055 [INFO] ⏩ Car is not suspicious: Mercedes-Benz M-Klasse
+2025-05-14 23:04:23,089 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:04:23,124 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:04:23,159 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:04:23,194 [INFO] ⏩ Car is not suspicious: Ford C-Max
+2025-05-14 23:04:23,230 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:04:23,266 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:04:23,302 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:04:23,339 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:04:23,377 [INFO] ⏩ Car is not suspicious: Porsche 911
+2025-05-14 23:04:23,413 [INFO] ⏩ Car is not suspicious: Mazda CX-5
+2025-05-14 23:04:23,448 [INFO] ⏩ Car is not suspicious: Porsche Taycan Sport Turismo
+2025-05-14 23:04:23,486 [INFO] ⏩ Car is not suspicious: Citroen E-C4
+2025-05-14 23:04:23,524 [INFO] ⏩ Car is not suspicious: Volkswagen Caravelle
+2025-05-14 23:04:23,561 [INFO] ⏩ Car is not suspicious: Austin Healey 3000
+2025-05-14 23:04:23,599 [INFO] ⏩ Car is not suspicious: Kia EV6
+2025-05-14 23:04:23,634 [INFO] ⏩ Car is not suspicious: Subaru XV
+2025-05-14 23:04:23,670 [INFO] ⏩ Car is not suspicious: Ford Mondeo
+2025-05-14 23:04:23,704 [INFO] ⏩ Car is not suspicious: Nissan Qashqai
+2025-05-14 23:04:23,739 [INFO] ⏩ Car is not suspicious: Ford Mustang Mach-E
+2025-05-14 23:04:23,772 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:04:23,805 [INFO] ⏩ Car is not suspicious: Volkswagen Polo
+2025-05-14 23:04:23,838 [INFO] ⏩ Car is not suspicious: Chevrolet Corvette
+2025-05-14 23:04:23,873 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:04:23,911 [INFO] ⏩ Car is not suspicious: Chevrolet Malibu
+2025-05-14 23:04:23,948 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:23,985 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:04:24,022 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:04:24,060 [INFO] ⏩ Car is not suspicious: Opel Kadett
+2025-05-14 23:04:24,096 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:24,132 [INFO] ⏩ Car is not suspicious: BMW iX1
+2025-05-14 23:04:24,168 [INFO] ⏩ Car is not suspicious: Land Rover Range Rover
+2025-05-14 23:04:24,205 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:04:25,296 [INFO] 📄 Scraping page 12
+2025-05-14 23:04:25,363 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:04:25,402 [INFO] ⏩ Car is not suspicious: Volvo EX30
+2025-05-14 23:04:25,438 [INFO] ⏩ Car is not suspicious: Hyundai Ioniq 5
+2025-05-14 23:04:25,472 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:04:25,507 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:04:25,542 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:04:25,580 [INFO] ⏩ Car is not suspicious: Toyota Carina
+2025-05-14 23:04:25,617 [INFO] ⏩ Car is not suspicious: MINI Cooper SE
+2025-05-14 23:04:25,653 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:04:25,688 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:04:25,723 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:04:25,758 [INFO] ⏩ Car is not suspicious: Volvo
+2025-05-14 23:04:25,793 [INFO] ⏩ Car is not suspicious: Ford Mustang
+2025-05-14 23:04:25,831 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:04:25,867 [INFO] ⏩ Car is not suspicious: Subaru XV
+2025-05-14 23:04:25,905 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:04:25,942 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:04:25,981 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLS
+2025-05-14 23:04:26,017 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:04:26,054 [INFO] ⏩ Car is not suspicious: Kia Soul
+2025-05-14 23:04:26,091 [INFO] ⏩ Car is not suspicious: Audi A6
+2025-05-14 23:04:26,129 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:04:26,164 [INFO] ⏩ Car is not suspicious: Hyundai Kona
+2025-05-14 23:04:26,200 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:04:26,233 [INFO] ⏩ Car is not suspicious: Volvo V90
+2025-05-14 23:04:26,268 [INFO] ⏩ Car is not suspicious: Peugeot 508
+2025-05-14 23:04:26,303 [INFO] ⏩ Car is not suspicious: Subaru Legacy
+2025-05-14 23:04:26,337 [INFO] ⏩ Car is not suspicious: Kia EV3
+2025-05-14 23:04:26,374 [INFO] ⏩ Car is not suspicious: Volvo 142
+2025-05-14 23:04:26,409 [INFO] ⏩ Car is not suspicious: Opel ADAM
+2025-05-14 23:04:26,443 [INFO] ⏩ Car is not suspicious: Chevrolet Tahoe
+2025-05-14 23:04:26,485 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:04:26,522 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:04:26,559 [INFO] ⏩ Car is not suspicious: Jaguar I-PACE
+2025-05-14 23:04:26,598 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:04:26,639 [INFO] ⏩ Car is not suspicious: Volkswagen Touran
+2025-05-14 23:04:26,679 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:26,714 [INFO] ⏩ Car is not suspicious: Volkswagen Caddy Maxi
+2025-05-14 23:04:26,750 [INFO] ⏩ Car is not suspicious: Citroen C3 Picasso
+2025-05-14 23:04:26,786 [INFO] ⏩ Car is not suspicious: Nissan Qashqai
+2025-05-14 23:04:26,827 [INFO] ⏩ Car is not suspicious: Volkswagen Caddy Maxi
+2025-05-14 23:04:26,864 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:04:26,901 [INFO] ⏩ Car is not suspicious: Mercedes-Benz Geländewagen
+2025-05-14 23:04:26,936 [INFO] ⏩ Car is not suspicious: Toyota Prius+ Seven
+2025-05-14 23:04:26,972 [INFO] ✅ Found suspicious car: Tesla Model 3 (Price: 3992, Year: 2020, Mileage: 94932)
+2025-05-14 23:04:29,280 [INFO] ⏩ Skipped (monthly payment): Tesla Model 3
+2025-05-14 23:04:29,319 [INFO] ⏩ Car is not suspicious: Renault Zoe
+2025-05-14 23:04:29,358 [INFO] ⏩ Car is not suspicious: Renault Zoe
+2025-05-14 23:04:29,396 [INFO] ⏩ Car is not suspicious: Porsche Cayenne
+2025-05-14 23:04:29,431 [INFO] ⏩ Car is not suspicious: Peugeot e-2008
+2025-05-14 23:04:29,465 [INFO] ⏩ Car is not suspicious: BMW iX xDrive 50
+2025-05-14 23:04:29,503 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:30,638 [INFO] 📄 Scraping page 13
+2025-05-14 23:04:30,693 [INFO] ⏩ Car is not suspicious: Isuzu D-max
+2025-05-14 23:04:30,729 [INFO] ⏩ Car is not suspicious: Kia Soul
+2025-05-14 23:04:30,778 [INFO] ⏩ Car is not suspicious: Porsche Cayenne
+2025-05-14 23:04:30,832 [INFO] ⏩ Car is not suspicious: Honda CR-V
+2025-05-14 23:04:30,880 [INFO] ⏩ Car is not suspicious: Volvo C30
+2025-05-14 23:04:30,917 [INFO] ⏩ Car is not suspicious: Hyundai Kona
+2025-05-14 23:04:30,956 [INFO] ⏩ Car is not suspicious: Opel Mokka
+2025-05-14 23:04:30,995 [INFO] ⏩ Car is not suspicious: Mazda CX-30
+2025-05-14 23:04:31,035 [INFO] ⏩ Car is not suspicious: BMW iX3
+2025-05-14 23:04:31,074 [INFO] ⏩ Car is not suspicious: Ford Galaxy
+2025-05-14 23:04:31,110 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:04:31,144 [INFO] ⏩ Car is not suspicious: Tesla Model X
+2025-05-14 23:04:31,179 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:04:31,220 [INFO] ⏩ Car is not suspicious: Audi A4 allroad
+2025-05-14 23:04:31,255 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:04:31,291 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:04:31,326 [INFO] ⏩ Car is not suspicious: Honda Jazz
+2025-05-14 23:04:31,362 [INFO] ⏩ Car is not suspicious: Skoda Enyaq RS
+2025-05-14 23:04:31,398 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:04:31,433 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:04:31,468 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:04:31,507 [INFO] ⏩ Car is not suspicious: Mazda CX-5
+2025-05-14 23:04:31,559 [INFO] ⏩ Car is not suspicious: BYD Tang
+2025-05-14 23:04:31,594 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:31,629 [INFO] ⏩ Car is not suspicious: Hyundai Kona
+2025-05-14 23:04:31,665 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:31,710 [INFO] ⏩ Car is not suspicious: Kia e-Soul
+2025-05-14 23:04:31,757 [INFO] ⏩ Car is not suspicious: Tesla Model X
+2025-05-14 23:04:31,806 [INFO] ⏩ Car is not suspicious: Peugeot 5008
+2025-05-14 23:04:31,842 [INFO] ⏩ Car is not suspicious: Skoda Citigo
+2025-05-14 23:04:31,880 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4
+2025-05-14 23:04:31,918 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:04:31,955 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:04:31,993 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GL
+2025-05-14 23:04:32,029 [INFO] ⏩ Car is not suspicious: Peugeot 308 SW
+2025-05-14 23:04:32,067 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:04:32,105 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:32,141 [INFO] ⏩ Car is not suspicious: Ford Mustang Mach-E
+2025-05-14 23:04:32,176 [INFO] ⏩ Car is not suspicious: Polestar 2
+2025-05-14 23:04:32,212 [INFO] ⏩ Car is not suspicious: Peugeot 3008
+2025-05-14 23:04:32,250 [INFO] ⏩ Car is not suspicious: Skoda Kamiq
+2025-05-14 23:04:32,285 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:04:32,320 [INFO] ⏩ Car is not suspicious: Tesla Model S
+2025-05-14 23:04:32,356 [INFO] ⏩ Car is not suspicious: Kia Soul
+2025-05-14 23:04:32,393 [INFO] ⏩ Car is not suspicious: Porsche Panamera
+2025-05-14 23:04:32,433 [INFO] ✅ Found suspicious car: BYD Sealion 7 (Price: 3990, Year: 2025, Mileage: 10)
+2025-05-14 23:04:34,796 [INFO] ⏩ Skipped (monthly payment): BYD Sealion 7
+2025-05-14 23:04:34,825 [INFO] ⏩ Car is not suspicious: Opel Mokka
+2025-05-14 23:04:34,863 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4 GTX
+2025-05-14 23:04:34,900 [INFO] ⏩ Car is not suspicious: Kia Cee'd
+2025-05-14 23:04:34,938 [INFO] ⏩ Car is not suspicious: Mazda CX-5
+2025-05-14 23:04:34,979 [INFO] ⏩ Car is not suspicious: Hyundai Tucson
+2025-05-14 23:04:36,068 [INFO] 📄 Scraping page 14
+2025-05-14 23:04:36,119 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:36,155 [INFO] ⏩ Car is not suspicious: Hyundai i20
+2025-05-14 23:04:36,191 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:04:36,227 [INFO] ⏩ Car is not suspicious: Volkswagen Tiguan
+2025-05-14 23:04:36,262 [INFO] ⏩ Car is not suspicious: Peugeot 3008
+2025-05-14 23:04:36,300 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:04:36,337 [INFO] ⏩ Car is not suspicious: Audi e-tron GT
+2025-05-14 23:04:36,374 [INFO] ⏩ Car is not suspicious: Ford S-MAX
+2025-05-14 23:04:36,411 [INFO] ⏩ Car is not suspicious: Subaru Impreza
+2025-05-14 23:04:36,444 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:04:36,480 [INFO] ⏩ Car is not suspicious: Kia Sorento
+2025-05-14 23:04:36,516 [INFO] ⏩ Car is not suspicious: Mercedes-Benz CL
+2025-05-14 23:04:36,551 [INFO] ⏩ Car is not suspicious: Mercedes-Benz CL
+2025-05-14 23:04:36,587 [INFO] ⏩ Car is not suspicious: Mercedes-Benz CL
+2025-05-14 23:04:36,622 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:04:36,660 [INFO] ⏩ Car is not suspicious: BMW iX1
+2025-05-14 23:04:36,697 [INFO] ⏩ Car is not suspicious: Ford Puma
+2025-05-14 23:04:36,735 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:36,777 [INFO] ⏩ Car is not suspicious: Hyundai IONIQ
+2025-05-14 23:04:36,812 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:04:36,848 [INFO] ⏩ Car is not suspicious: Volvo V90
+2025-05-14 23:04:36,884 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:04:36,919 [INFO] ⏩ Car is not suspicious: Mercedes-Benz SL
+2025-05-14 23:04:36,955 [INFO] ✅ Found suspicious car: Hyundai Kona (Price: 5599, Year: 2024, Mileage: 7942)
+2025-05-14 23:04:39,270 [INFO] ⏩ Skipped (monthly payment): Hyundai Kona
+2025-05-14 23:04:39,300 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:04:39,339 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:04:39,376 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:04:39,413 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:04:39,452 [INFO] ⏩ Car is not suspicious: Mercedes-Benz SL
+2025-05-14 23:04:39,493 [INFO] ⏩ Car is not suspicious: BMW 2-serie
+2025-05-14 23:04:39,531 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:04:39,569 [INFO] ⏩ Car is not suspicious: Volvo V90
+2025-05-14 23:04:39,620 [INFO] ⏩ Car is not suspicious: Porsche Taycan
+2025-05-14 23:04:39,660 [INFO] ⏩ Car is not suspicious: Volvo S60
+2025-05-14 23:04:39,697 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:04:39,735 [INFO] ⏩ Car is not suspicious: Mazda 2
+2025-05-14 23:04:39,771 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQC
+2025-05-14 23:04:39,810 [INFO] ⏩ Car is not suspicious: Mazda MX-30
+2025-05-14 23:04:39,847 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:04:39,885 [INFO] ⏩ Car is not suspicious: Mercedes-Benz SL
+2025-05-14 23:04:39,922 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:04:39,958 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:04:39,994 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:04:40,030 [INFO] ✅ Found suspicious car: BYD Dolphin (Price: 1784, Year: 2024, Mileage: 10)
+2025-05-14 23:04:41,767 [INFO] ⏩ Skipped (monthly payment): BYD Dolphin
+2025-05-14 23:04:41,794 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:41,829 [INFO] ⏩ Car is not suspicious: Peugeot iOn
+2025-05-14 23:04:41,864 [INFO] ⏩ Car is not suspicious: Volkswagen Tiguan
+2025-05-14 23:04:41,899 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:04:41,933 [INFO] ⏩ Car is not suspicious: Ford Bronco
+2025-05-14 23:04:41,968 [INFO] ⏩ Car is not suspicious: Hyundai Kona
+2025-05-14 23:04:42,003 [INFO] ⏩ Car is not suspicious: Volvo V90
+2025-05-14 23:04:43,094 [INFO] 📄 Scraping page 15
+2025-05-14 23:04:43,147 [INFO] ⏩ Car is not suspicious: BMW iX xDrive 40
+2025-05-14 23:04:43,186 [INFO] ⏩ Car is not suspicious: Toyota Avensis
+2025-05-14 23:04:43,223 [INFO] ⏩ Car is not suspicious: XPeng G9
+2025-05-14 23:04:43,259 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:04:43,293 [INFO] ⏩ Car is not suspicious: Volkswagen Caravelle
+2025-05-14 23:04:43,331 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4
+2025-05-14 23:04:43,366 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:04:43,403 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:04:43,440 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:04:43,476 [INFO] ⏩ Car is not suspicious: Nissan X-Trail
+2025-05-14 23:04:43,511 [INFO] ⏩ Car is not suspicious: Mitsubishi Eclipse Cross
+2025-05-14 23:04:43,550 [INFO] ⏩ Car is not suspicious: Ford Mondeo
+2025-05-14 23:04:43,586 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:04:43,622 [INFO] ⏩ Car is not suspicious: Alfa Romeo Stelvio
+2025-05-14 23:04:43,658 [INFO] ⏩ Car is not suspicious: Saab 9-3
+2025-05-14 23:04:43,697 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:04:43,735 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:04:43,772 [INFO] ⏩ Car is not suspicious: Toyota C-HR
+2025-05-14 23:04:43,808 [INFO] ⏩ Car is not suspicious: Land Rover Discovery Sport
+2025-05-14 23:04:43,844 [INFO] ⏩ Car is not suspicious: Mercedes-Benz S-Klasse
+2025-05-14 23:04:43,880 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:43,916 [INFO] ⏩ Car is not suspicious: Chevrolet Camaro
+2025-05-14 23:04:43,952 [INFO] ⏩ Car is not suspicious: Volkswagen Caddy Maxi
+2025-05-14 23:04:43,988 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4
+2025-05-14 23:04:44,026 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:04:44,065 [INFO] ⏩ Car is not suspicious: Toyota Corolla Cross
+2025-05-14 23:04:44,103 [INFO] ⏩ Car is not suspicious: Nissan Juke
+2025-05-14 23:04:44,141 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:04:44,181 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:04:44,221 [INFO] ⏩ Car is not suspicious: Peugeot 308
+2025-05-14 23:04:44,260 [INFO] ⏩ Car is not suspicious: Kia e-Soul
+2025-05-14 23:04:44,298 [INFO] ⏩ Car is not suspicious: Lexus RX450h
+2025-05-14 23:04:44,337 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLC
+2025-05-14 23:04:44,376 [INFO] ⏩ Car is not suspicious: Volkswagen Tiguan
+2025-05-14 23:04:44,414 [INFO] ⏩ Car is not suspicious: Volkswagen ID.5 GTX
+2025-05-14 23:04:44,452 [INFO] ⏩ Car is not suspicious: Renault Captur
+2025-05-14 23:04:44,488 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:04:44,524 [INFO] ⏩ Car is not suspicious: Mercedes-Benz B-Klasse
+2025-05-14 23:04:44,561 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:04:44,599 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:04:44,636 [INFO] ⏩ Car is not suspicious: BYD Seal U
+2025-05-14 23:04:44,673 [INFO] ⏩ Car is not suspicious: Toyota RAV4 Plug-in Hybrid
+2025-05-14 23:04:44,711 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:04:44,747 [INFO] ⏩ Car is not suspicious: BMW iX xDrive 40
+2025-05-14 23:04:44,785 [INFO] ⏩ Car is not suspicious: Toyota RAV4 Plug-in Hybrid
+2025-05-14 23:04:44,823 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:04:44,860 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:04:44,898 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:04:44,935 [INFO] ⏩ Car is not suspicious: Toyota Corolla
+2025-05-14 23:04:44,974 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:04:45,010 [INFO] ⏩ Car is not suspicious: Toyota Proace Verso
+2025-05-14 23:04:46,096 [INFO] 📄 Scraping page 16
+2025-05-14 23:04:46,184 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:04:46,229 [INFO] ⏩ Car is not suspicious: MG EHS
+2025-05-14 23:04:46,277 [INFO] ⏩ Car is not suspicious: Peugeot e-2008
+2025-05-14 23:04:46,318 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:04:46,357 [INFO] ⏩ Car is not suspicious: Renault Megane
+2025-05-14 23:04:46,406 [INFO] ⏩ Car is not suspicious: Toyota RAV4 Plug-in Hybrid
+2025-05-14 23:04:46,482 [INFO] ⏩ Car is not suspicious: Opel Rekord
+2025-05-14 23:04:46,527 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLC
+2025-05-14 23:04:46,575 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:04:46,621 [INFO] ⏩ Car is not suspicious: Toyota Prius Plug-in Hybrid
+2025-05-14 23:04:46,675 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:04:46,729 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4 GTX
+2025-05-14 23:04:46,780 [INFO] ⏩ Car is not suspicious: Toyota Prius Plug-in Hybrid
+2025-05-14 23:04:46,830 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:04:46,890 [INFO] ⏩ Car is not suspicious: Toyota Prius Plug-in Hybrid
+2025-05-14 23:04:46,950 [INFO] ⏩ Car is not suspicious: Volkswagen Tiguan
+2025-05-14 23:04:47,015 [INFO] ⏩ Car is not suspicious: Chevrolet Tahoe
+2025-05-14 23:04:47,085 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:04:47,131 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:04:47,187 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4 GTX
+2025-05-14 23:04:47,257 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:04:47,321 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:04:47,376 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:04:47,427 [INFO] ⏩ Car is not suspicious: Toyota Aygo
+2025-05-14 23:04:47,473 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:47,513 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:04:47,551 [INFO] ⏩ Car is not suspicious: Toyota C-HR
+2025-05-14 23:04:47,588 [INFO] ⏩ Car is not suspicious: Mazda 3
+2025-05-14 23:04:47,645 [INFO] ⏩ Car is not suspicious: Kia EV9
+2025-05-14 23:04:47,684 [INFO] ⏩ Car is not suspicious: Volvo V40
+2025-05-14 23:04:47,719 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:47,757 [INFO] ⏩ Car is not suspicious: Skoda Kodiaq Scout
+2025-05-14 23:04:47,799 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:04:47,846 [INFO] ⏩ Car is not suspicious: Nissan Qashqai
+2025-05-14 23:04:47,890 [INFO] ⏩ Car is not suspicious: Hyundai i20
+2025-05-14 23:04:47,930 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:04:47,964 [INFO] ⏩ Car is not suspicious: Mazda MX-30
+2025-05-14 23:04:47,998 [INFO] ✅ Found suspicious car: BMW i4 M50 (Price: 11900, Year: 2025, Mileage: 50)
+2025-05-14 23:04:49,715 [INFO] ⏩ Skipped (monthly payment): BMW i4 M50
+2025-05-14 23:04:49,745 [INFO] ⏩ Car is not suspicious: Volkswagen ID.5 GTX
+2025-05-14 23:04:49,781 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:04:49,816 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:04:49,852 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4
+2025-05-14 23:04:49,887 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:04:49,923 [INFO] ⏩ Car is not suspicious: Jaguar XJ
+2025-05-14 23:04:49,959 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:04:49,993 [INFO] ⏩ Car is not suspicious: DS DS 7 Crossback
+2025-05-14 23:04:50,028 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:50,062 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4 GTX
+2025-05-14 23:04:50,099 [INFO] ⏩ Car is not suspicious: Toyota C-HR
+2025-05-14 23:04:50,134 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:04:50,172 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:04:51,262 [INFO] 📄 Scraping page 17
+2025-05-14 23:04:51,322 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:51,360 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:04:51,396 [INFO] ⏩ Car is not suspicious: Mercedes-Benz B-Klasse
+2025-05-14 23:04:51,430 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:04:51,464 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:04:51,500 [INFO] ⏩ Car is not suspicious: BYD Sealion 7
+2025-05-14 23:04:51,536 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:04:51,572 [INFO] ⏩ Car is not suspicious: Volvo V90
+2025-05-14 23:04:51,607 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQC
+2025-05-14 23:04:51,640 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:04:51,675 [INFO] ⏩ Car is not suspicious: BYD Dolphin
+2025-05-14 23:04:51,712 [INFO] ⏩ Car is not suspicious: Mazda 3
+2025-05-14 23:04:51,746 [INFO] ⏩ Car is not suspicious: BMW 2-serie
+2025-05-14 23:04:51,780 [INFO] ⏩ Car is not suspicious: Volvo V60 Cross Country
+2025-05-14 23:04:51,819 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:04:51,856 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:04:51,892 [INFO] ⏩ Car is not suspicious: Volkswagen ID.7
+2025-05-14 23:04:51,948 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:04:51,984 [INFO] ⏩ Car is not suspicious: Tesla Model S
+2025-05-14 23:04:52,022 [INFO] ⏩ Car is not suspicious: BYD Tang
+2025-05-14 23:04:52,057 [INFO] ⏩ Car is not suspicious: Audi Q4 e-tron
+2025-05-14 23:04:52,094 [INFO] ⏩ Car is not suspicious: Volkswagen ID.7
+2025-05-14 23:04:52,126 [INFO] ⏩ Car is not suspicious: Jaguar I-PACE
+2025-05-14 23:04:52,164 [INFO] ⏩ Car is not suspicious: Volvo V90
+2025-05-14 23:04:52,198 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:04:52,234 [INFO] ⏩ Car is not suspicious: Hyundai IONIQ
+2025-05-14 23:04:52,268 [INFO] ⏩ Car is not suspicious: Opel Zafira
+2025-05-14 23:04:52,305 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:04:52,340 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:04:52,378 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:04:52,413 [INFO] ⏩ Car is not suspicious: Lexus NX 300h
+2025-05-14 23:04:52,453 [INFO] ⏩ Car is not suspicious: Mazda 6
+2025-05-14 23:04:52,489 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:04:52,525 [INFO] ⏩ Car is not suspicious: Mazda 2
+2025-05-14 23:04:52,560 [INFO] ⏩ Car is not suspicious: Ford Capri
+2025-05-14 23:04:52,594 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:04:52,628 [INFO] ⏩ Car is not suspicious: Skoda Superb
+2025-05-14 23:04:52,663 [INFO] ⏩ Car is not suspicious: Toyota C-HR
+2025-05-14 23:04:52,698 [INFO] ⏩ Car is not suspicious: Volvo EX90
+2025-05-14 23:04:52,735 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:04:52,769 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:04:52,805 [INFO] ⏩ Car is not suspicious: MG Marvel R
+2025-05-14 23:04:52,840 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:04:52,876 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:04:52,913 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:04:52,951 [INFO] ⏩ Car is not suspicious: Chevrolet Corvette
+2025-05-14 23:04:52,985 [INFO] ⏩ Car is not suspicious: Opel Astra
+2025-05-14 23:04:53,020 [INFO] ⏩ Car is not suspicious: BMW 2-serie
+2025-05-14 23:04:53,058 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:04:53,094 [INFO] ⏩ Car is not suspicious: Hyundai Ioniq 5
+2025-05-14 23:04:53,130 [INFO] ⏩ Car is not suspicious: Volkswagen Touareg
+2025-05-14 23:04:54,229 [INFO] 📄 Scraping page 18
+2025-05-14 23:04:54,282 [INFO] ⏩ Car is not suspicious: Mercedes-Benz SLK
+2025-05-14 23:04:54,320 [INFO] ⏩ Car is not suspicious: Audi A5
+2025-05-14 23:04:54,356 [INFO] ⏩ Car is not suspicious: Suzuki Swift
+2025-05-14 23:04:54,393 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:04:54,431 [INFO] ⏩ Car is not suspicious: Audi Q4 e-tron
+2025-05-14 23:04:54,469 [INFO] ⏩ Car is not suspicious: Nissan Qashqai
+2025-05-14 23:04:54,505 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:04:54,542 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:04:54,577 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:04:54,613 [INFO] ⏩ Car is not suspicious: Audi Q4 e-tron
+2025-05-14 23:04:54,649 [INFO] ⏩ Car is not suspicious: Volkswagen Boble (gml. type)
+2025-05-14 23:04:54,687 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:04:54,722 [INFO] ⏩ Car is not suspicious: Audi Q4 e-tron
+2025-05-14 23:04:54,758 [INFO] ⏩ Car is not suspicious: BMW 4-serie
+2025-05-14 23:04:54,793 [INFO] ⏩ Car is not suspicious: Porsche Taycan Cross Turismo
+2025-05-14 23:04:54,831 [INFO] ⏩ Car is not suspicious: Audi Q4 e-tron
+2025-05-14 23:04:54,868 [INFO] ⏩ Car is not suspicious: Volkswagen Beetle
+2025-05-14 23:04:54,906 [INFO] ⏩ Car is not suspicious: Lexus CT200h
+2025-05-14 23:04:54,944 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:04:54,983 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4 GTX
+2025-05-14 23:04:55,023 [INFO] ⏩ Car is not suspicious: Fiat Freemont
+2025-05-14 23:04:55,060 [INFO] ⏩ Car is not suspicious: Toyota bZ4X
+2025-05-14 23:04:55,097 [INFO] ⏩ Car is not suspicious: Nissan Qashqai
+2025-05-14 23:04:55,132 [INFO] ⏩ Car is not suspicious: Toyota RAV4 Plug-in Hybrid
+2025-05-14 23:04:55,167 [INFO] ⏩ Car is not suspicious: BMW iX1
+2025-05-14 23:04:55,202 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:04:55,238 [INFO] ⏩ Car is not suspicious: Audi Q7
+2025-05-14 23:04:55,273 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:04:55,308 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:04:55,342 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:04:55,377 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:04:55,413 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQC
+2025-05-14 23:04:55,450 [INFO] ⏩ Car is not suspicious: Volkswagen Tiguan
+2025-05-14 23:04:55,486 [INFO] ⏩ Car is not suspicious: Lexus NX 450h
+2025-05-14 23:04:55,524 [INFO] ⏩ Car is not suspicious: Mercedes-Benz A-Klasse
+2025-05-14 23:04:55,564 [INFO] ⏩ Car is not suspicious: Polestar 2
+2025-05-14 23:04:55,601 [INFO] ⏩ Car is not suspicious: Kia e-Soul
+2025-05-14 23:04:55,638 [INFO] ⏩ Car is not suspicious: Toyota Yaris Cross
+2025-05-14 23:04:55,678 [INFO] ⏩ Car is not suspicious: Tesla Model S
+2025-05-14 23:04:55,717 [INFO] ⏩ Car is not suspicious: Hongqi E-HS9
+2025-05-14 23:04:55,756 [INFO] ⏩ Car is not suspicious: Peugeot 308
+2025-05-14 23:04:55,792 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:04:55,829 [INFO] ⏩ Car is not suspicious: Volvo C70
+2025-05-14 23:04:55,864 [INFO] ⏩ Car is not suspicious: Porsche Macan
+2025-05-14 23:04:55,900 [INFO] ⏩ Car is not suspicious: Volkswagen Tiguan
+2025-05-14 23:04:55,935 [INFO] ⏩ Car is not suspicious: Suzuki Ignis
+2025-05-14 23:04:55,972 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:04:56,009 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:04:56,045 [INFO] ⏩ Car is not suspicious: Chevrolet Chevelle
+2025-05-14 23:04:56,081 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:04:56,115 [INFO] ⏩ Car is not suspicious: Toyota C-HR
+2025-05-14 23:04:57,192 [INFO] 📄 Scraping page 19
+2025-05-14 23:04:57,246 [INFO] ⏩ Car is not suspicious: Peugeot iOn
+2025-05-14 23:04:57,287 [INFO] ⏩ Car is not suspicious: Opel Corsa
+2025-05-14 23:04:57,326 [INFO] ⏩ Car is not suspicious: Volkswagen Polo
+2025-05-14 23:04:57,363 [INFO] ⏩ Car is not suspicious: Mazda 6
+2025-05-14 23:04:57,400 [INFO] ⏩ Car is not suspicious: Nissan Qashqai
+2025-05-14 23:04:57,437 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:04:57,474 [INFO] ⏩ Car is not suspicious: Audi A5
+2025-05-14 23:04:57,511 [INFO] ⏩ Car is not suspicious: Porsche Macan
+2025-05-14 23:04:57,550 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:04:57,587 [INFO] ⏩ Car is not suspicious: Porsche Macan
+2025-05-14 23:04:57,624 [INFO] ⏩ Car is not suspicious: Peugeot Partner
+2025-05-14 23:04:57,661 [INFO] ⏩ Car is not suspicious: Audi A4 allroad
+2025-05-14 23:04:57,699 [INFO] ⏩ Car is not suspicious: Porsche Macan
+2025-05-14 23:04:57,735 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:04:57,771 [INFO] ⏩ Car is not suspicious: Tesla Model S
+2025-05-14 23:04:57,808 [INFO] ⏩ Car is not suspicious: Renault Megane
+2025-05-14 23:04:57,844 [INFO] ⏩ Car is not suspicious: BMW M3
+2025-05-14 23:04:57,880 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:04:57,916 [INFO] ⏩ Car is not suspicious: Kia Cee'd
+2025-05-14 23:04:57,952 [INFO] ⏩ Car is not suspicious: Peugeot 307
+2025-05-14 23:04:57,988 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:04:58,024 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:04:58,063 [INFO] ⏩ Car is not suspicious: Porsche Taycan Sport Turismo
+2025-05-14 23:04:58,102 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:04:58,139 [INFO] ⏩ Car is not suspicious: Mazda MX-30
+2025-05-14 23:04:58,176 [INFO] ⏩ Car is not suspicious: Porsche Taycan Cross Turismo
+2025-05-14 23:04:58,212 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:04:58,250 [INFO] ⏩ Car is not suspicious: Peugeot 208
+2025-05-14 23:04:58,287 [INFO] ⏩ Car is not suspicious: Mercedes-Benz S-Klasse
+2025-05-14 23:04:58,325 [INFO] ⏩ Car is not suspicious: Porsche Taycan Cross Turismo
+2025-05-14 23:04:58,363 [INFO] ⏩ Car is not suspicious: Porsche Taycan
+2025-05-14 23:04:58,399 [INFO] ⏩ Car is not suspicious: MG ZS EV
+2025-05-14 23:04:58,436 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:04:58,474 [INFO] ⏩ Car is not suspicious: Porsche Taycan
+2025-05-14 23:04:58,515 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:04:58,552 [INFO] ⏩ Car is not suspicious: Ford Capri
+2025-05-14 23:04:58,588 [INFO] ⏩ Car is not suspicious: Skoda Yeti
+2025-05-14 23:04:58,624 [INFO] ⏩ Car is not suspicious: Jaguar F-TYPE
+2025-05-14 23:04:58,660 [INFO] ⏩ Car is not suspicious: Toyota RAV4 Plug-in Hybrid
+2025-05-14 23:04:58,698 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:04:58,733 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:04:58,769 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:04:58,804 [INFO] ⏩ Car is not suspicious: Seat Mii
+2025-05-14 23:04:58,842 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:04:58,880 [INFO] ⏩ Car is not suspicious: Audi A4
+2025-05-14 23:04:58,916 [INFO] ⏩ Car is not suspicious: Cadillac Eldorado
+2025-05-14 23:04:58,953 [INFO] ⏩ Car is not suspicious: Volkswagen T-Roc
+2025-05-14 23:04:58,989 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:04:59,025 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:04:59,062 [INFO] ⏩ Car is not suspicious: Ford Mustang
+2025-05-14 23:04:59,098 [INFO] ⏩ Car is not suspicious: Toyota Yaris Cross
+2025-05-14 23:05:00,184 [INFO] 📄 Scraping page 20
+2025-05-14 23:05:00,242 [INFO] ⏩ Car is not suspicious: Alfa Romeo Giulietta
+2025-05-14 23:05:00,280 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:05:00,320 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:00,357 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLC
+2025-05-14 23:05:00,391 [INFO] ⏩ Car is not suspicious: Lexus IS
+2025-05-14 23:05:00,427 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:05:00,465 [INFO] ⏩ Car is not suspicious: Jaguar I-PACE
+2025-05-14 23:05:00,504 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:05:00,541 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:00,578 [INFO] ⏩ Car is not suspicious: DS 3 Crossback
+2025-05-14 23:05:00,617 [INFO] ⏩ Car is not suspicious: Kia Niro
+2025-05-14 23:05:00,654 [INFO] ⏩ Car is not suspicious: BMW iX xDrive 50
+2025-05-14 23:05:00,689 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:05:00,724 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:05:00,760 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:00,815 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQC
+2025-05-14 23:05:00,854 [INFO] ⏩ Car is not suspicious: Honda CR-V
+2025-05-14 23:05:00,890 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:05:00,926 [INFO] ⏩ Car is not suspicious: BYD Atto3
+2025-05-14 23:05:00,964 [INFO] ⏩ Car is not suspicious: Kia Optima
+2025-05-14 23:05:01,000 [INFO] ⏩ Car is not suspicious: MG MG4
+2025-05-14 23:05:01,036 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:01,074 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:01,112 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:01,148 [INFO] ⏩ Car is not suspicious: Toyota C-HR
+2025-05-14 23:05:01,183 [INFO] ⏩ Car is not suspicious: Nissan X-Trail
+2025-05-14 23:05:01,218 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:05:01,253 [INFO] ⏩ Car is not suspicious: Hyundai Kona
+2025-05-14 23:05:01,290 [INFO] ⏩ Car is not suspicious: BMW 4-serie
+2025-05-14 23:05:01,325 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:05:01,362 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:05:01,399 [INFO] ⏩ Car is not suspicious: Ford Tourneo Connect
+2025-05-14 23:05:01,435 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:01,471 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:05:01,506 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:05:01,542 [INFO] ⏩ Car is not suspicious: Nissan Juke
+2025-05-14 23:05:01,579 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQA
+2025-05-14 23:05:01,618 [INFO] ⏩ Car is not suspicious: MG MG4
+2025-05-14 23:05:01,656 [INFO] ⏩ Car is not suspicious: Toyota Yaris Cross
+2025-05-14 23:05:01,693 [INFO] ⏩ Car is not suspicious: Audi A1
+2025-05-14 23:05:01,731 [INFO] ⏩ Car is not suspicious: Hyundai ix35
+2025-05-14 23:05:01,770 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:05:01,807 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:01,843 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:01,879 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:05:01,916 [INFO] ⏩ Car is not suspicious: Toyota Mirai
+2025-05-14 23:05:01,953 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:01,988 [INFO] ⏩ Car is not suspicious: Volkswagen Polo
+2025-05-14 23:05:02,024 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:05:02,057 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4 GTX
+2025-05-14 23:05:02,092 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:03,187 [INFO] 📄 Scraping page 21
+2025-05-14 23:05:03,254 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:05:03,298 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:05:03,335 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:05:03,369 [INFO] ⏩ Car is not suspicious: Porsche 911
+2025-05-14 23:05:03,406 [INFO] ⏩ Car is not suspicious: Mercedes-Benz Vito
+2025-05-14 23:05:03,440 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:05:03,474 [INFO] ⏩ Car is not suspicious: Kia Sportage
+2025-05-14 23:05:03,511 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:05:03,546 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:05:03,581 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:05:03,617 [INFO] ⏩ Car is not suspicious: Volkswagen Touran
+2025-05-14 23:05:03,654 [INFO] ⏩ Car is not suspicious: Hyundai i30
+2025-05-14 23:05:03,689 [INFO] ⏩ Car is not suspicious: Kia Sportage
+2025-05-14 23:05:03,723 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:05:03,758 [INFO] ⏩ Car is not suspicious: Kia EV6
+2025-05-14 23:05:03,797 [INFO] ⏩ Car is not suspicious: Porsche Panamera
+2025-05-14 23:05:03,839 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4
+2025-05-14 23:05:03,875 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:03,915 [INFO] ⏩ Car is not suspicious: Subaru Forester
+2025-05-14 23:05:03,951 [INFO] ⏩ Car is not suspicious: Polestar 3
+2025-05-14 23:05:03,986 [INFO] ⏩ Car is not suspicious: Porsche Cayenne
+2025-05-14 23:05:04,019 [INFO] ⏩ Car is not suspicious: Hyundai ix20
+2025-05-14 23:05:04,054 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:05:04,089 [INFO] ⏩ Car is not suspicious: Volvo V40 Cross Country
+2025-05-14 23:05:04,124 [INFO] ⏩ Car is not suspicious: Hyundai Santa Fe
+2025-05-14 23:05:04,158 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:05:04,193 [INFO] ⏩ Car is not suspicious: Renault Clio
+2025-05-14 23:05:04,229 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:05:04,264 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:05:04,298 [INFO] ⏩ Car is not suspicious: Jaguar I-PACE
+2025-05-14 23:05:04,335 [INFO] ⏩ Car is not suspicious: Volvo V90
+2025-05-14 23:05:04,371 [INFO] ⏩ Car is not suspicious: Ford Explorer
+2025-05-14 23:05:04,396 [INFO] ⏩ Skipped (price is 0): Toyota Auris
+2025-05-14 23:05:04,418 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:04,453 [INFO] ⏩ Car is not suspicious: Land Rover Range Rover Sport
+2025-05-14 23:05:04,490 [INFO] ⏩ Car is not suspicious: Maxus T90 EV
+2025-05-14 23:05:04,524 [INFO] ⏩ Car is not suspicious: Peugeot 3008
+2025-05-14 23:05:04,560 [INFO] ⏩ Car is not suspicious: Ford Mondeo
+2025-05-14 23:05:04,594 [INFO] ⏩ Car is not suspicious: Tesla Model S
+2025-05-14 23:05:04,628 [INFO] ⏩ Car is not suspicious: Mazda CX-3
+2025-05-14 23:05:04,662 [INFO] ⏩ Car is not suspicious: Citroen C3 Picasso
+2025-05-14 23:05:04,700 [INFO] ⏩ Car is not suspicious: Opel Insignia
+2025-05-14 23:05:04,736 [INFO] ⏩ Car is not suspicious: Volvo S60
+2025-05-14 23:05:04,770 [INFO] ⏩ Car is not suspicious: Kia Niro
+2025-05-14 23:05:04,805 [INFO] ⏩ Car is not suspicious: Porsche Taycan Cross Turismo
+2025-05-14 23:05:04,841 [INFO] ⏩ Car is not suspicious: Audi Q4 e-tron
+2025-05-14 23:05:04,879 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:05:04,916 [INFO] ⏩ Car is not suspicious: Toyota Avensis
+2025-05-14 23:05:04,952 [INFO] ⏩ Car is not suspicious: Mercedes-Benz Vito
+2025-05-14 23:05:04,989 [INFO] ⏩ Car is not suspicious: Land Rover Range Rover
+2025-05-14 23:05:05,026 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:05:06,109 [INFO] 📄 Scraping page 22
+2025-05-14 23:05:06,169 [INFO] ✅ Found suspicious car: Nissan Ariya (Price: 4620, Year: 2025, Mileage: 20)
+2025-05-14 23:05:08,418 [INFO] ⏩ Skipped (monthly payment): Nissan Ariya
+2025-05-14 23:05:08,446 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:08,482 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:05:08,518 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:05:08,554 [INFO] ⏩ Car is not suspicious: Tesla Model X
+2025-05-14 23:05:08,590 [INFO] ⏩ Car is not suspicious: Renault 5 E-Tech
+2025-05-14 23:05:08,629 [INFO] ⏩ Car is not suspicious: Audi Q8 e-tron
+2025-05-14 23:05:08,665 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:05:08,706 [INFO] ⏩ Car is not suspicious: Audi Q7
+2025-05-14 23:05:08,754 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:05:08,793 [INFO] ⏩ Car is not suspicious: Toyota RAV4 Plug-in Hybrid
+2025-05-14 23:05:08,830 [INFO] ⏩ Car is not suspicious: Citroen Grand C4 Picasso
+2025-05-14 23:05:08,872 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:05:08,936 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:05:08,976 [INFO] ⏩ Car is not suspicious: Audi Q6 e-tron
+2025-05-14 23:05:09,014 [INFO] ⏩ Car is not suspicious: Hyundai Kona
+2025-05-14 23:05:09,050 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:09,087 [INFO] ⏩ Car is not suspicious: Volvo EX30
+2025-05-14 23:05:09,129 [INFO] ⏩ Car is not suspicious: Ford Mondeo
+2025-05-14 23:05:09,165 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:05:09,200 [INFO] ⏩ Car is not suspicious: Land Rover Range Rover Evoque
+2025-05-14 23:05:09,237 [INFO] ⏩ Car is not suspicious: Polestar 2
+2025-05-14 23:05:09,275 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:05:09,313 [INFO] ⏩ Car is not suspicious: Audi Q8 e-tron
+2025-05-14 23:05:09,350 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:09,387 [INFO] ⏩ Car is not suspicious: Mercedes-Benz B-Klasse
+2025-05-14 23:05:09,420 [INFO] ⏩ Car is not suspicious: BMW iX xDrive 50
+2025-05-14 23:05:09,457 [INFO] ⏩ Car is not suspicious: Peugeot 206
+2025-05-14 23:05:09,493 [INFO] ⏩ Car is not suspicious: Tesla Model X
+2025-05-14 23:05:09,531 [INFO] ⏩ Car is not suspicious: Nissan Qashqai
+2025-05-14 23:05:09,569 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:09,605 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:05:09,639 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:05:09,675 [INFO] ⏩ Car is not suspicious: Lexus UX
+2025-05-14 23:05:09,710 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:05:09,745 [INFO] ⏩ Car is not suspicious: Skoda Kodiaq
+2025-05-14 23:05:09,780 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:09,815 [INFO] ⏩ Car is not suspicious: Audi A1
+2025-05-14 23:05:09,850 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:09,885 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:05:09,919 [INFO] ⏩ Car is not suspicious: Suzuki Vitara
+2025-05-14 23:05:09,952 [INFO] ⏩ Car is not suspicious: Mazda MX-30
+2025-05-14 23:05:09,987 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:05:10,022 [INFO] ⏩ Car is not suspicious: Audi Q8 e-tron
+2025-05-14 23:05:10,058 [INFO] ⏩ Car is not suspicious: BMW iX xDrive 40
+2025-05-14 23:05:10,093 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:05:10,129 [INFO] ⏩ Car is not suspicious: Suzuki Liana
+2025-05-14 23:05:10,164 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:05:10,199 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:10,235 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:10,270 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:11,360 [INFO] 📄 Scraping page 23
+2025-05-14 23:05:11,417 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:05:11,453 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:05:11,490 [INFO] ⏩ Car is not suspicious: Honda Jazz
+2025-05-14 23:05:11,524 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:11,560 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:05:11,595 [INFO] ⏩ Car is not suspicious: Audi A4
+2025-05-14 23:05:11,629 [INFO] ✅ Found suspicious car: Mercedes-Benz GLC (Price: 10254, Year: 2024, Mileage: 2000)
+2025-05-14 23:05:13,954 [INFO] ⏩ Skipped (monthly payment): Mercedes-Benz GLC
+2025-05-14 23:05:13,981 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:05:14,016 [INFO] ⏩ Car is not suspicious: DS DS 7 Crossback
+2025-05-14 23:05:14,051 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:05:14,085 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:05:14,122 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:05:14,159 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:14,194 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:14,230 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:05:14,265 [INFO] ⏩ Car is not suspicious: Volkswagen T-Roc
+2025-05-14 23:05:14,300 [INFO] ⏩ Car is not suspicious: Volkswagen T-Roc
+2025-05-14 23:05:14,337 [INFO] ⏩ Car is not suspicious: Volkswagen Polo
+2025-05-14 23:05:14,371 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:05:14,405 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:14,440 [INFO] ⏩ Car is not suspicious: Citroen C-Zero
+2025-05-14 23:05:14,476 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:14,511 [INFO] ⏩ Car is not suspicious: Volkswagen Touran
+2025-05-14 23:05:14,545 [INFO] ⏩ Car is not suspicious: Hyundai Ioniq 5
+2025-05-14 23:05:14,582 [INFO] ⏩ Car is not suspicious: Volvo EX30
+2025-05-14 23:05:14,619 [INFO] ⏩ Car is not suspicious: Volkswagen Passat Alltrack
+2025-05-14 23:05:14,654 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:05:14,688 [INFO] ⏩ Car is not suspicious: Suzuki Ignis
+2025-05-14 23:05:14,722 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:05:14,756 [INFO] ⏩ Car is not suspicious: Kia e-Niro
+2025-05-14 23:05:14,791 [INFO] ⏩ Car is not suspicious: Skoda Citigo
+2025-05-14 23:05:14,827 [INFO] ⏩ Car is not suspicious: Volkswagen Tiguan
+2025-05-14 23:05:14,864 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:14,898 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:05:14,940 [INFO] ⏩ Car is not suspicious: Kia e-Niro
+2025-05-14 23:05:14,975 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4
+2025-05-14 23:05:15,011 [INFO] ⏩ Car is not suspicious: Kia e-Niro
+2025-05-14 23:05:15,049 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:15,085 [INFO] ⏩ Car is not suspicious: Skoda Octavia Scout
+2025-05-14 23:05:15,121 [INFO] ⏩ Car is not suspicious: Hyundai Andre
+2025-05-14 23:05:15,156 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:05:15,197 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:05:15,234 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:05:15,269 [INFO] ⏩ Car is not suspicious: Land Rover Discovery Sport
+2025-05-14 23:05:15,304 [INFO] ⏩ Car is not suspicious: Volvo V40
+2025-05-14 23:05:15,340 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:15,374 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:15,415 [INFO] ⏩ Car is not suspicious: Audi Q8 e-tron
+2025-05-14 23:05:15,451 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:15,486 [INFO] ⏩ Car is not suspicious: Nissan Qashqai
+2025-05-14 23:05:15,522 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:05:16,609 [INFO] 📄 Scraping page 24
+2025-05-14 23:05:16,667 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:05:16,701 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:05:16,739 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:16,790 [INFO] ⏩ Car is not suspicious: MINI Cooper
+2025-05-14 23:05:16,827 [INFO] ⏩ Car is not suspicious: BMW 4-serie
+2025-05-14 23:05:16,863 [INFO] ⏩ Car is not suspicious: Mitsubishi ASX
+2025-05-14 23:05:16,899 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:16,934 [INFO] ⏩ Car is not suspicious: Volkswagen Kombi
+2025-05-14 23:05:16,972 [INFO] ⏩ Car is not suspicious: Volvo V40
+2025-05-14 23:05:17,012 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:17,050 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:05:17,085 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:17,121 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:05:17,155 [INFO] ⏩ Car is not suspicious: Volkswagen ID.7
+2025-05-14 23:05:17,191 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQE SUV
+2025-05-14 23:05:17,226 [INFO] ⏩ Car is not suspicious: Volvo C30
+2025-05-14 23:05:17,262 [INFO] ⏩ Car is not suspicious: Suzuki SX4
+2025-05-14 23:05:17,299 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:05:17,334 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:05:17,367 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:17,404 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:05:17,441 [INFO] ⏩ Car is not suspicious: Ford Mondeo
+2025-05-14 23:05:17,475 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQC
+2025-05-14 23:05:17,513 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:05:17,549 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:17,583 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:17,616 [INFO] ⏩ Car is not suspicious: XPeng P7
+2025-05-14 23:05:17,653 [INFO] ⏩ Car is not suspicious: Volvo V90
+2025-05-14 23:05:17,688 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4
+2025-05-14 23:05:17,724 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:05:17,758 [INFO] ⏩ Car is not suspicious: Kia Soul
+2025-05-14 23:05:17,794 [INFO] ⏩ Car is not suspicious: BMW i4
+2025-05-14 23:05:17,831 [INFO] ⏩ Car is not suspicious: Subaru Outback
+2025-05-14 23:05:17,866 [INFO] ⏩ Car is not suspicious: NIO ES8
+2025-05-14 23:05:17,901 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:05:17,939 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:05:17,977 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:18,013 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4
+2025-05-14 23:05:18,050 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:05:18,086 [INFO] ⏩ Car is not suspicious: Skoda Yeti
+2025-05-14 23:05:18,123 [INFO] ⏩ Car is not suspicious: Audi e-tron Sportback
+2025-05-14 23:05:18,159 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:05:18,197 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:05:18,234 [INFO] ⏩ Car is not suspicious: Toyota C-HR
+2025-05-14 23:05:18,271 [INFO] ⏩ Car is not suspicious: Mazda MX-30
+2025-05-14 23:05:18,306 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:05:18,344 [INFO] ⏩ Car is not suspicious: Mazda CX-60
+2025-05-14 23:05:18,378 [INFO] ⏩ Car is not suspicious: Volkswagen Passat Alltrack
+2025-05-14 23:05:18,415 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:05:18,451 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:05:18,485 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:05:19,577 [INFO] 📄 Scraping page 25
+2025-05-14 23:05:19,674 [INFO] ⏩ Car is not suspicious: Polestar 2
+2025-05-14 23:05:19,714 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:05:19,750 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:05:19,786 [INFO] ⏩ Car is not suspicious: Renault Zoe
+2025-05-14 23:05:19,823 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLE
+2025-05-14 23:05:19,861 [INFO] ⏩ Car is not suspicious: Peugeot 308 SW
+2025-05-14 23:05:19,897 [INFO] ⏩ Car is not suspicious: Tesla Model X
+2025-05-14 23:05:19,932 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:05:19,968 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:20,005 [INFO] ⏩ Car is not suspicious: Toyota C-HR
+2025-05-14 23:05:20,041 [INFO] ⏩ Car is not suspicious: Maserati GranTurismo
+2025-05-14 23:05:20,079 [INFO] ⏩ Car is not suspicious: Ford Mustang Mach-E
+2025-05-14 23:05:20,119 [INFO] ⏩ Car is not suspicious: MG MG4
+2025-05-14 23:05:20,156 [INFO] ⏩ Car is not suspicious: Kia e-Soul
+2025-05-14 23:05:20,192 [INFO] ⏩ Car is not suspicious: Mazda MX-30
+2025-05-14 23:05:20,228 [INFO] ⏩ Car is not suspicious: Skoda Citigo
+2025-05-14 23:05:20,263 [INFO] ⏩ Car is not suspicious: Skoda Superb
+2025-05-14 23:05:20,300 [INFO] ⏩ Car is not suspicious: BMW iX xDrive 40
+2025-05-14 23:05:20,338 [INFO] ⏩ Car is not suspicious: Porsche 911
+2025-05-14 23:05:20,373 [INFO] ⏩ Car is not suspicious: Skoda Superb
+2025-05-14 23:05:20,409 [INFO] ⏩ Car is not suspicious: Citroen E-C4
+2025-05-14 23:05:20,447 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:20,481 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:05:20,516 [INFO] ⏩ Car is not suspicious: Suzuki Vitara
+2025-05-14 23:05:20,553 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:20,588 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GL
+2025-05-14 23:05:20,621 [INFO] ⏩ Car is not suspicious: Honda e
+2025-05-14 23:05:20,655 [INFO] ⏩ Car is not suspicious: Toyota Corolla
+2025-05-14 23:05:20,690 [INFO] ⏩ Car is not suspicious: Skoda Kodiaq
+2025-05-14 23:05:20,726 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:05:20,762 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:20,797 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:05:20,833 [INFO] ⏩ Car is not suspicious: Nissan Ariya
+2025-05-14 23:05:20,869 [INFO] ⏩ Car is not suspicious: Audi TT
+2025-05-14 23:05:20,905 [INFO] ⏩ Car is not suspicious: Mercedes-Benz MARCO POLO
+2025-05-14 23:05:20,941 [INFO] ⏩ Car is not suspicious: Hyundai Ioniq 5
+2025-05-14 23:05:20,978 [INFO] ⏩ Car is not suspicious: Ford Mustang Mach-E
+2025-05-14 23:05:21,014 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:05:21,050 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:05:21,086 [INFO] ⏩ Car is not suspicious: XPeng G3
+2025-05-14 23:05:21,122 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:05:21,157 [INFO] ⏩ Car is not suspicious: Porsche 911
+2025-05-14 23:05:21,194 [INFO] ⏩ Car is not suspicious: Hyundai Ioniq 5
+2025-05-14 23:05:21,231 [INFO] ⏩ Car is not suspicious: Hyundai Ioniq 6
+2025-05-14 23:05:21,268 [INFO] ⏩ Car is not suspicious: Audi Q4 e-tron
+2025-05-14 23:05:21,304 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLE
+2025-05-14 23:05:21,340 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:05:21,374 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:21,411 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:05:21,450 [INFO] ⏩ Car is not suspicious: Opel Grandland X
+2025-05-14 23:05:21,487 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:05:22,584 [INFO] 📄 Scraping page 26
+2025-05-14 23:05:22,652 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:05:22,690 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:05:22,727 [INFO] ⏩ Car is not suspicious: Renault Captur
+2025-05-14 23:05:22,763 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:22,799 [INFO] ⏩ Car is not suspicious: Toyota Avensis
+2025-05-14 23:05:22,825 [INFO] ⏩ Skipped (price is 0): Kia Soul
+2025-05-14 23:05:22,848 [INFO] ⏩ Car is not suspicious: Audi Q6 e-tron
+2025-05-14 23:05:22,882 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:05:22,932 [INFO] ⏩ Car is not suspicious: Porsche Cayman
+2025-05-14 23:05:22,968 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQC
+2025-05-14 23:05:23,004 [INFO] ⏩ Car is not suspicious: Audi e-tron Sportback
+2025-05-14 23:05:23,039 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:23,076 [INFO] ⏩ Car is not suspicious: MG MG4
+2025-05-14 23:05:23,113 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:05:23,150 [INFO] ⏩ Car is not suspicious: Toyota Prius Plug-in Hybrid
+2025-05-14 23:05:23,186 [INFO] ⏩ Car is not suspicious: Volkswagen ID.7
+2025-05-14 23:05:23,221 [INFO] ⏩ Car is not suspicious: Ford Mustang Mach-E
+2025-05-14 23:05:23,256 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQA
+2025-05-14 23:05:23,292 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:05:23,327 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:05:23,365 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:05:23,400 [INFO] ⏩ Car is not suspicious: Polestar 2
+2025-05-14 23:05:23,438 [INFO] ⏩ Car is not suspicious: Audi e-tron Sportback
+2025-05-14 23:05:23,474 [INFO] ⏩ Car is not suspicious: Peugeot 508
+2025-05-14 23:05:23,510 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:05:23,545 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:05:23,582 [INFO] ⏩ Car is not suspicious: Volkswagen T-Roc
+2025-05-14 23:05:23,619 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQA
+2025-05-14 23:05:23,654 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:05:23,689 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:05:23,723 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:23,759 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:05:23,794 [INFO] ⏩ Car is not suspicious: Audi A6
+2025-05-14 23:05:23,829 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:05:23,864 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:05:23,902 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:05:23,939 [INFO] ⏩ Car is not suspicious: Volkswagen Multivan
+2025-05-14 23:05:23,975 [INFO] ⏩ Car is not suspicious: BMW 4-serie
+2025-05-14 23:05:24,011 [INFO] ⏩ Car is not suspicious: Volkswagen T-Roc
+2025-05-14 23:05:24,047 [INFO] ⏩ Car is not suspicious: Audi Q8 e-tron
+2025-05-14 23:05:24,084 [INFO] ⏩ Car is not suspicious: Opel Combo
+2025-05-14 23:05:24,121 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:24,157 [INFO] ⏩ Car is not suspicious: Skoda Karoq
+2025-05-14 23:05:24,193 [INFO] ⏩ Car is not suspicious: Mazda CX-3
+2025-05-14 23:05:24,235 [INFO] ⏩ Car is not suspicious: Volkswagen UP!
+2025-05-14 23:05:24,275 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:24,313 [INFO] ⏩ Car is not suspicious: Toyota Land Cruiser
+2025-05-14 23:05:24,352 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:24,389 [INFO] ⏩ Car is not suspicious: BYD Tang
+2025-05-14 23:05:24,426 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:05:24,460 [INFO] ⏩ Car is not suspicious: Volvo 850
+2025-05-14 23:05:25,544 [INFO] 📄 Scraping page 27
+2025-05-14 23:05:25,598 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-14 23:05:25,620 [INFO] ⏩ Car is not suspicious: Mazda 6
+2025-05-14 23:05:25,657 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:05:25,691 [INFO] ⏩ Car is not suspicious: Porsche Taycan
+2025-05-14 23:05:25,726 [INFO] ⏩ Car is not suspicious: BYD Atto3
+2025-05-14 23:05:25,762 [INFO] ⏩ Car is not suspicious: Ford Explorer
+2025-05-14 23:05:25,802 [INFO] ⏩ Car is not suspicious: Hyundai Ioniq 5
+2025-05-14 23:05:25,837 [INFO] ⏩ Car is not suspicious: BMW 3-serie GT
+2025-05-14 23:05:25,873 [INFO] ⏩ Car is not suspicious: Toyota Prius+ Seven
+2025-05-14 23:05:25,907 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4
+2025-05-14 23:05:25,941 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:05:25,975 [INFO] ⏩ Car is not suspicious: Hyundai Ioniq 6
+2025-05-14 23:05:26,010 [INFO] ⏩ Car is not suspicious: Kia EV9
+2025-05-14 23:05:26,046 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:26,090 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQE SUV
+2025-05-14 23:05:26,127 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:05:26,165 [INFO] ⏩ Car is not suspicious: Skoda Enyaq Coupe RS
+2025-05-14 23:05:26,199 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:05:26,235 [INFO] ⏩ Car is not suspicious: Kia Soul
+2025-05-14 23:05:26,272 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:05:26,307 [INFO] ⏩ Car is not suspicious: MG MG4
+2025-05-14 23:05:26,344 [INFO] ⏩ Car is not suspicious: Porsche Cayenne Coupe
+2025-05-14 23:05:26,379 [INFO] ⏩ Car is not suspicious: Suzuki Swift
+2025-05-14 23:05:26,415 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:26,450 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:26,483 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:05:26,522 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:05:26,558 [INFO] ⏩ Car is not suspicious: Mercedes-Benz CLA
+2025-05-14 23:05:26,594 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:05:26,628 [INFO] ⏩ Car is not suspicious: Volvo V50
+2025-05-14 23:05:26,666 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:26,706 [INFO] ⏩ Car is not suspicious: Saab 9000
+2025-05-14 23:05:26,743 [INFO] ⏩ Car is not suspicious: Audi A5
+2025-05-14 23:05:26,782 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:05:26,819 [INFO] ⏩ Car is not suspicious: Ford Fiesta
+2025-05-14 23:05:26,856 [INFO] ⏩ Car is not suspicious: Suzuki Grand Vitara
+2025-05-14 23:05:26,893 [INFO] ⏩ Car is not suspicious: Kia e-Niro
+2025-05-14 23:05:26,929 [INFO] ⏩ Car is not suspicious: Toyota Mirai
+2025-05-14 23:05:26,965 [INFO] ⏩ Car is not suspicious: Honda CR-V
+2025-05-14 23:05:27,002 [INFO] ⏩ Car is not suspicious: Mazda 2
+2025-05-14 23:05:27,038 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:27,075 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:05:27,118 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:27,153 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:27,186 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:05:27,222 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:05:27,258 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:05:27,296 [INFO] ⏩ Car is not suspicious: Honda e
+2025-05-14 23:05:27,333 [INFO] ⏩ Car is not suspicious: Citroen Grand C4 Picasso
+2025-05-14 23:05:27,370 [INFO] ⏩ Car is not suspicious: Lexus IS
+2025-05-14 23:05:27,407 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:28,491 [INFO] 📄 Scraping page 28
+2025-05-14 23:05:28,547 [INFO] ⏩ Car is not suspicious: Audi A4
+2025-05-14 23:05:28,587 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:28,627 [INFO] ⏩ Car is not suspicious: Kia Soul
+2025-05-14 23:05:28,665 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:05:28,709 [INFO] ⏩ Car is not suspicious: Suzuki Swift
+2025-05-14 23:05:28,755 [INFO] ⏩ Car is not suspicious: BMW iX xDrive 50
+2025-05-14 23:05:28,791 [INFO] ⏩ Car is not suspicious: Ford Mondeo
+2025-05-14 23:05:28,831 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:05:28,869 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:05:28,908 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:28,955 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:28,998 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:05:29,036 [INFO] ⏩ Car is not suspicious: Volkswagen Polo
+2025-05-14 23:05:29,074 [INFO] ⏩ Car is not suspicious: Mazda CX-5
+2025-05-14 23:05:29,111 [INFO] ⏩ Car is not suspicious: Porsche Taycan
+2025-05-14 23:05:29,148 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:29,190 [INFO] ⏩ Car is not suspicious: Peugeot 308
+2025-05-14 23:05:29,231 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:29,266 [INFO] ⏩ Car is not suspicious: Citroen C4 Aircross
+2025-05-14 23:05:29,301 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:29,337 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:05:29,374 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:05:29,417 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:05:29,460 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:05:29,496 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:29,533 [INFO] ⏩ Car is not suspicious: Skoda Superb
+2025-05-14 23:05:29,603 [INFO] ⏩ Car is not suspicious: Volkswagen Boble (gml. type)
+2025-05-14 23:05:29,644 [INFO] ⏩ Car is not suspicious: Citroen E-C4
+2025-05-14 23:05:29,697 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:05:29,733 [INFO] ⏩ Car is not suspicious: MINI Countryman
+2025-05-14 23:05:29,768 [INFO] ⏩ Car is not suspicious: Audi Q5
+2025-05-14 23:05:29,805 [INFO] ⏩ Car is not suspicious: Volkswagen Multivan
+2025-05-14 23:05:29,841 [INFO] ⏩ Car is not suspicious: Volkswagen Touran
+2025-05-14 23:05:29,885 [INFO] ⏩ Car is not suspicious: Chevrolet Camaro
+2025-05-14 23:05:29,926 [INFO] ⏩ Car is not suspicious: BMW X2
+2025-05-14 23:05:29,961 [INFO] ⏩ Car is not suspicious: Hyundai i30
+2025-05-14 23:05:29,996 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQS SUV
+2025-05-14 23:05:30,031 [INFO] ⏩ Car is not suspicious: Land Rover Range Rover Velar
+2025-05-14 23:05:30,067 [INFO] ⏩ Car is not suspicious: Peugeot 3008
+2025-05-14 23:05:30,107 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:05:30,153 [INFO] ⏩ Car is not suspicious: Hyundai IONIQ
+2025-05-14 23:05:30,190 [INFO] ⏩ Car is not suspicious: Audi A6
+2025-05-14 23:05:30,226 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:05:30,262 [INFO] ⏩ Car is not suspicious: BMW X2
+2025-05-14 23:05:30,296 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:05:30,340 [INFO] ⏩ Car is not suspicious: Volkswagen Crafter
+2025-05-14 23:05:30,385 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:05:30,420 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:05:30,457 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:05:30,492 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:05:30,529 [INFO] ⏩ Car is not suspicious: Mitsubishi Lancer
+2025-05-14 23:05:31,614 [INFO] 📄 Scraping page 29
+2025-05-14 23:05:31,695 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:05:31,736 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:05:31,776 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:05:31,813 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:31,858 [INFO] ⏩ Car is not suspicious: Audi A6
+2025-05-14 23:05:31,899 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:05:31,934 [INFO] ⏩ Car is not suspicious: Hyundai Kona
+2025-05-14 23:05:31,971 [INFO] ⏩ Car is not suspicious: Dodge Challenger
+2025-05-14 23:05:32,006 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:05:32,040 [INFO] ⏩ Car is not suspicious: Toyota bZ4X
+2025-05-14 23:05:32,079 [INFO] ⏩ Car is not suspicious: Mazda CX-5
+2025-05-14 23:05:32,127 [INFO] ⏩ Car is not suspicious: Polestar 2
+2025-05-14 23:05:32,165 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:32,201 [INFO] ⏩ Car is not suspicious: Mitsubishi Colt
+2025-05-14 23:05:32,238 [INFO] ⏩ Car is not suspicious: Hyundai Kona
+2025-05-14 23:05:32,275 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:05:32,322 [INFO] ⏩ Car is not suspicious: Volkswagen UP!
+2025-05-14 23:05:32,367 [INFO] ⏩ Car is not suspicious: MINI Countryman
+2025-05-14 23:05:32,404 [INFO] ⏩ Car is not suspicious: Mazda 6
+2025-05-14 23:05:32,442 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:05:32,480 [INFO] ⏩ Car is not suspicious: Lexus RZ
+2025-05-14 23:05:32,521 [INFO] ⏩ Car is not suspicious: Peugeot 308
+2025-05-14 23:05:32,570 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:32,609 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:32,646 [INFO] ⏩ Car is not suspicious: Skoda Fabia
+2025-05-14 23:05:32,686 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:05:32,734 [INFO] ⏩ Car is not suspicious: Suzuki SX4 S-Cross
+2025-05-14 23:05:32,786 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:32,829 [INFO] ⏩ Car is not suspicious: Ford Explorer
+2025-05-14 23:05:32,865 [INFO] ⏩ Car is not suspicious: Subaru Impreza
+2025-05-14 23:05:32,900 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:05:32,935 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:05:32,981 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:33,022 [INFO] ⏩ Car is not suspicious: BMW X2
+2025-05-14 23:05:33,060 [INFO] ⏩ Car is not suspicious: BMW iX3
+2025-05-14 23:05:33,097 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:05:33,137 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:05:33,173 [INFO] ⏩ Car is not suspicious: BMW 2-serie
+2025-05-14 23:05:33,217 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:05:33,265 [INFO] ⏩ Car is not suspicious: Mercedes-Benz CLA
+2025-05-14 23:05:33,303 [INFO] ⏩ Car is not suspicious: Polestar 2
+2025-05-14 23:05:33,338 [INFO] ⏩ Car is not suspicious: Toyota Avensis
+2025-05-14 23:05:33,375 [INFO] ⏩ Car is not suspicious: Dodge Challenger
+2025-05-14 23:05:33,411 [INFO] ⏩ Car is not suspicious: MG ZS EV
+2025-05-14 23:05:33,454 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:33,496 [INFO] ⏩ Car is not suspicious: MG EHS
+2025-05-14 23:05:33,532 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:05:33,567 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:33,602 [INFO] ⏩ Car is not suspicious: Porsche Taycan
+2025-05-14 23:05:33,638 [INFO] ⏩ Car is not suspicious: Land Rover Range Rover Sport
+2025-05-14 23:05:33,678 [INFO] ⏩ Car is not suspicious: Oldsmobile Delta
+2025-05-14 23:05:34,775 [INFO] 📄 Scraping page 30
+2025-05-14 23:05:34,859 [INFO] ⏩ Car is not suspicious: Ford S-MAX
+2025-05-14 23:05:34,896 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:34,934 [INFO] ⏩ Car is not suspicious: Porsche Taycan Sport Turismo
+2025-05-14 23:05:34,969 [INFO] ⏩ Car is not suspicious: Porsche Macan
+2025-05-14 23:05:35,013 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:05:35,057 [INFO] ⏩ Car is not suspicious: BMW iX2
+2025-05-14 23:05:35,094 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQC
+2025-05-14 23:05:35,130 [INFO] ⏩ Car is not suspicious: Suzuki Across
+2025-05-14 23:05:35,166 [INFO] ⏩ Car is not suspicious: BMW X6
+2025-05-14 23:05:35,201 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:05:35,247 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:05:35,291 [INFO] ⏩ Car is not suspicious: Jeep Compass
+2025-05-14 23:05:35,327 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:05:35,364 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:05:35,401 [INFO] ⏩ Car is not suspicious: Mazda CX-3
+2025-05-14 23:05:35,437 [INFO] ⏩ Car is not suspicious: Toyota bZ4X
+2025-05-14 23:05:35,480 [INFO] ⏩ Car is not suspicious: Volkswagen Caravelle
+2025-05-14 23:05:35,527 [INFO] ⏩ Car is not suspicious: Chevrolet Camaro
+2025-05-14 23:05:35,566 [INFO] ⏩ Car is not suspicious: Mazda CX-5
+2025-05-14 23:05:35,605 [INFO] ⏩ Car is not suspicious: Tesla Model S
+2025-05-14 23:05:35,643 [INFO] ⏩ Car is not suspicious: Ford Mustang Mach-E
+2025-05-14 23:05:35,683 [INFO] ⏩ Car is not suspicious: MG Marvel R
+2025-05-14 23:05:35,729 [INFO] ⏩ Car is not suspicious: Mazda CX-60
+2025-05-14 23:05:35,769 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:05:35,805 [INFO] ⏩ Car is not suspicious: Mercedes-Benz Viano
+2025-05-14 23:05:35,840 [INFO] ⏩ Car is not suspicious: Opel Grandland X
+2025-05-14 23:05:35,876 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:05:35,911 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:05:35,950 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:05:35,996 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:05:36,033 [INFO] ⏩ Car is not suspicious: Land Rover Discovery Sport
+2025-05-14 23:05:36,068 [INFO] ⏩ Car is not suspicious: Jaguar I-PACE
+2025-05-14 23:05:36,104 [INFO] ⏩ Car is not suspicious: Audi Q5
+2025-05-14 23:05:36,140 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4 GTX
+2025-05-14 23:05:36,185 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:05:36,230 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:05:36,266 [INFO] ⏩ Car is not suspicious: NIO ES8
+2025-05-14 23:05:36,300 [INFO] ⏩ Car is not suspicious: Opel Astra
+2025-05-14 23:05:36,336 [INFO] ⏩ Car is not suspicious: Audi Q4 e-tron
+2025-05-14 23:05:36,372 [INFO] ⏩ Car is not suspicious: Polestar 2
+2025-05-14 23:05:36,412 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:05:36,457 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:05:36,493 [INFO] ⏩ Car is not suspicious: Tesla Model X
+2025-05-14 23:05:36,528 [INFO] ⏩ Car is not suspicious: Volkswagen T-Roc
+2025-05-14 23:05:36,563 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQA
+2025-05-14 23:05:36,597 [INFO] ⏩ Car is not suspicious: Land Rover Andre
+2025-05-14 23:05:36,639 [INFO] ⏩ Car is not suspicious: Ford Galaxy
+2025-05-14 23:05:36,685 [INFO] ⏩ Car is not suspicious: Toyota Prius+ Seven
+2025-05-14 23:05:36,722 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:05:36,765 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4
+2025-05-14 23:05:36,801 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQC
+2025-05-14 23:05:37,895 [INFO] 📄 Scraping page 31
+2025-05-14 23:05:37,955 [INFO] ⏩ Car is not suspicious: Citroen E-C4
+2025-05-14 23:05:37,990 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:05:38,026 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:05:38,062 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:38,098 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:38,145 [INFO] ⏩ Car is not suspicious: Toyota bZ4X
+2025-05-14 23:05:38,187 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQV
+2025-05-14 23:05:38,224 [INFO] ⏩ Car is not suspicious: BYD Seal U
+2025-05-14 23:05:38,259 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:05:38,297 [INFO] ⏩ Car is not suspicious: Jaguar I-PACE
+2025-05-14 23:05:38,332 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:05:38,375 [INFO] ⏩ Car is not suspicious: Audi Q4 e-tron
+2025-05-14 23:05:38,421 [INFO] ⏩ Car is not suspicious: Toyota Proace Verso
+2025-05-14 23:05:38,459 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:05:38,494 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:05:38,530 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:05:38,565 [INFO] ⏩ Car is not suspicious: Hyundai Kona
+2025-05-14 23:05:38,609 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:05:38,655 [INFO] ⏩ Car is not suspicious: Jaguar XK
+2025-05-14 23:05:38,693 [INFO] ⏩ Car is not suspicious: Volvo V90
+2025-05-14 23:05:38,730 [INFO] ⏩ Car is not suspicious: MINI Cooper
+2025-05-14 23:05:38,767 [INFO] ⏩ Car is not suspicious: Chevrolet Camaro
+2025-05-14 23:05:38,802 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:05:38,846 [INFO] ⏩ Car is not suspicious: Audi Q4 e-tron
+2025-05-14 23:05:38,889 [INFO] ⏩ Car is not suspicious: Volkswagen T-Roc
+2025-05-14 23:05:38,926 [INFO] ⏩ Car is not suspicious: Toyota Prius Plug-in Hybrid
+2025-05-14 23:05:38,963 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:05:38,999 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:39,035 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:05:39,079 [INFO] ⏩ Car is not suspicious: Audi Q4 e-tron
+2025-05-14 23:05:39,127 [INFO] ⏩ Car is not suspicious: Opel Corsa
+2025-05-14 23:05:39,165 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:39,203 [INFO] ⏩ Car is not suspicious: Ford Tourneo Connect
+2025-05-14 23:05:39,238 [INFO] ⏩ Car is not suspicious: Renault Zoe
+2025-05-14 23:05:39,276 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:05:39,322 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:05:39,363 [INFO] ⏩ Car is not suspicious: Volkswagen Tiguan
+2025-05-14 23:05:39,398 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:39,434 [INFO] ⏩ Car is not suspicious: Volkswagen Tiguan
+2025-05-14 23:05:39,495 [INFO] ⏩ Car is not suspicious: MG Marvel R
+2025-05-14 23:05:39,537 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:05:39,583 [INFO] ⏩ Car is not suspicious: Maxus Euniq 5
+2025-05-14 23:05:39,619 [INFO] ⏩ Car is not suspicious: Volkswagen Caravelle
+2025-05-14 23:05:39,655 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:05:39,693 [INFO] ⏩ Car is not suspicious: Mercedes-Benz CLK
+2025-05-14 23:05:39,729 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQA
+2025-05-14 23:05:39,770 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:05:39,814 [INFO] ⏩ Car is not suspicious: Polestar 2
+2025-05-14 23:05:39,852 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:05:39,878 [INFO] ⏩ Skipped (price is 0): Tesla Model 3
+2025-05-14 23:05:39,901 [INFO] ⏩ Car is not suspicious: Ford Mustang Mach-E
+2025-05-14 23:05:40,993 [INFO] 📄 Scraping page 32
+2025-05-14 23:05:41,052 [INFO] ⏩ Car is not suspicious: BMW 2-serie
+2025-05-14 23:05:41,088 [INFO] ⏩ Car is not suspicious: Nissan Juke
+2025-05-14 23:05:41,126 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:41,165 [INFO] ⏩ Car is not suspicious: Nissan Qashqai
+2025-05-14 23:05:41,202 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLE
+2025-05-14 23:05:41,249 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:05:41,284 [INFO] ⏩ Car is not suspicious: Jaguar I-PACE
+2025-05-14 23:05:41,320 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:41,353 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:41,388 [INFO] ⏩ Car is not suspicious: Peugeot 308
+2025-05-14 23:05:41,428 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:05:41,475 [INFO] ⏩ Car is not suspicious: Kia EV6
+2025-05-14 23:05:41,511 [INFO] ⏩ Car is not suspicious: Volkswagen Tiguan
+2025-05-14 23:05:41,548 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:05:41,585 [INFO] ⏩ Car is not suspicious: Volkswagen Polo Cross
+2025-05-14 23:05:41,620 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:41,663 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:41,706 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:05:41,741 [INFO] ⏩ Car is not suspicious: Toyota RAV4 Plug-in Hybrid
+2025-05-14 23:05:41,778 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:41,813 [INFO] ⏩ Car is not suspicious: Volkswagen Touran
+2025-05-14 23:05:41,847 [INFO] ⏩ Car is not suspicious: Toyota Proace Verso
+2025-05-14 23:05:41,890 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:05:41,935 [INFO] ✅ Found suspicious car: Tesla Model Y (Price: 5490, Year: 2021, Mileage: 94000)
+2025-05-14 23:05:43,227 [INFO] ⏩ Skipped (monthly payment): Tesla Model Y
+2025-05-14 23:05:43,255 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:05:43,292 [INFO] ⏩ Car is not suspicious: Hyundai Kona
+2025-05-14 23:05:43,328 [INFO] ⏩ Car is not suspicious: MG Marvel R
+2025-05-14 23:05:43,366 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:05:43,405 [INFO] ⏩ Car is not suspicious: Tesla Model X
+2025-05-14 23:05:43,440 [INFO] ⏩ Car is not suspicious: Volvo V90
+2025-05-14 23:05:43,488 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:05:43,527 [INFO] ⏩ Car is not suspicious: Toyota Avensis
+2025-05-14 23:05:43,561 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQE
+2025-05-14 23:05:43,600 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQE SUV
+2025-05-14 23:05:43,635 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:43,682 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQE
+2025-05-14 23:05:43,720 [INFO] ⏩ Car is not suspicious: Ford Mondeo
+2025-05-14 23:05:43,756 [INFO] ⏩ Car is not suspicious: Renault Megane
+2025-05-14 23:05:43,790 [INFO] ⏩ Car is not suspicious: Audi A4
+2025-05-14 23:05:43,824 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:05:43,859 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:43,895 [INFO] ⏩ Car is not suspicious: Mercedes-Benz S-Klasse
+2025-05-14 23:05:43,944 [INFO] ⏩ Car is not suspicious: Audi A6
+2025-05-14 23:05:43,982 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:05:44,016 [INFO] ⏩ Car is not suspicious: Opel Insignia
+2025-05-14 23:05:44,051 [INFO] ⏩ Car is not suspicious: Skoda Superb
+2025-05-14 23:05:44,087 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:05:44,129 [INFO] ⏩ Car is not suspicious: Mazda 323
+2025-05-14 23:05:44,174 [INFO] ⏩ Car is not suspicious: Hyundai IONIQ
+2025-05-14 23:05:44,211 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:05:44,247 [INFO] ⏩ Car is not suspicious: Volkswagen UP!
+2025-05-14 23:05:45,322 [INFO] 📄 Scraping page 33
+2025-05-14 23:05:45,382 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:45,419 [INFO] ⏩ Car is not suspicious: Jaguar I-PACE
+2025-05-14 23:05:45,456 [INFO] ⏩ Car is not suspicious: BYD Dolphin
+2025-05-14 23:05:45,492 [INFO] ⏩ Car is not suspicious: Suzuki SX4 S-Cross
+2025-05-14 23:05:45,529 [INFO] ⏩ Car is not suspicious: Peugeot Traveller
+2025-05-14 23:05:45,579 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:05:45,620 [INFO] ⏩ Car is not suspicious: Ford Mondeo
+2025-05-14 23:05:45,660 [INFO] ⏩ Car is not suspicious: Audi Q8
+2025-05-14 23:05:45,694 [INFO] ⏩ Car is not suspicious: Audi RS6
+2025-05-14 23:05:45,734 [INFO] ⏩ Car is not suspicious: Volkswagen Passat Alltrack
+2025-05-14 23:05:45,780 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:05:45,821 [INFO] ⏩ Car is not suspicious: McLaren Andre
+2025-05-14 23:05:45,856 [INFO] ⏩ Car is not suspicious: Mercedes-Benz B-Klasse
+2025-05-14 23:05:45,891 [INFO] ⏩ Car is not suspicious: Mazda CX-5
+2025-05-14 23:05:45,928 [INFO] ⏩ Car is not suspicious: Renault Zoe
+2025-05-14 23:05:45,972 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:05:46,016 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:05:46,055 [INFO] ⏩ Car is not suspicious: Audi A6
+2025-05-14 23:05:46,094 [INFO] ⏩ Car is not suspicious: BMW iX3
+2025-05-14 23:05:46,130 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:05:46,167 [INFO] ⏩ Car is not suspicious: Toyota Yaris Cross
+2025-05-14 23:05:46,209 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:46,254 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:05:46,297 [INFO] ⏩ Car is not suspicious: Volvo S80
+2025-05-14 23:05:46,335 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:05:46,370 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:05:46,403 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:05:46,448 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:05:46,492 [INFO] ⏩ Car is not suspicious: Mazda CX-3
+2025-05-14 23:05:46,528 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:46,563 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:05:46,598 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:05:46,634 [INFO] ⏩ Car is not suspicious: Kia e-Niro
+2025-05-14 23:05:46,674 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4 GTX
+2025-05-14 23:05:46,723 [INFO] ⏩ Car is not suspicious: Skoda Enyaq RS
+2025-05-14 23:05:46,764 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:46,801 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:46,837 [INFO] ⏩ Car is not suspicious: Mazda CX-5
+2025-05-14 23:05:46,874 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:46,922 [INFO] ⏩ Car is not suspicious: Audi Q3
+2025-05-14 23:05:46,965 [INFO] ⏩ Car is not suspicious: Volvo V90 Cross Country
+2025-05-14 23:05:47,001 [INFO] ⏩ Car is not suspicious: SsangYong Korando
+2025-05-14 23:05:47,036 [INFO] ⏩ Car is not suspicious: Volvo V90 Cross Country
+2025-05-14 23:05:47,071 [INFO] ⏩ Car is not suspicious: Kia EV6
+2025-05-14 23:05:47,106 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:05:47,145 [INFO] ⏩ Car is not suspicious: Volkswagen Touran
+2025-05-14 23:05:47,178 [INFO] ⏩ Skipped (price is 0): Honda CR-V
+2025-05-14 23:05:47,207 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:47,244 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:05:47,281 [INFO] ⏩ Car is not suspicious: Toyota Corolla
+2025-05-14 23:05:47,317 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:05:48,413 [INFO] 📄 Scraping page 34
+2025-05-14 23:05:48,471 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:05:48,509 [INFO] ⏩ Car is not suspicious: Peugeot 208
+2025-05-14 23:05:48,547 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:05:48,583 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:48,618 [INFO] ⏩ Car is not suspicious: Lotus Seven
+2025-05-14 23:05:48,667 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:05:48,705 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:05:48,742 [INFO] ⏩ Car is not suspicious: Ford S-MAX
+2025-05-14 23:05:48,781 [INFO] ⏩ Car is not suspicious: Toyota C-HR
+2025-05-14 23:05:48,818 [INFO] ⏩ Car is not suspicious: Hyundai Ioniq 5
+2025-05-14 23:05:48,867 [INFO] ⏩ Car is not suspicious: Chevrolet Corvette
+2025-05-14 23:05:48,910 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:05:48,947 [INFO] ⏩ Car is not suspicious: Volkswagen Caravelle
+2025-05-14 23:05:48,981 [INFO] ⏩ Car is not suspicious: Volvo EX30
+2025-05-14 23:05:49,016 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:49,052 [INFO] ⏩ Car is not suspicious: Audi A6
+2025-05-14 23:05:49,092 [INFO] ⏩ Car is not suspicious: BMW iX xDrive 50
+2025-05-14 23:05:49,138 [INFO] ⏩ Car is not suspicious: Audi e-tron Sportback
+2025-05-14 23:05:49,175 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:05:49,215 [INFO] ⏩ Car is not suspicious: BMW iX xDrive 50
+2025-05-14 23:05:49,253 [INFO] ⏩ Car is not suspicious: Opel Ampera
+2025-05-14 23:05:49,292 [INFO] ⏩ Car is not suspicious: Volvo V90
+2025-05-14 23:05:49,340 [INFO] ⏩ Car is not suspicious: Ford Fiesta
+2025-05-14 23:05:49,380 [INFO] ⏩ Car is not suspicious: Volkswagen Boble (gml. type)
+2025-05-14 23:05:49,415 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:49,451 [INFO] ⏩ Car is not suspicious: Audi A4
+2025-05-14 23:05:49,485 [INFO] ⏩ Car is not suspicious: Volkswagen Caravelle
+2025-05-14 23:05:49,520 [INFO] ⏩ Car is not suspicious: BMW 2-serie
+2025-05-14 23:05:49,558 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:05:49,607 [INFO] ⏩ Car is not suspicious: Mercedes-Benz SLK
+2025-05-14 23:05:49,642 [INFO] ⏩ Car is not suspicious: Skoda Kodiaq
+2025-05-14 23:05:49,676 [INFO] ⏩ Car is not suspicious: Toyota bZ4X
+2025-05-14 23:05:49,711 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:05:49,760 [INFO] ⏩ Car is not suspicious: Ford S-MAX
+2025-05-14 23:05:49,808 [INFO] ⏩ Car is not suspicious: Mercedes-Benz Viano
+2025-05-14 23:05:49,852 [INFO] ⏩ Car is not suspicious: Porsche Taycan
+2025-05-14 23:05:49,886 [INFO] ⏩ Car is not suspicious: BYD Sealion 7
+2025-05-14 23:05:49,922 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:05:49,960 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:05:50,005 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:50,046 [INFO] ⏩ Car is not suspicious: Citroen Berlingo
+2025-05-14 23:05:50,083 [INFO] ✅ Found suspicious car: Nissan Ariya (Price: 4620, Year: 2025, Mileage: 20)
+2025-05-14 23:05:51,103 [INFO] ⏩ Skipped (monthly payment): Nissan Ariya
+2025-05-14 23:05:51,130 [INFO] ⏩ Car is not suspicious: Volkswagen UP!
+2025-05-14 23:05:51,168 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:05:51,204 [INFO] ⏩ Car is not suspicious: Toyota Prius
+2025-05-14 23:05:51,243 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:51,290 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:05:51,338 [INFO] ⏩ Car is not suspicious: Audi e-tron GT
+2025-05-14 23:05:51,384 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:05:51,432 [INFO] ⏩ Car is not suspicious: Volkswagen Golf Alltrack
+2025-05-14 23:05:51,480 [INFO] ⏩ Car is not suspicious: Nissan X-Trail
+2025-05-14 23:05:52,588 [INFO] 📄 Scraping page 35
+2025-05-14 23:05:52,645 [INFO] ⏩ Car is not suspicious: Volvo V90
+2025-05-14 23:05:52,682 [INFO] ✅ Found suspicious car: BYD Sealion 7 (Price: 4052, Year: 2025, Mileage: 10)
+2025-05-14 23:05:55,108 [INFO] ⏩ Skipped (monthly payment): BYD Sealion 7
+2025-05-14 23:05:55,136 [INFO] ⏩ Car is not suspicious: Volkswagen UP!
+2025-05-14 23:05:55,171 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:05:55,206 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:05:55,241 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:05:55,276 [INFO] ⏩ Car is not suspicious: Hyundai Tucson
+2025-05-14 23:05:55,310 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:05:55,349 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:55,382 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:05:55,418 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:55,454 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:55,490 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:05:55,526 [INFO] ⏩ Car is not suspicious: Peugeot 3008
+2025-05-14 23:05:55,563 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:05:55,601 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:05:55,634 [INFO] ⏩ Car is not suspicious: Porsche 911
+2025-05-14 23:05:55,670 [INFO] ⏩ Car is not suspicious: Volkswagen ID.5 GTX
+2025-05-14 23:05:55,706 [INFO] ⏩ Car is not suspicious: Volkswagen Caravelle
+2025-05-14 23:05:55,742 [INFO] ⏩ Car is not suspicious: Mercedes-Benz Vito
+2025-05-14 23:05:55,778 [INFO] ⏩ Car is not suspicious: Skoda Roomster
+2025-05-14 23:05:55,818 [INFO] ⏩ Car is not suspicious: Mercedes-Benz Sprinter
+2025-05-14 23:05:55,855 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:05:55,892 [INFO] ⏩ Car is not suspicious: Opel Mokka
+2025-05-14 23:05:55,926 [INFO] ⏩ Car is not suspicious: MINI Cooper SE
+2025-05-14 23:05:55,963 [INFO] ⏩ Car is not suspicious: Land Rover Range Rover Sport
+2025-05-14 23:05:55,998 [INFO] ⏩ Car is not suspicious: MG ZS EV
+2025-05-14 23:05:56,037 [INFO] ⏩ Car is not suspicious: Porsche Taycan Cross Turismo
+2025-05-14 23:05:56,113 [INFO] ⏩ Car is not suspicious: Kia Optima
+2025-05-14 23:05:56,150 [INFO] ⏩ Car is not suspicious: Kia EV6
+2025-05-14 23:05:56,188 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:05:56,224 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:05:56,259 [INFO] ⏩ Car is not suspicious: Ford Mustang Mach-E
+2025-05-14 23:05:56,292 [INFO] ⏩ Car is not suspicious: Hyundai IONIQ
+2025-05-14 23:05:56,325 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4 GTX
+2025-05-14 23:05:56,360 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:56,396 [INFO] ⏩ Car is not suspicious: Porsche Taycan
+2025-05-14 23:05:56,434 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:56,470 [INFO] ⏩ Car is not suspicious: Cupra Born
+2025-05-14 23:05:56,507 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:56,541 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:05:56,576 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:05:56,617 [INFO] ⏩ Car is not suspicious: Audi Q4 e-tron
+2025-05-14 23:05:56,652 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:05:56,693 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:05:56,732 [INFO] ⏩ Car is not suspicious: Porsche Macan
+2025-05-14 23:05:56,770 [INFO] ⏩ Car is not suspicious: BMW iX xDrive 40
+2025-05-14 23:05:56,806 [INFO] ⏩ Car is not suspicious: Hyundai Tucson
+2025-05-14 23:05:56,843 [INFO] ⏩ Car is not suspicious: Kia Niro
+2025-05-14 23:05:56,879 [INFO] ⏩ Car is not suspicious: Volvo V40 Cross Country
+2025-05-14 23:05:56,915 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:05:57,990 [INFO] 📄 Scraping page 36
+2025-05-14 23:05:58,048 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:05:58,089 [INFO] ⏩ Car is not suspicious: Skoda Kodiaq
+2025-05-14 23:05:58,125 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:05:58,159 [INFO] ⏩ Car is not suspicious: Volkswagen Touran
+2025-05-14 23:05:58,194 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:58,222 [INFO] ⏩ Skipped (price is 0): Skoda Superb
+2025-05-14 23:05:58,244 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:05:58,280 [INFO] ⏩ Car is not suspicious: Suzuki Swift
+2025-05-14 23:05:58,317 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQC
+2025-05-14 23:05:58,354 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:58,391 [INFO] ⏩ Car is not suspicious: Peugeot 5008
+2025-05-14 23:05:58,428 [INFO] ⏩ Car is not suspicious: Audi RS3
+2025-05-14 23:05:58,463 [INFO] ⏩ Car is not suspicious: Ford C-Max
+2025-05-14 23:05:58,500 [INFO] ⏩ Car is not suspicious: Peugeot 308
+2025-05-14 23:05:58,536 [INFO] ⏩ Car is not suspicious: KGM Torres EVX
+2025-05-14 23:05:58,571 [INFO] ⏩ Car is not suspicious: Skoda Octavia Scout
+2025-05-14 23:05:58,606 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:58,642 [INFO] ⏩ Car is not suspicious: Hyundai Ioniq 5
+2025-05-14 23:05:58,679 [INFO] ⏩ Car is not suspicious: Toyota HiLux
+2025-05-14 23:05:58,714 [INFO] ⏩ Car is not suspicious: MG ZS EV
+2025-05-14 23:05:58,748 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQS
+2025-05-14 23:05:58,784 [INFO] ⏩ Car is not suspicious: Audi Q5
+2025-05-14 23:05:58,822 [INFO] ⏩ Car is not suspicious: Nissan e-NV200
+2025-05-14 23:05:58,859 [INFO] ⏩ Car is not suspicious: Kia Cee'd
+2025-05-14 23:05:58,895 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLA
+2025-05-14 23:05:58,931 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:05:58,966 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:05:59,001 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:05:59,036 [INFO] ⏩ Car is not suspicious: Peugeot 5008
+2025-05-14 23:05:59,073 [INFO] ⏩ Car is not suspicious: Citroen E-C4
+2025-05-14 23:05:59,099 [INFO] ⏩ Skipped (price is 0): Skoda Octavia
+2025-05-14 23:05:59,122 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQE SUV
+2025-05-14 23:05:59,159 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:05:59,198 [INFO] ⏩ Car is not suspicious: Hyundai i20
+2025-05-14 23:05:59,240 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:05:59,290 [INFO] ⏩ Car is not suspicious: Ford Fiesta
+2025-05-14 23:05:59,337 [INFO] ⏩ Car is not suspicious: Volkswagen Golf Alltrack
+2025-05-14 23:05:59,385 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:05:59,429 [INFO] ⏩ Car is not suspicious: Land Rover Discovery
+2025-05-14 23:05:59,467 [INFO] ⏩ Car is not suspicious: Chevrolet Suburban
+2025-05-14 23:05:59,502 [INFO] ⏩ Car is not suspicious: Nissan Ariya
+2025-05-14 23:05:59,539 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:05:59,574 [INFO] ⏩ Car is not suspicious: BMW 3-serie GT
+2025-05-14 23:05:59,611 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:05:59,646 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4 GTX
+2025-05-14 23:05:59,682 [INFO] ✅ Found suspicious car: Mazda MX-30 (Price: 1199, Year: 2025, Mileage: 4000)
+2025-05-14 23:06:01,832 [INFO] ⏩ Skipped (monthly payment): Mazda MX-30
+2025-05-14 23:06:01,859 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:01,896 [INFO] ⏩ Car is not suspicious: Ford Mondeo
+2025-05-14 23:06:01,929 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:06:01,963 [INFO] ⏩ Car is not suspicious: Kia Sportage
+2025-05-14 23:06:01,998 [INFO] ⏩ Car is not suspicious: Mercedes-Benz
+2025-05-14 23:06:03,074 [INFO] 📄 Scraping page 37
+2025-05-14 23:06:03,134 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQE SUV
+2025-05-14 23:06:03,173 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:06:03,208 [INFO] ⏩ Car is not suspicious: Opel Combo
+2025-05-14 23:06:03,246 [INFO] ⏩ Car is not suspicious: Ford Mustang Mach-E
+2025-05-14 23:06:03,287 [INFO] ⏩ Car is not suspicious: Peugeot RCZ
+2025-05-14 23:06:03,324 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:06:03,367 [INFO] ⏩ Car is not suspicious: Porsche 911
+2025-05-14 23:06:03,404 [INFO] ⏩ Car is not suspicious: Peugeot e-2008
+2025-05-14 23:06:03,440 [INFO] ⏩ Car is not suspicious: Audi A4
+2025-05-14 23:06:03,475 [INFO] ⏩ Car is not suspicious: Jeep Compass
+2025-05-14 23:06:03,514 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:06:03,555 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:06:03,591 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:06:03,627 [INFO] ⏩ Car is not suspicious: Seres 5
+2025-05-14 23:06:03,663 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:06:03,699 [INFO] ⏩ Car is not suspicious: Skoda Enyaq Coupe RS
+2025-05-14 23:06:03,737 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:03,773 [INFO] ⏩ Car is not suspicious: Skoda Superb
+2025-05-14 23:06:03,811 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:06:03,850 [INFO] ⏩ Car is not suspicious: Renault Scenic
+2025-05-14 23:06:03,886 [INFO] ⏩ Car is not suspicious: Ford S-MAX
+2025-05-14 23:06:03,921 [INFO] ⏩ Car is not suspicious: Maserati Quattroporte
+2025-05-14 23:06:03,958 [INFO] ⏩ Car is not suspicious: Skoda Fabia
+2025-05-14 23:06:03,994 [INFO] ⏩ Car is not suspicious: Peugeot 407
+2025-05-14 23:06:04,032 [INFO] ⏩ Car is not suspicious: Peugeot 307 CC
+2025-05-14 23:06:04,072 [INFO] ⏩ Car is not suspicious: Volvo V90
+2025-05-14 23:06:04,112 [INFO] ⏩ Car is not suspicious: Suzuki Vitara
+2025-05-14 23:06:04,152 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:04,191 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:06:04,226 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:06:04,263 [INFO] ⏩ Car is not suspicious: Toyota Corolla
+2025-05-14 23:06:04,299 [INFO] ⏩ Car is not suspicious: Opel Mokka
+2025-05-14 23:06:04,336 [INFO] ⏩ Car is not suspicious: Ford Mustang Mach-E
+2025-05-14 23:06:04,374 [INFO] ⏩ Car is not suspicious: Jeep Wrangler
+2025-05-14 23:06:04,412 [INFO] ⏩ Car is not suspicious: Peugeot 208
+2025-05-14 23:06:04,454 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:06:04,493 [INFO] ⏩ Car is not suspicious: Skoda Citigo
+2025-05-14 23:06:04,528 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:06:04,563 [INFO] ⏩ Car is not suspicious: Nissan Qashqai
+2025-05-14 23:06:04,598 [INFO] ⏩ Car is not suspicious: Ford Galaxy
+2025-05-14 23:06:04,637 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:06:04,676 [INFO] ⏩ Car is not suspicious: Jaguar XJ
+2025-05-14 23:06:04,715 [INFO] ⏩ Car is not suspicious: Hyundai IONIQ
+2025-05-14 23:06:04,754 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:06:04,792 [INFO] ⏩ Car is not suspicious: MG ZS EV
+2025-05-14 23:06:04,829 [INFO] ⏩ Car is not suspicious: Maserati Ghibli
+2025-05-14 23:06:04,866 [INFO] ⏩ Car is not suspicious: Suzuki Across
+2025-05-14 23:06:04,901 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:06:04,936 [INFO] ⏩ Car is not suspicious: Jeep Avenger
+2025-05-14 23:06:04,961 [INFO] ⏩ Skipped (price is 0): BMW i4 M50
+2025-05-14 23:06:04,983 [INFO] ⏩ Car is not suspicious: Toyota C-HR
+2025-05-14 23:06:06,075 [INFO] 📄 Scraping page 38
+2025-05-14 23:06:06,162 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:06:06,202 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:06,240 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:06:06,276 [INFO] ✅ Found suspicious car: Volkswagen ID.4 (Price: 4160, Year: 2025, Mileage: 10)
+2025-05-14 23:06:08,510 [INFO] ⏩ Skipped (monthly payment): Volkswagen ID.4
+2025-05-14 23:06:08,537 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:06:08,575 [INFO] ⏩ Car is not suspicious: Mercedes-Benz S-Klasse
+2025-05-14 23:06:08,610 [INFO] ⏩ Car is not suspicious: Dodge Challenger
+2025-05-14 23:06:08,646 [INFO] ⏩ Car is not suspicious: BMW X2
+2025-05-14 23:06:08,680 [INFO] ⏩ Car is not suspicious: Volvo V90 Cross Country
+2025-05-14 23:06:08,720 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:06:08,758 [INFO] ⏩ Car is not suspicious: Opel Grandland X
+2025-05-14 23:06:08,793 [INFO] ⏩ Car is not suspicious: BMW X2
+2025-05-14 23:06:08,832 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:06:08,866 [INFO] ⏩ Car is not suspicious: Audi Q5
+2025-05-14 23:06:08,905 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:06:08,943 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:06:08,981 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:06:09,016 [INFO] ⏩ Car is not suspicious: Volkswagen T-Roc
+2025-05-14 23:06:09,052 [INFO] ⏩ Car is not suspicious: Subaru Forester
+2025-05-14 23:06:09,086 [INFO] ⏩ Car is not suspicious: Polestar 2
+2025-05-14 23:06:09,124 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:06:09,161 [INFO] ⏩ Car is not suspicious: Mazda MX-30
+2025-05-14 23:06:09,197 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:06:09,232 [INFO] ⏩ Car is not suspicious: Peugeot e-2008
+2025-05-14 23:06:09,268 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:06:09,303 [INFO] ⏩ Car is not suspicious: Volkswagen Sharan
+2025-05-14 23:06:09,339 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:06:09,377 [INFO] ⏩ Car is not suspicious: Toyota Corolla
+2025-05-14 23:06:09,415 [INFO] ⏩ Car is not suspicious: Ford Explorer
+2025-05-14 23:06:09,450 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:06:09,486 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLC
+2025-05-14 23:06:09,523 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:06:09,560 [INFO] ⏩ Car is not suspicious: Lexus CT200h
+2025-05-14 23:06:09,597 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:06:09,632 [INFO] ⏩ Car is not suspicious: Honda CR-V
+2025-05-14 23:06:09,667 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:06:09,701 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:09,735 [INFO] ⏩ Car is not suspicious: Hyundai Getz
+2025-05-14 23:06:09,769 [INFO] ✅ Found suspicious car: Hyundai Inster (Price: 2680, Year: 2025, Mileage: 10)
+2025-05-14 23:06:11,957 [INFO] ⏩ Skipped (monthly payment): Hyundai Inster
+2025-05-14 23:06:11,985 [INFO] ⏩ Car is not suspicious: Audi Q7
+2025-05-14 23:06:12,022 [INFO] ⏩ Car is not suspicious: Kia e-Soul
+2025-05-14 23:06:12,049 [INFO] ⏩ Skipped (price is 0): Audi e-tron
+2025-05-14 23:06:12,074 [INFO] ⏩ Car is not suspicious: Ford S-MAX
+2025-05-14 23:06:12,113 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:06:12,149 [INFO] ⏩ Car is not suspicious: BMW X2
+2025-05-14 23:06:12,188 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:06:12,227 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:06:12,265 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:06:12,302 [INFO] ⏩ Car is not suspicious: Polestar 3
+2025-05-14 23:06:12,340 [INFO] ⏩ Car is not suspicious: Skoda Superb
+2025-05-14 23:06:12,379 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:06:13,456 [INFO] 📄 Scraping page 39
+2025-05-14 23:06:13,510 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:06:13,545 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:06:13,580 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:06:13,613 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:06:13,646 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:06:13,681 [INFO] ⏩ Car is not suspicious: Toyota RAV4 Plug-in Hybrid
+2025-05-14 23:06:13,717 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4
+2025-05-14 23:06:13,753 [INFO] ⏩ Car is not suspicious: Hyundai IONIQ
+2025-05-14 23:06:13,803 [INFO] ⏩ Car is not suspicious: Ford Ranger
+2025-05-14 23:06:13,853 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:06:13,900 [INFO] ⏩ Car is not suspicious: Peugeot 5008
+2025-05-14 23:06:13,946 [INFO] ⏩ Car is not suspicious: Suzuki Swift
+2025-05-14 23:06:13,994 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:06:14,044 [INFO] ⏩ Car is not suspicious: Chevrolet Tahoe
+2025-05-14 23:06:14,090 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:06:14,138 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:06:14,185 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQA
+2025-05-14 23:06:14,231 [INFO] ⏩ Car is not suspicious: Skoda Superb
+2025-05-14 23:06:14,274 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:06:14,322 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:06:14,369 [INFO] ⏩ Car is not suspicious: Polestar 3
+2025-05-14 23:06:14,401 [INFO] ⏩ Skipped (price is 0): Polestar 2
+2025-05-14 23:06:14,431 [INFO] ⏩ Car is not suspicious: Volkswagen Polo
+2025-05-14 23:06:14,481 [INFO] ⏩ Car is not suspicious: Alfa Romeo Giulia
+2025-05-14 23:06:14,525 [INFO] ⏩ Car is not suspicious: Opel Insignia
+2025-05-14 23:06:14,571 [INFO] ✅ Found suspicious car: Nissan Leaf (Price: 3500, Year: 2022, Mileage: 14900)
+2025-05-14 23:06:16,789 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 23:06:16,816 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:06:16,852 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:06:16,888 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:06:16,923 [INFO] ⏩ Car is not suspicious: Mercedes-Benz B-Klasse
+2025-05-14 23:06:16,957 [INFO] ⏩ Car is not suspicious: BMW iX xDrive 50
+2025-05-14 23:06:16,992 [INFO] ⏩ Car is not suspicious: Audi Q8 e-tron
+2025-05-14 23:06:17,030 [ERROR] ⚠️ Error parsing listing: invalid literal for int() with base 10: ''
+2025-05-14 23:06:17,054 [INFO] ⏩ Car is not suspicious: Nissan Juke
+2025-05-14 23:06:17,090 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:06:17,127 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:06:17,163 [INFO] ⏩ Car is not suspicious: Audi TT
+2025-05-14 23:06:17,198 [INFO] ✅ Found suspicious car: BMW i4 M50 (Price: 7021, Year: 2024, Mileage: 20000)
+2025-05-14 23:06:18,941 [INFO] ⏩ Skipped (monthly payment): BMW i4 M50
+2025-05-14 23:06:18,968 [INFO] ⏩ Car is not suspicious: Skoda Citigo
+2025-05-14 23:06:19,004 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:06:19,040 [INFO] ⏩ Car is not suspicious: Audi A6
+2025-05-14 23:06:19,076 [INFO] ⏩ Car is not suspicious: Jaguar XE
+2025-05-14 23:06:19,110 [INFO] ✅ Found suspicious car: MG MG4 (Price: 8490, Year: 2024, Mileage: 15000)
+2025-05-14 23:06:21,633 [INFO] ⏩ Skipped (monthly payment): MG MG4
+2025-05-14 23:06:21,662 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:06:21,698 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:06:21,737 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:21,772 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:06:21,810 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:06:21,858 [INFO] ⏩ Car is not suspicious: MG ZS EV
+2025-05-14 23:06:21,906 [INFO] ⏩ Car is not suspicious: Nissan Ariya
+2025-05-14 23:06:21,951 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:06:23,136 [INFO] 📄 Scraping page 40
+2025-05-14 23:06:23,196 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:06:23,233 [INFO] ⏩ Car is not suspicious: Suzuki SX4
+2025-05-14 23:06:23,268 [INFO] ⏩ Car is not suspicious: Volkswagen Beetle
+2025-05-14 23:06:23,303 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:06:23,339 [INFO] ⏩ Car is not suspicious: Volkswagen Touran
+2025-05-14 23:06:23,379 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:06:23,415 [INFO] ⏩ Car is not suspicious: Kia Sportage
+2025-05-14 23:06:23,452 [INFO] ⏩ Car is not suspicious: MG Marvel R
+2025-05-14 23:06:23,486 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:06:23,520 [INFO] ⏩ Car is not suspicious: VOYAH FREE
+2025-05-14 23:06:23,556 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:06:23,593 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:06:23,628 [INFO] ⏩ Car is not suspicious: Toyota RAV4 Plug-in Hybrid
+2025-05-14 23:06:23,663 [INFO] ⏩ Car is not suspicious: Volvo V90 Cross Country
+2025-05-14 23:06:23,700 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:06:23,734 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:06:23,772 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:06:23,807 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:06:23,843 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:06:23,877 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:23,912 [INFO] ⏩ Car is not suspicious: Peugeot e-2008
+2025-05-14 23:06:23,949 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:23,989 [INFO] ⏩ Car is not suspicious: Toyota RAV4 Plug-in Hybrid
+2025-05-14 23:06:24,025 [INFO] ⏩ Car is not suspicious: Jaguar I-PACE
+2025-05-14 23:06:24,060 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:06:24,095 [INFO] ⏩ Car is not suspicious: Nissan Ariya
+2025-05-14 23:06:24,129 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:06:24,166 [INFO] ⏩ Car is not suspicious: Toyota HiLux
+2025-05-14 23:06:24,203 [INFO] ⏩ Car is not suspicious: Ford Mondeo
+2025-05-14 23:06:24,240 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:06:24,277 [INFO] ⏩ Car is not suspicious: Mercedes-Benz A-Klasse
+2025-05-14 23:06:24,311 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:24,347 [INFO] ⏩ Car is not suspicious: Mercedes-Benz Sprinter
+2025-05-14 23:06:24,382 [INFO] ⏩ Car is not suspicious: Mercedes-Benz VITO 109 CDI
+2025-05-14 23:06:24,421 [INFO] ⏩ Car is not suspicious: MINI Countryman
+2025-05-14 23:06:24,460 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:06:24,496 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:06:24,531 [INFO] ⏩ Car is not suspicious: Honda CR-V
+2025-05-14 23:06:24,568 [INFO] ⏩ Car is not suspicious: Ferrari 599
+2025-05-14 23:06:24,604 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:24,640 [INFO] ⏩ Car is not suspicious: Volvo V70
+2025-05-14 23:06:24,673 [INFO] ⏩ Car is not suspicious: Tesla Model X
+2025-05-14 23:06:24,712 [INFO] ⏩ Car is not suspicious: Lexus UX
+2025-05-14 23:06:24,749 [INFO] ⏩ Car is not suspicious: Porsche 911
+2025-05-14 23:06:24,787 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:24,824 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:06:24,862 [INFO] ⏩ Car is not suspicious: Nissan Note
+2025-05-14 23:06:24,897 [INFO] ⏩ Car is not suspicious: Hyundai Ioniq 5
+2025-05-14 23:06:24,934 [INFO] ⏩ Car is not suspicious: Toyota Yaris Cross
+2025-05-14 23:06:24,970 [INFO] ⏩ Car is not suspicious: Toyota Yaris Cross
+2025-05-14 23:06:25,004 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:26,091 [INFO] 📄 Scraping page 41
+2025-05-14 23:06:26,153 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:06:26,191 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:06:26,227 [INFO] ⏩ Car is not suspicious: Ford Mondeo
+2025-05-14 23:06:26,264 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:06:26,302 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:06:26,340 [INFO] ⏩ Car is not suspicious: Toyota C-HR
+2025-05-14 23:06:26,366 [INFO] ⏩ Skipped (price is 0): Toyota C-HR
+2025-05-14 23:06:26,389 [INFO] ⏩ Car is not suspicious: Jaguar I-PACE
+2025-05-14 23:06:26,414 [INFO] ⏩ Skipped (price is 0): Toyota RAV4
+2025-05-14 23:06:26,436 [INFO] ⏩ Car is not suspicious: Mercedes-Benz M-Klasse
+2025-05-14 23:06:26,472 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:26,510 [INFO] ⏩ Car is not suspicious: Fiat 500
+2025-05-14 23:06:26,548 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLC
+2025-05-14 23:06:26,585 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:06:26,621 [INFO] ⏩ Car is not suspicious: Volvo S90
+2025-05-14 23:06:26,656 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:06:26,692 [INFO] ⏩ Car is not suspicious: Toyota Land Cruiser
+2025-05-14 23:06:26,728 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:06:26,765 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:06:26,801 [INFO] ⏩ Car is not suspicious: Hyundai Tucson
+2025-05-14 23:06:26,836 [INFO] ⏩ Car is not suspicious: Fiat 500
+2025-05-14 23:06:26,872 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:06:26,908 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLC
+2025-05-14 23:06:26,945 [INFO] ⏩ Car is not suspicious: Mazda CX-30
+2025-05-14 23:06:26,980 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:06:27,017 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:27,053 [INFO] ⏩ Car is not suspicious: Ford Mustang Mach-E
+2025-05-14 23:06:27,087 [INFO] ⏩ Car is not suspicious: Honda CR-V
+2025-05-14 23:06:27,124 [INFO] ⏩ Car is not suspicious: Hyundai Ioniq 5
+2025-05-14 23:06:27,162 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:27,198 [INFO] ⏩ Car is not suspicious: Volvo V60
+2025-05-14 23:06:27,235 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:27,272 [INFO] ⏩ Car is not suspicious: Volvo V40 Cross Country
+2025-05-14 23:06:27,308 [INFO] ⏩ Car is not suspicious: Hyundai IONIQ
+2025-05-14 23:06:27,343 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:06:27,380 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:06:27,414 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:06:27,452 [INFO] ⏩ Car is not suspicious: Volkswagen Sharan
+2025-05-14 23:06:27,487 [INFO] ⏩ Car is not suspicious: Jaguar I-PACE
+2025-05-14 23:06:27,523 [INFO] ⏩ Car is not suspicious: MG Marvel R
+2025-05-14 23:06:27,557 [INFO] ⏩ Car is not suspicious: BMW M3
+2025-05-14 23:06:27,593 [INFO] ⏩ Car is not suspicious: MG ZS EV
+2025-05-14 23:06:27,630 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:27,664 [INFO] ⏩ Car is not suspicious: Peugeot e-2008
+2025-05-14 23:06:27,700 [INFO] ⏩ Car is not suspicious: Mazda CX-5
+2025-05-14 23:06:27,735 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:06:27,771 [INFO] ⏩ Car is not suspicious: BMW 2-serie
+2025-05-14 23:06:27,808 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:06:27,846 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:06:27,885 [INFO] ⏩ Car is not suspicious: Ford S-MAX
+2025-05-14 23:06:27,922 [INFO] ⏩ Car is not suspicious: Lamborghini Gallardo
+2025-05-14 23:06:29,012 [INFO] 📄 Scraping page 42
+2025-05-14 23:06:29,070 [INFO] ⏩ Car is not suspicious: Jaguar XK
+2025-05-14 23:06:29,105 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:06:29,139 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:06:29,173 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:06:29,208 [INFO] ⏩ Car is not suspicious: Mazda 6
+2025-05-14 23:06:29,246 [INFO] ⏩ Car is not suspicious: Volkswagen Polo
+2025-05-14 23:06:29,282 [INFO] ⏩ Car is not suspicious: Mazda 3
+2025-05-14 23:06:29,319 [INFO] ⏩ Car is not suspicious: Mazda CX-5
+2025-05-14 23:06:29,356 [INFO] ⏩ Car is not suspicious: Land Rover Freelander
+2025-05-14 23:06:29,401 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:06:29,448 [INFO] ⏩ Car is not suspicious: Skoda Enyaq RS
+2025-05-14 23:06:29,494 [INFO] ⏩ Car is not suspicious: Ford Mustang
+2025-05-14 23:06:29,539 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:06:29,579 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:06:29,615 [INFO] ⏩ Car is not suspicious: Mazda 3
+2025-05-14 23:06:29,650 [INFO] ⏩ Car is not suspicious: MG Marvel R
+2025-05-14 23:06:29,686 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:06:29,722 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:06:29,757 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:06:29,793 [INFO] ⏩ Car is not suspicious: Kia Optima
+2025-05-14 23:06:29,828 [INFO] ⏩ Car is not suspicious: Lexus RX450h
+2025-05-14 23:06:29,864 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4 GTX
+2025-05-14 23:06:29,900 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:06:29,936 [INFO] ⏩ Car is not suspicious: Volkswagen T-Roc
+2025-05-14 23:06:29,973 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:30,007 [INFO] ⏩ Car is not suspicious: Toyota Prius
+2025-05-14 23:06:30,044 [INFO] ⏩ Car is not suspicious: Audi A1
+2025-05-14 23:06:30,082 [INFO] ⏩ Car is not suspicious: Kia Optima
+2025-05-14 23:06:30,119 [INFO] ⏩ Car is not suspicious: Kia EV3
+2025-05-14 23:06:30,157 [INFO] ⏩ Car is not suspicious: Hyundai Kona
+2025-05-14 23:06:30,195 [INFO] ⏩ Car is not suspicious: Kia e-Soul
+2025-05-14 23:06:30,230 [INFO] ⏩ Car is not suspicious: Toyota C-HR
+2025-05-14 23:06:30,266 [INFO] ⏩ Car is not suspicious: BMW M5
+2025-05-14 23:06:30,302 [INFO] ⏩ Car is not suspicious: Volvo EX30
+2025-05-14 23:06:30,343 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:06:30,391 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:06:30,436 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:06:30,487 [INFO] ⏩ Car is not suspicious: Jaguar I-PACE
+2025-05-14 23:06:30,533 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:30,578 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:06:30,623 [INFO] ⏩ Car is not suspicious: Skoda Rapid Spaceback
+2025-05-14 23:06:30,662 [INFO] ⏩ Car is not suspicious: Volkswagen Tiguan
+2025-05-14 23:06:30,688 [INFO] ⏩ Skipped (price is 0): Kia Soul
+2025-05-14 23:06:30,710 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:06:30,746 [INFO] ⏩ Car is not suspicious: Opel Astra
+2025-05-14 23:06:30,783 [INFO] ⏩ Car is not suspicious: Tesla Model S
+2025-05-14 23:06:30,822 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:06:30,860 [INFO] ⏩ Car is not suspicious: Mercedes-Benz B-Klasse
+2025-05-14 23:06:30,895 [INFO] ⏩ Car is not suspicious: Jaguar F-TYPE
+2025-05-14 23:06:30,931 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:06:30,968 [INFO] ⏩ Car is not suspicious: Opel Insignia
+2025-05-14 23:06:32,088 [INFO] 📄 Scraping page 43
+2025-05-14 23:06:32,144 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:06:32,179 [INFO] ⏩ Car is not suspicious: Maxus Euniq 6
+2025-05-14 23:06:32,216 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:06:32,252 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:06:32,287 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:06:32,324 [INFO] ⏩ Car is not suspicious: Skoda Enyaq
+2025-05-14 23:06:32,361 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:06:32,396 [INFO] ⏩ Car is not suspicious: Mazda CX-3
+2025-05-14 23:06:32,431 [INFO] ⏩ Car is not suspicious: Mercedes-Benz E-Klasse
+2025-05-14 23:06:32,465 [INFO] ⏩ Car is not suspicious: Toyota RAV4 Plug-in Hybrid
+2025-05-14 23:06:32,501 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:06:32,539 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:06:32,578 [INFO] ⏩ Car is not suspicious: Toyota RAV4 Plug-in Hybrid
+2025-05-14 23:06:32,614 [INFO] ⏩ Car is not suspicious: Skoda Superb
+2025-05-14 23:06:32,650 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:06:32,685 [INFO] ⏩ Car is not suspicious: Isuzu D-max
+2025-05-14 23:06:32,721 [INFO] ⏩ Car is not suspicious: Jaguar I-PACE
+2025-05-14 23:06:32,756 [INFO] ⏩ Car is not suspicious: Volkswagen Polo
+2025-05-14 23:06:32,791 [INFO] ⏩ Car is not suspicious: Opel Corsa
+2025-05-14 23:06:32,827 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:06:32,862 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:06:32,898 [INFO] ⏩ Car is not suspicious: Opel Vivaro
+2025-05-14 23:06:32,933 [INFO] ⏩ Car is not suspicious: Audi e-tron GT
+2025-05-14 23:06:32,969 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:06:33,006 [INFO] ⏩ Car is not suspicious: Renault Captur
+2025-05-14 23:06:33,041 [INFO] ⏩ Car is not suspicious: Audi RS5
+2025-05-14 23:06:33,077 [INFO] ⏩ Car is not suspicious: Ford C-Max
+2025-05-14 23:06:33,111 [INFO] ⏩ Car is not suspicious: Volvo EX30
+2025-05-14 23:06:33,144 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:06:33,180 [INFO] ⏩ Car is not suspicious: Hyundai Kona
+2025-05-14 23:06:33,218 [INFO] ⏩ Car is not suspicious: Kia Soul
+2025-05-14 23:06:33,257 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:06:33,294 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:06:33,330 [INFO] ⏩ Car is not suspicious: Volkswagen ID.5 GTX
+2025-05-14 23:06:33,366 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQB
+2025-05-14 23:06:33,403 [INFO] ⏩ Car is not suspicious: Peugeot 508
+2025-05-14 23:06:33,438 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:06:33,474 [INFO] ⏩ Car is not suspicious: Lotus Elise
+2025-05-14 23:06:33,509 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:06:33,544 [INFO] ⏩ Car is not suspicious: Porsche 911
+2025-05-14 23:06:33,570 [INFO] ⏩ Skipped (price is 0): Mitsubishi Outlander
+2025-05-14 23:06:33,592 [INFO] ⏩ Car is not suspicious: Audi A6 allroad
+2025-05-14 23:06:33,631 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:06:33,670 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:06:33,706 [INFO] ⏩ Car is not suspicious: Opel Astra
+2025-05-14 23:06:33,742 [INFO] ⏩ Car is not suspicious: Peugeot 5008
+2025-05-14 23:06:33,779 [INFO] ⏩ Car is not suspicious: Hyundai H-1
+2025-05-14 23:06:33,817 [INFO] ⏩ Car is not suspicious: Cupra Born
+2025-05-14 23:06:33,855 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:06:33,893 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:06:33,932 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:06:35,023 [INFO] 📄 Scraping page 44
+2025-05-14 23:06:35,081 [INFO] ⏩ Car is not suspicious: Chevrolet Andre
+2025-05-14 23:06:35,120 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:06:35,155 [INFO] ⏩ Car is not suspicious: Ford Mondeo
+2025-05-14 23:06:35,189 [INFO] ⏩ Car is not suspicious: Renault Captur
+2025-05-14 23:06:35,215 [INFO] ⏩ Skipped (price is 0): Jaguar I-PACE
+2025-05-14 23:06:35,240 [INFO] ⏩ Car is not suspicious: Lexus LS
+2025-05-14 23:06:35,276 [INFO] ⏩ Car is not suspicious: Volkswagen Passat Alltrack
+2025-05-14 23:06:35,312 [INFO] ⏩ Car is not suspicious: Opel Corsa
+2025-05-14 23:06:35,397 [INFO] ⏩ Car is not suspicious: Porsche Cayenne
+2025-05-14 23:06:35,434 [INFO] ⏩ Car is not suspicious: Mazda CX-5
+2025-05-14 23:06:35,472 [INFO] ⏩ Car is not suspicious: Mazda 6
+2025-05-14 23:06:35,507 [INFO] ⏩ Car is not suspicious: Audi A4
+2025-05-14 23:06:35,543 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:06:35,580 [INFO] ⏩ Car is not suspicious: Peugeot e-2008
+2025-05-14 23:06:35,616 [INFO] ⏩ Car is not suspicious: Peugeot 208
+2025-05-14 23:06:35,652 [INFO] ⏩ Car is not suspicious: MG MG4
+2025-05-14 23:06:35,691 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:06:35,728 [INFO] ⏩ Car is not suspicious: Volkswagen Tiguan
+2025-05-14 23:06:35,764 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:06:35,800 [INFO] ⏩ Car is not suspicious: Ford Mustang Mach-E
+2025-05-14 23:06:35,836 [INFO] ⏩ Car is not suspicious: Skoda Fabia
+2025-05-14 23:06:35,873 [INFO] ⏩ Car is not suspicious: Ford Mondeo
+2025-05-14 23:06:35,908 [INFO] ⏩ Car is not suspicious: Audi A6 allroad
+2025-05-14 23:06:35,945 [INFO] ⏩ Car is not suspicious: Toyota Yaris Cross
+2025-05-14 23:06:35,982 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:06:36,018 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:06:36,057 [INFO] ⏩ Car is not suspicious: Mercedes-Benz Sprinter
+2025-05-14 23:06:36,095 [INFO] ⏩ Car is not suspicious: Austin Andre
+2025-05-14 23:06:36,135 [INFO] ⏩ Car is not suspicious: Nissan Qashqai
+2025-05-14 23:06:36,170 [INFO] ⏩ Car is not suspicious: Peugeot 308
+2025-05-14 23:06:36,207 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:06:36,243 [INFO] ⏩ Car is not suspicious: Renault Grand Scenic
+2025-05-14 23:06:36,280 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:06:36,315 [INFO] ⏩ Car is not suspicious: Alfa Romeo MiTo
+2025-05-14 23:06:36,353 [INFO] ⏩ Car is not suspicious: Audi Q4 e-tron
+2025-05-14 23:06:36,388 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:06:36,424 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GL
+2025-05-14 23:06:36,465 [INFO] ⏩ Car is not suspicious: Fiat 500
+2025-05-14 23:06:36,513 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLE
+2025-05-14 23:06:36,548 [INFO] ⏩ Skipped (price is 0): Audi Q5
+2025-05-14 23:06:36,577 [INFO] ⏩ Car is not suspicious: Volkswagen Polo
+2025-05-14 23:06:36,656 [INFO] ⏩ Car is not suspicious: Mitsubishi ASX
+2025-05-14 23:06:36,701 [INFO] ⏩ Car is not suspicious: Renault Zoe
+2025-05-14 23:06:36,748 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:06:36,788 [INFO] ✅ Found suspicious car: Toyota bZ4X (Price: 4640, Year: 2023, Mileage: 22700)
+2025-05-14 23:06:39,044 [INFO] ⏩ Skipped (monthly payment): Toyota bZ4X
+2025-05-14 23:06:39,073 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4
+2025-05-14 23:06:39,109 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:06:39,145 [INFO] ⏩ Car is not suspicious: Land Rover Discovery Sport
+2025-05-14 23:06:39,181 [INFO] ⏩ Car is not suspicious: Volkswagen Golf Alltrack
+2025-05-14 23:06:39,219 [INFO] ⏩ Car is not suspicious: Kia e-Niro
+2025-05-14 23:06:39,255 [INFO] ⏩ Car is not suspicious: Land Rover Freelander
+2025-05-14 23:06:40,343 [INFO] 📄 Scraping page 45
+2025-05-14 23:06:40,404 [INFO] ⏩ Car is not suspicious: BMW iX M60
+2025-05-14 23:06:40,442 [INFO] ⏩ Car is not suspicious: Nissan X-Trail
+2025-05-14 23:06:40,478 [INFO] ⏩ Car is not suspicious: Honda HR-V
+2025-05-14 23:06:40,515 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:06:40,552 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:06:40,600 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:06:40,638 [INFO] ⏩ Car is not suspicious: Nissan Qashqai
+2025-05-14 23:06:40,665 [INFO] ⏩ Skipped (price is 0): Mercedes-Benz SL
+2025-05-14 23:06:40,689 [INFO] ⏩ Car is not suspicious: Ford Mustang
+2025-05-14 23:06:40,727 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:06:40,767 [INFO] ⏩ Car is not suspicious: Volvo P1800
+2025-05-14 23:06:40,815 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:06:40,854 [INFO] ⏩ Car is not suspicious: Hyundai Kona
+2025-05-14 23:06:40,891 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:06:40,930 [INFO] ⏩ Car is not suspicious: Porsche Panamera
+2025-05-14 23:06:40,969 [INFO] ⏩ Car is not suspicious: Morgan 4/4
+2025-05-14 23:06:41,014 [INFO] ⏩ Car is not suspicious: Mazda CX-3
+2025-05-14 23:06:41,054 [INFO] ⏩ Car is not suspicious: Opel Astra
+2025-05-14 23:06:41,091 [INFO] ⏩ Car is not suspicious: Dodge RAM
+2025-05-14 23:06:41,126 [INFO] ⏩ Car is not suspicious: Skoda Enyaq Coupe RS
+2025-05-14 23:06:41,162 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:06:41,198 [INFO] ⏩ Car is not suspicious: Panther Kallista
+2025-05-14 23:06:41,237 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:06:41,286 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:06:41,326 [INFO] ⏩ Car is not suspicious: Peugeot 206 CC
+2025-05-14 23:06:41,361 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:06:41,397 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:06:41,432 [INFO] ⏩ Car is not suspicious: Renault Zoe
+2025-05-14 23:06:41,477 [INFO] ⏩ Car is not suspicious: Audi Q2
+2025-05-14 23:06:41,521 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:06:41,558 [INFO] ⏩ Car is not suspicious: Citroen Berlingo
+2025-05-14 23:06:41,595 [INFO] ⏩ Car is not suspicious: Hongqi E-HS9
+2025-05-14 23:06:41,632 [INFO] ⏩ Car is not suspicious: Tesla Model S
+2025-05-14 23:06:41,667 [INFO] ⏩ Car is not suspicious: BYD Tang
+2025-05-14 23:06:41,707 [INFO] ⏩ Car is not suspicious: Fiat Freemont
+2025-05-14 23:06:41,755 [INFO] ⏩ Car is not suspicious: MG ZS EV
+2025-05-14 23:06:41,792 [INFO] ⏩ Car is not suspicious: Peugeot 508
+2025-05-14 23:06:41,831 [INFO] ⏩ Car is not suspicious: Audi A4
+2025-05-14 23:06:41,868 [INFO] ⏩ Car is not suspicious: Audi Q7
+2025-05-14 23:06:41,903 [INFO] ⏩ Car is not suspicious: Mercedes-Benz SL
+2025-05-14 23:06:41,947 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:06:41,990 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:06:42,026 [INFO] ⏩ Car is not suspicious: Toyota Yaris Verso
+2025-05-14 23:06:42,062 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:06:42,098 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:06:42,134 [INFO] ⏩ Car is not suspicious: NIO ES8
+2025-05-14 23:06:42,176 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:06:42,221 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:06:42,258 [INFO] ⏩ Car is not suspicious: Jaguar XF
+2025-05-14 23:06:42,296 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:06:42,335 [INFO] ⏩ Car is not suspicious: Land Rover Range Rover Evoque
+2025-05-14 23:06:43,427 [INFO] 📄 Scraping page 46
+2025-05-14 23:06:43,497 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:06:43,544 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:06:43,591 [INFO] ⏩ Car is not suspicious: Tittel mangler
+2025-05-14 23:06:43,639 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:06:43,689 [INFO] ⏩ Car is not suspicious: Audi A8
+2025-05-14 23:06:43,740 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQB
+2025-05-14 23:06:43,777 [INFO] ⏩ Car is not suspicious: MG ZS EV
+2025-05-14 23:06:43,814 [INFO] ⏩ Car is not suspicious: Audi RS6
+2025-05-14 23:06:43,849 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:06:43,895 [INFO] ⏩ Car is not suspicious: Audi e-tron Sportback
+2025-05-14 23:06:43,934 [INFO] ⏩ Car is not suspicious: Audi S3
+2025-05-14 23:06:43,971 [INFO] ⏩ Car is not suspicious: Volvo S60
+2025-05-14 23:06:44,009 [INFO] ⏩ Car is not suspicious: Audi e-tron GT
+2025-05-14 23:06:44,045 [INFO] ⏩ Car is not suspicious: Polestar 2
+2025-05-14 23:06:44,090 [INFO] ⏩ Car is not suspicious: Mercedes-Benz A-Klasse
+2025-05-14 23:06:44,134 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:06:44,171 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:06:44,207 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:06:44,248 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:06:44,284 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:06:44,330 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:06:44,373 [INFO] ✅ Found suspicious car: Volkswagen ID.5 GTX (Price: 6129, Year: 2023, Mileage: 39100)
+2025-05-14 23:06:46,704 [INFO] ⏩ Skipped (monthly payment): Volkswagen ID.5 GTX
+2025-05-14 23:06:46,734 [INFO] ⏩ Car is not suspicious: Opel Astra
+2025-05-14 23:06:46,772 [INFO] ⏩ Car is not suspicious: Jeep Commander
+2025-05-14 23:06:46,808 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:46,843 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:06:46,879 [INFO] ⏩ Car is not suspicious: Opel Astra
+2025-05-14 23:06:46,916 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:46,956 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:06:46,991 [INFO] ⏩ Car is not suspicious: Mercedes-Benz S-Klasse
+2025-05-14 23:06:47,028 [INFO] ⏩ Car is not suspicious: Skoda Fabia
+2025-05-14 23:06:47,065 [INFO] ⏩ Car is not suspicious: SsangYong Rexton
+2025-05-14 23:06:47,103 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:06:47,140 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:06:47,175 [INFO] ⏩ Car is not suspicious: Kia e-Soul
+2025-05-14 23:06:47,211 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:06:47,245 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:47,282 [INFO] ⏩ Car is not suspicious: Volkswagen Golf Plus
+2025-05-14 23:06:47,321 [INFO] ⏩ Car is not suspicious: Peugeot 208
+2025-05-14 23:06:47,358 [INFO] ⏩ Car is not suspicious: Subaru Impreza
+2025-05-14 23:06:47,394 [INFO] ⏩ Car is not suspicious: Renault Zoe
+2025-05-14 23:06:47,432 [INFO] ⏩ Car is not suspicious: Kia Cee'd
+2025-05-14 23:06:47,468 [INFO] ⏩ Car is not suspicious: BMW 7-serie
+2025-05-14 23:06:47,504 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4
+2025-05-14 23:06:47,539 [INFO] ⏩ Car is not suspicious: Toyota HiAce
+2025-05-14 23:06:47,577 [INFO] ⏩ Car is not suspicious: Audi A6
+2025-05-14 23:06:47,613 [INFO] ⏩ Car is not suspicious: Kia Cee'd
+2025-05-14 23:06:47,649 [INFO] ⏩ Car is not suspicious: Volkswagen Tiguan
+2025-05-14 23:06:47,684 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:06:47,721 [INFO] ⏩ Car is not suspicious: Suzuki Ignis
+2025-05-14 23:06:47,758 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:06:48,842 [INFO] 📄 Scraping page 47
+2025-05-14 23:06:48,895 [INFO] ⏩ Car is not suspicious: Mercedes-Benz CLA
+2025-05-14 23:06:48,933 [INFO] ⏩ Car is not suspicious: Hyundai Kona
+2025-05-14 23:06:48,967 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:06:49,003 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:06:49,040 [INFO] ⏩ Car is not suspicious: Ford S-MAX
+2025-05-14 23:06:49,080 [INFO] ⏩ Car is not suspicious: BMW X1
+2025-05-14 23:06:49,118 [INFO] ⏩ Car is not suspicious: Audi Q7
+2025-05-14 23:06:49,155 [INFO] ⏩ Car is not suspicious: Toyota Auris
+2025-05-14 23:06:49,191 [INFO] ⏩ Car is not suspicious: Renault Zoe
+2025-05-14 23:06:49,228 [INFO] ⏩ Car is not suspicious: Tesla Model X
+2025-05-14 23:06:49,268 [INFO] ⏩ Car is not suspicious: Austin Healey Sprite
+2025-05-14 23:06:49,307 [INFO] ⏩ Car is not suspicious: Skoda Superb
+2025-05-14 23:06:49,346 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:06:49,384 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:06:49,423 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:06:49,460 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:06:49,495 [INFO] ⏩ Car is not suspicious: Mercedes-Benz B-Klasse
+2025-05-14 23:06:49,534 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:06:49,574 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:06:49,622 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:06:49,669 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:06:49,717 [INFO] ⏩ Car is not suspicious: Polestar 2
+2025-05-14 23:06:49,765 [INFO] ⏩ Car is not suspicious: Ford Mustang
+2025-05-14 23:06:49,804 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:06:49,840 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:06:49,876 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:06:49,914 [INFO] ⏩ Car is not suspicious: Citroen E-C4
+2025-05-14 23:06:49,951 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:06:49,989 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:06:50,028 [INFO] ⏩ Car is not suspicious: BMW Z3
+2025-05-14 23:06:50,067 [INFO] ⏩ Car is not suspicious: Peugeot 607
+2025-05-14 23:06:50,104 [INFO] ⏩ Car is not suspicious: Nissan Qashqai
+2025-05-14 23:06:50,141 [INFO] ⏩ Car is not suspicious: Suzuki Ignis
+2025-05-14 23:06:50,177 [INFO] ⏩ Car is not suspicious: BMW 1-serie
+2025-05-14 23:06:50,217 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:06:50,255 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:06:50,294 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:06:50,330 [INFO] ⏩ Car is not suspicious: Triumph Spitfire
+2025-05-14 23:06:50,373 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:06:50,410 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:06:50,448 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:50,485 [INFO] ⏩ Car is not suspicious: Audi e-tron
+2025-05-14 23:06:50,521 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:06:50,555 [INFO] ⏩ Car is not suspicious: Mercedes-Benz EQA
+2025-05-14 23:06:50,592 [INFO] ⏩ Car is not suspicious: Volvo XC70
+2025-05-14 23:06:50,631 [INFO] ⏩ Car is not suspicious: Audi A4 allroad
+2025-05-14 23:06:50,670 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:06:50,708 [INFO] ✅ Found suspicious car: Nissan Leaf (Price: 4900, Year: 2023, Mileage: 33000)
+2025-05-14 23:06:52,044 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 23:06:52,073 [INFO] ⏩ Car is not suspicious: Volkswagen ID.4 GTX
+2025-05-14 23:06:52,114 [INFO] ⏩ Car is not suspicious: Volkswagen UP!
+2025-05-14 23:06:52,153 [INFO] ⏩ Car is not suspicious: Volvo V40
+2025-05-14 23:06:53,241 [INFO] 📄 Scraping page 48
+2025-05-14 23:06:53,297 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:06:53,333 [INFO] ⏩ Car is not suspicious: Volkswagen Tiguan
+2025-05-14 23:06:53,371 [INFO] ⏩ Car is not suspicious: Porsche Macan
+2025-05-14 23:06:53,407 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:06:53,444 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:06:53,492 [INFO] ⏩ Car is not suspicious: Volkswagen Multivan
+2025-05-14 23:06:53,529 [INFO] ⏩ Car is not suspicious: Alfa Romeo Brera
+2025-05-14 23:06:53,566 [INFO] ⏩ Car is not suspicious: Fiat 500
+2025-05-14 23:06:53,604 [INFO] ⏩ Car is not suspicious: Subaru Impreza
+2025-05-14 23:06:53,641 [INFO] ⏩ Car is not suspicious: Peugeot 407
+2025-05-14 23:06:53,690 [INFO] ⏩ Car is not suspicious: Mitsubishi Lancer
+2025-05-14 23:06:53,735 [INFO] ⏩ Car is not suspicious: Saab 9-3
+2025-05-14 23:06:53,775 [INFO] ⏩ Car is not suspicious: Mercedes-Benz SL
+2025-05-14 23:06:53,816 [INFO] ⏩ Car is not suspicious: Volvo V50
+2025-05-14 23:06:53,855 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:06:53,893 [INFO] ⏩ Car is not suspicious: Land Rover Defender
+2025-05-14 23:06:53,942 [INFO] ⏩ Car is not suspicious: Ford Explorer
+2025-05-14 23:06:53,981 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:06:54,017 [INFO] ⏩ Car is not suspicious: Suzuki Liana
+2025-05-14 23:06:54,054 [INFO] ⏩ Car is not suspicious: Audi A4
+2025-05-14 23:06:54,090 [INFO] ⏩ Car is not suspicious: Lexus CT200h
+2025-05-14 23:06:54,127 [INFO] ⏩ Car is not suspicious: Citroen C4 Cactus
+2025-05-14 23:06:54,166 [INFO] ⏩ Car is not suspicious: Volvo C40
+2025-05-14 23:06:54,215 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:06:54,250 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:06:54,286 [INFO] ⏩ Car is not suspicious: MG MG4
+2025-05-14 23:06:54,323 [INFO] ⏩ Car is not suspicious: Renault Zoe
+2025-05-14 23:06:54,359 [INFO] ⏩ Car is not suspicious: Mercedes-Benz Vito
+2025-05-14 23:06:54,404 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:06:54,445 [INFO] ⏩ Car is not suspicious: Lincoln Town Car
+2025-05-14 23:06:54,482 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:06:54,519 [INFO] ⏩ Car is not suspicious: Nissan Ariya
+2025-05-14 23:06:54,555 [INFO] ⏩ Car is not suspicious: Tesla Model Y
+2025-05-14 23:06:54,591 [INFO] ⏩ Car is not suspicious: Peugeot 309
+2025-05-14 23:06:54,630 [INFO] ⏩ Car is not suspicious: Dodge Charger
+2025-05-14 23:06:54,679 [INFO] ⏩ Car is not suspicious: Peugeot Rifter
+2025-05-14 23:06:54,716 [INFO] ⏩ Car is not suspicious: Volkswagen Polo
+2025-05-14 23:06:54,753 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:06:54,792 [INFO] ⏩ Car is not suspicious: Land Rover Range Rover
+2025-05-14 23:06:54,828 [INFO] ⏩ Car is not suspicious: Hyundai Ioniq 5
+2025-05-14 23:06:54,867 [INFO] ⏩ Car is not suspicious: Cupra Born
+2025-05-14 23:06:54,918 [INFO] ⏩ Car is not suspicious: Fiat 500
+2025-05-14 23:06:54,956 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:06:54,993 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:06:55,031 [INFO] ⏩ Car is not suspicious: Audi Q4 e-tron
+2025-05-14 23:06:55,067 [INFO] ⏩ Car is not suspicious: Toyota Yaris
+2025-05-14 23:06:55,116 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:06:55,158 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:06:55,194 [INFO] ⏩ Car is not suspicious: Ford Kuga
+2025-05-14 23:06:55,230 [INFO] ⏩ Car is not suspicious: Ford S-MAX
+2025-05-14 23:06:55,273 [INFO] ⏩ Car is not suspicious: BMW Z3
+2025-05-14 23:06:56,361 [INFO] 📄 Scraping page 49
+2025-05-14 23:06:56,416 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLC
+2025-05-14 23:06:56,452 [INFO] ✅ Found suspicious car: Nissan Leaf (Price: 2500, Year: 2022, Mileage: 47000)
+2025-05-14 23:06:57,699 [INFO] ⏩ Skipped (monthly payment): Nissan Leaf
+2025-05-14 23:06:57,728 [INFO] ⏩ Car is not suspicious: Renault Megane
+2025-05-14 23:06:57,765 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:06:57,803 [INFO] ⏩ Car is not suspicious: Toyota Avensis
+2025-05-14 23:06:57,841 [INFO] ⏩ Car is not suspicious: Skoda Fabia
+2025-05-14 23:06:57,878 [INFO] ⏩ Car is not suspicious: Hyundai IONIQ
+2025-05-14 23:06:57,917 [INFO] ⏩ Car is not suspicious: Peugeot e-2008
+2025-05-14 23:06:57,966 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:06:58,007 [INFO] ⏩ Car is not suspicious: Volkswagen Polo
+2025-05-14 23:06:58,045 [INFO] ⏩ Car is not suspicious: Toyota RAV4
+2025-05-14 23:06:58,082 [INFO] ⏩ Car is not suspicious: Mazda 3
+2025-05-14 23:06:58,121 [INFO] ⏩ Car is not suspicious: Ford Mondeo
+2025-05-14 23:06:58,167 [INFO] ⏩ Car is not suspicious: BMW M5
+2025-05-14 23:06:58,206 [INFO] ⏩ Car is not suspicious: Volvo V40
+2025-05-14 23:06:58,245 [INFO] ⏩ Car is not suspicious: Mercedes-Benz SLK
+2025-05-14 23:06:58,285 [INFO] ⏩ Car is not suspicious: Chevrolet Impala
+2025-05-14 23:06:58,327 [INFO] ⏩ Car is not suspicious: Dodge RAM
+2025-05-14 23:06:58,374 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:06:58,413 [INFO] ⏩ Car is not suspicious: Suzuki Swift
+2025-05-14 23:06:58,453 [INFO] ⏩ Car is not suspicious: Volkswagen Golf Sportsvan
+2025-05-14 23:06:58,492 [INFO] ⏩ Car is not suspicious: Renault 14
+2025-05-14 23:06:58,535 [INFO] ⏩ Car is not suspicious: Jaguar I-PACE
+2025-05-14 23:06:58,581 [INFO] ⏩ Car is not suspicious: Kia EV6
+2025-05-14 23:06:58,622 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:06:58,661 [INFO] ⏩ Car is not suspicious: Tesla Model X
+2025-05-14 23:06:58,701 [INFO] ⏩ Car is not suspicious: BMW Z1
+2025-05-14 23:06:58,742 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:06:58,788 [INFO] ⏩ Car is not suspicious: Volkswagen Passat CC
+2025-05-14 23:06:58,826 [INFO] ⏩ Car is not suspicious: Polestar 2
+2025-05-14 23:06:58,862 [INFO] ⏩ Car is not suspicious: Kia e-Niro
+2025-05-14 23:06:58,899 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:06:58,938 [INFO] ⏩ Car is not suspicious: Honda Jazz
+2025-05-14 23:06:58,982 [INFO] ⏩ Car is not suspicious: Volvo XC40
+2025-05-14 23:06:59,022 [INFO] ⏩ Car is not suspicious: Volvo EX30
+2025-05-14 23:06:59,058 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:59,094 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:06:59,131 [INFO] ⏩ Car is not suspicious: Pontiac Trans Am
+2025-05-14 23:06:59,170 [INFO] ⏩ Car is not suspicious: Renault Captur
+2025-05-14 23:06:59,215 [INFO] ⏩ Car is not suspicious: Tesla Model 3
+2025-05-14 23:06:59,257 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:06:59,296 [INFO] ⏩ Car is not suspicious: Renault Captur
+2025-05-14 23:06:59,331 [INFO] ✅ Found suspicious car: Peugeot 3008 (Price: 7500, Year: 2024, Mileage: 7300)
+2025-05-14 23:07:01,637 [INFO] ⏩ Skipped (monthly payment): Peugeot 3008
+2025-05-14 23:07:01,668 [INFO] ⏩ Car is not suspicious: Volvo XC90
+2025-05-14 23:07:01,705 [INFO] ⏩ Car is not suspicious: Skoda Kodiaq
+2025-05-14 23:07:01,741 [INFO] ⏩ Car is not suspicious: Skoda Citigo
+2025-05-14 23:07:01,777 [INFO] ⏩ Car is not suspicious: Mercedes-Benz SL
+2025-05-14 23:07:01,813 [INFO] ⏩ Car is not suspicious: Nissan NV200
+2025-05-14 23:07:01,860 [INFO] ⏩ Car is not suspicious: Mercedes-Benz CLA
+2025-05-14 23:07:01,906 [INFO] ⏩ Car is not suspicious: Audi TT
+2025-05-14 23:07:01,942 [INFO] ⏩ Car is not suspicious: BMW i3
+2025-05-14 23:07:03,026 [INFO] 📄 Scraping page 50
+2025-05-14 23:07:03,078 [INFO] ⏩ Car is not suspicious: Peugeot 508
+2025-05-14 23:07:03,116 [INFO] ⏩ Car is not suspicious: Hyundai i30
+2025-05-14 23:07:03,154 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:07:03,194 [INFO] ⏩ Car is not suspicious: Chevrolet Suburban
+2025-05-14 23:07:03,234 [INFO] ⏩ Car is not suspicious: Skoda Kodiaq
+2025-05-14 23:07:03,281 [INFO] ⏩ Car is not suspicious: Toyota bZ4X
+2025-05-14 23:07:03,319 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLK
+2025-05-14 23:07:03,356 [INFO] ⏩ Car is not suspicious: Skoda Fabia
+2025-05-14 23:07:03,393 [INFO] ⏩ Car is not suspicious: Subaru Impreza
+2025-05-14 23:07:03,430 [INFO] ⏩ Car is not suspicious: Audi A4
+2025-05-14 23:07:03,477 [INFO] ⏩ Car is not suspicious: Nissan Leaf
+2025-05-14 23:07:03,520 [INFO] ⏩ Car is not suspicious: Mercedes-Benz A-Klasse
+2025-05-14 23:07:03,558 [INFO] ⏩ Car is not suspicious: Toyota Avensis
+2025-05-14 23:07:03,597 [INFO] ⏩ Car is not suspicious: Volkswagen Golf
+2025-05-14 23:07:03,635 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:07:03,670 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:07:03,713 [INFO] ⏩ Car is not suspicious: Nissan Almera
+2025-05-14 23:07:03,756 [INFO] ⏩ Car is not suspicious: Volkswagen Polo
+2025-05-14 23:07:03,794 [INFO] ⏩ Car is not suspicious: Volkswagen Passat
+2025-05-14 23:07:03,830 [INFO] ⏩ Car is not suspicious: Porsche Taycan Cross Turismo
+2025-05-14 23:07:03,868 [INFO] ⏩ Car is not suspicious: BMW X3
+2025-05-14 23:07:03,906 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:07:03,949 [INFO] ⏩ Car is not suspicious: Lexus GS
+2025-05-14 23:07:03,991 [INFO] ⏩ Car is not suspicious: Audi A3
+2025-05-14 23:07:04,027 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:07:04,064 [INFO] ⏩ Car is not suspicious: Peugeot 108
+2025-05-14 23:07:04,100 [INFO] ⏩ Car is not suspicious: Subaru Impreza
+2025-05-14 23:07:04,139 [INFO] ⏩ Car is not suspicious: Mitsubishi Outlander
+2025-05-14 23:07:04,179 [INFO] ⏩ Car is not suspicious: Ford Mondeo
+2025-05-14 23:07:04,222 [INFO] ⏩ Car is not suspicious: Peugeot 208
+2025-05-14 23:07:04,259 [INFO] ⏩ Car is not suspicious: Subaru Legacy
+2025-05-14 23:07:04,296 [INFO] ⏩ Car is not suspicious: Volvo 144
+2025-05-14 23:07:04,331 [INFO] ⏩ Car is not suspicious: Suzuki SX4
+2025-05-14 23:07:04,367 [INFO] ⏩ Car is not suspicious: Mazda CX-5
+2025-05-14 23:07:04,409 [INFO] ⏩ Car is not suspicious: Volkswagen ID.3
+2025-05-14 23:07:04,453 [INFO] ⏩ Car is not suspicious: Volkswagen Polo
+2025-05-14 23:07:04,491 [INFO] ⏩ Car is not suspicious: Audi e-tron Sportback
+2025-05-14 23:07:04,526 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:07:04,562 [INFO] ⏩ Car is not suspicious: Toyota Verso
+2025-05-14 23:07:04,601 [INFO] ⏩ Car is not suspicious: Toyota Verso
+2025-05-14 23:07:04,643 [INFO] ⏩ Car is not suspicious: Citroen Berlingo
+2025-05-14 23:07:04,687 [INFO] ⏩ Car is not suspicious: Fiat Panda
+2025-05-14 23:07:04,725 [INFO] ⏩ Car is not suspicious: BMW i4 M50
+2025-05-14 23:07:04,762 [INFO] ⏩ Car is not suspicious: BMW X5
+2025-05-14 23:07:04,797 [INFO] ⏩ Car is not suspicious: NIO ES8
+2025-05-14 23:07:04,833 [INFO] ⏩ Car is not suspicious: Volkswagen Arteon
+2025-05-14 23:07:04,877 [INFO] ⏩ Car is not suspicious: BMW 5-serie
+2025-05-14 23:07:04,921 [INFO] ⏩ Car is not suspicious: Subaru Forester
+2025-05-14 23:07:04,960 [INFO] ⏩ Car is not suspicious: Peugeot 5008
+2025-05-14 23:07:05,000 [INFO] ⏩ Car is not suspicious: Toyota C-HR
+2025-05-14 23:07:05,038 [INFO] ⏩ Car is not suspicious: Audi A6 allroad
+2025-05-14 23:07:05,055 [INFO] ✅ Reached last page.
+2025-05-14 23:07:05,140 [INFO] 🆕 Added 2505 new ads.
+2025-05-14 23:07:05,166 [INFO] 💾 Saved 2506 entries to 'D:\Projects\CodeA\PythonProject\finn_car_scraper\data\finn_cars.json'
+2025-05-14 23:11:11,713 [WARNING] 
+❌ Scraper stopped by user.
+2025-05-14 23:11:18,704 [INFO] 🔁 Scraping every 15 min. Press Ctrl+C to stop.
+2025-05-14 23:11:18,705 [INFO] 
+⏳ Scraping new data...
+2025-05-14 23:11:21,601 [INFO] ✅ Cookie consent accepted.
+2025-05-14 23:11:22,103 [INFO] 📄 Scraping page 1
+2025-05-14 23:11:22,223 [INFO] ⏩ Car is not suspicious: Hyundai i30
+2025-05-14 23:11:22,274 [INFO] ⏩ Car is not suspicious: Subaru Outback
+2025-05-14 23:11:22,354 [INFO] ⏩ Car is not suspicious: Mercedes-Benz GLA
+2025-05-14 23:11:22,393 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:11:22,434 [INFO] ⏩ Car is not suspicious: Audi TT
+2025-05-14 23:11:22,478 [INFO] ⏩ Car is not suspicious: XPeng G9
+2025-05-14 23:11:22,521 [INFO] ⏩ Car is not suspicious: Volvo V50
+2025-05-14 23:11:22,564 [INFO] ⏩ Car is not suspicious: Land Rover Freelander
+2025-05-14 23:11:22,608 [INFO] ⏩ Car is not suspicious: Volkswagen Polo
+2025-05-14 23:11:22,645 [INFO] ⏩ Car is not suspicious: BMW 3-serie
+2025-05-14 23:11:22,687 [INFO] ⏩ Car is not suspicious: Audi A6
+2025-05-14 23:11:22,727 [INFO] ⏩ Car is not suspicious: Ford Focus
+2025-05-14 23:11:22,766 [INFO] ⏩ Car is not suspicious: Skoda Octavia
+2025-05-14 23:11:22,804 [INFO] ⏩ Car is not suspicious: Volkswagen Caravelle
+2025-05-14 23:11:22,840 [INFO] ⏩ Car is not suspicious: Skoda Superb
+2025-05-14 23:11:22,875 [INFO] ⏩ Car is not suspicious: Peugeot 508
+2025-05-14 23:11:22,911 [INFO] ⏩ Car is not suspicious: Volvo XC60
+2025-05-14 23:11:22,948 [INFO] ⏩ Car is not suspicious: Skoda Superb
+2025-05-14 23:11:22,987 [INFO] ⏩ Car is not suspicious: Mercedes-Benz C-Klasse
+2025-05-14 23:11:23,031 [INFO] ⏩ Car is not suspicious: Volkswagen Transporter
+2025-05-14 23:11:23,169 [WARNING] 
+❌ Scraper stopped by user.
+2025-05-14 23:11:23,173 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-05-14 23:11:23,426 [INFO] 🔁 Scraping every 15 min. Press Ctrl+C to stop.
+2025-05-14 23:11:23,426 [INFO] 
+⏳ Scraping new data...
+2025-05-14 23:11:25,787 [INFO] ✅ Cookie consent accepted.
+2025-05-14 23:11:26,169 [WARNING] 
+❌ Scraper stopped by user.
