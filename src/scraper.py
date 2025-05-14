@@ -4,6 +4,9 @@ import time
 import re
 
 def accept_cookie_consent(page):
+    """
+    Accepts cookie consent popup if present on the page.
+    """
     try:
         iframe = page.wait_for_selector("iframe[id^='sp_message_iframe_']", timeout=8000)
         frame = iframe.content_frame()
@@ -15,8 +18,10 @@ def accept_cookie_consent(page):
     except Exception:
         logging.warning("⚠️ Error accepting cookie consent.")
 
-
 def go_to_next_page(page, page_number):
+    """
+    Navigates to the next page of listings, if available.
+    """
     try:
         next_btn = page.query_selector("a:has-text('Neste')")
         if not next_btn or not next_btn.is_enabled():
@@ -29,8 +34,12 @@ def go_to_next_page(page, page_number):
         logging.info("✅ No more pages (or navigation failed).")
         return False
 
-
 def scrape_finn_cars(return_data=False):
+    """
+    Scrapes car listings from Finn.no.
+    Filters suspicious listings (low price, recent year, low mileage).
+    Returns the collected data if return_data=True.
+    """
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
@@ -68,7 +77,7 @@ def scrape_finn_cars(return_data=False):
                     if not link:
                         continue
 
-                    # Parse price
+                    # Price parsing
                     raw_price_elem = listing.query_selector("span.t3.font-bold")
                     raw_price = raw_price_elem.inner_text().strip() if raw_price_elem else "0"
                     price = int(re.sub(r"\D", "", raw_price) or 0)
@@ -77,91 +86,60 @@ def scrape_finn_cars(return_data=False):
                         logging.info(f"⏩ Skipped (price is 0): {title}")
                         continue
 
-
-
-                    # Parse year, mileage
+                    # Year, mileage and other details
                     details_text_elem = listing.query_selector("span.text-caption.font-bold")
                     details_text = details_text_elem.inner_text() if details_text_elem else ""
                     details = details_text.split(" ∙ ")
                     year = int(details[0]) if len(details) > 0 and details[0].isdigit() else 0
                     mileage = int(re.sub(r"\D", "", details[1])) if len(details) > 1 else 999999
 
-                    # ✅ Pre-filter the ads (price <= 10000 and year >= 2020 and mileage <= 100000)
-                    if price <= 15000 and year >= 2019 and mileage <= 100000:
-                        logging.info(
-                            f"✅ Found suspicious car: {title} (Price: {price}, Year: {year}, Mileage: {mileage})")
+                    # Filter for suspicious (possibly underpriced) cars
+                    suspicious = price <= 15000 and year >= 2019 and mileage <= 100000
 
-                        # Open ad page to check for monthly payment info
+                    if suspicious:
+                        logging.info(
+                            f"✅ Found suspicious car: {title} (Price: {price}, Year: {year}, Mileage: {mileage})"
+                        )
+                        # Check ad page for financing (monthly payment)
                         ad_page = context.new_page()
                         try:
                             ad_page.goto(link, timeout=10000)
                             ad_page.wait_for_selector("body", timeout=3000)
-
-                            # Check for "Månedspris"
-                            monthly_info = ad_page.query_selector_all("p")
-                            if any("Månedspris" in (p.inner_text() or "") for p in monthly_info):
+                            if any("Månedspris" in (p.inner_text() or "") for p in ad_page.query_selector_all("p")):
                                 logging.info(f"⏩ Skipped (monthly payment): {title}")
-                                continue  # Skip ads with monthly payments
-
+                                continue
                         except Exception as e:
                             logging.warning(f"⚠️ Could not open ad page for '{title}': {e}")
                             continue
                         finally:
                             ad_page.close()
 
-                        logging.info(
-                            f"✅ {title} passed suspicious test: (Price: {price}, Year: {year}, Mileage: {mileage})")
-                        # ✅ Passed all checks → Add car
-                        transmission = details[2] if len(details) > 2 else "N/A"
-                        fuel = details[3] if len(details) > 3 else "N/A"
-                        location_elem = listing.query_selector("div.text-detail span:first-child")
-                        location = location_elem.inner_text().strip() if location_elem else "N/A"
-                        ad_id_elem = listing.query_selector("div.absolute[aria-owns^='search-ad-']")
-                        ad_id = ad_id_elem.get_attribute("aria-owns").replace("search-ad-", "") if ad_id_elem else "N/A"
+                        logging.info(f"✅ Passed final check: {title}")
 
-                        car_data.append({
-                            "Annonse ID": ad_id,
-                            "Title": title,
-                            "Price": price,
-                            "Year": year,
-                            "Mileage": mileage,
-                            "Transmission": transmission,
-                            "Fuel": fuel,
-                            "Location": location
-                        })
+                    # Collect shared data regardless of suspicion
+                    transmission = details[2] if len(details) > 2 else "N/A"
+                    fuel = details[3] if len(details) > 3 else "N/A"
+                    location_elem = listing.query_selector("div.text-detail span:first-child")
+                    location = location_elem.inner_text().strip() if location_elem else "N/A"
+                    ad_id_elem = listing.query_selector("div.absolute[aria-owns^='search-ad-']")
+                    ad_id = ad_id_elem.get_attribute("aria-owns").replace("search-ad-", "") if ad_id_elem else "N/A"
 
-                    else:
-
-                        # logging.info(f"⏩ Car is not suspicious: {title}")
-
-
-
-                        # ✅ Add car to list regardless of being suspicious
-                        transmission = details[2] if len(details) > 2 else "N/A"
-                        fuel = details[3] if len(details) > 3 else "N/A"
-                        location_elem = listing.query_selector("div.text-detail span:first-child")
-                        location = location_elem.inner_text().strip() if location_elem else "N/A"
-                        ad_id_elem = listing.query_selector("div.absolute[aria-owns^='search-ad-']")
-                        ad_id = ad_id_elem.get_attribute("aria-owns").replace("search-ad-", "") if ad_id_elem else "N/A"
-
-                        car_data.append({
-                            "Annonse ID": ad_id,
-                            "Title": title,
-                            "Price": price,
-                            "Year": year,
-                            "Mileage": mileage,
-                            "Transmission": transmission,
-                            "Fuel": fuel,
-                            "Location": location
-                        })
-
-
+                    car_data.append({
+                        "Annonse ID": ad_id,
+                        "Title": title,
+                        "Price": price,
+                        "Year": year,
+                        "Mileage": mileage,
+                        "Transmission": transmission,
+                        "Fuel": fuel,
+                        "Location": location
+                    })
 
                 except Exception as e:
                     logging.error(f"⚠️ Error parsing listing: {e}")
                     continue
 
-            # Go to the next page
+            # Pagination
             if not go_to_next_page(page, page_number):
                 break
             page_number += 1
