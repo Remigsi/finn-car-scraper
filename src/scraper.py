@@ -3,7 +3,6 @@ import logging
 import time
 import re
 
-
 def accept_cookie_consent(page):
     try:
         iframe = page.wait_for_selector("iframe[id^='sp_message_iframe_']", timeout=8000)
@@ -81,51 +80,54 @@ def scrape_finn_cars(return_data=False):
                     year = int(details[0]) if len(details) > 0 and details[0].isdigit() else 0
                     mileage = int(re.sub(r"\D", "", details[1])) if len(details) > 1 else 999999
 
-                    # Filter logic
-                    if not (price <= 10000 and year >= 2020 and mileage <= 100000):
-                        continue
+                    # ✅ Pre-filter the ads (price <= 10000 and year >= 2020 and mileage <= 100000)
+                    if (price <= 10000 and year >= 2020 and mileage <= 100000):
+                        # continue  # Skip ads that don't meet the filter criteria
 
-                    # Open ad page to check for monthly payment info
-                    try:
+                        # Open ad page to check for monthly payment info
                         ad_page = context.new_page()
-                        ad_page.goto(link, timeout=10000)
-                        ad_page.wait_for_selector("body", timeout=3000)
+                        try:
+                            ad_page.goto(link, timeout=10000)
+                            ad_page.wait_for_selector("body", timeout=3000)
 
-                        monthly_texts = ad_page.query_selector_all("p.s-text-subtle")
-                        if any("Månedspris" in (el.inner_text() or "") for el in monthly_texts):
-                            logging.info(f"⏩ Skipped (monthly payment): {title}")
+                            # Look for Månedspris indicator
+                            monthly_texts = ad_page.query_selector_all("p.s-text-subtle")
+                            if any("Månedspris" in (el.inner_text() or "") for el in monthly_texts):
+                                logging.info(f"⏩ Skipped (monthly payment): {title}")
+                                ad_page.close()
+                                continue  # Skip ads with monthly payment options
+
+                            ad_page.close()
+                        except Exception as e:
+                            logging.warning(f"⚠️ Could not open ad page for '{title}': {e}")
                             ad_page.close()
                             continue
 
-                        ad_page.close()
-                    except Exception as e:
-                        logging.warning(f"⚠️ Could not open ad page for '{title}': {e}")
-                        continue
+                        # Parse remaining details and add to the list
+                        transmission = details[2] if len(details) > 2 else "N/A"
+                        fuel = details[3] if len(details) > 3 else "N/A"
+                        location_elem = listing.query_selector("div.text-detail span:first-child")
+                        location = location_elem.inner_text().strip() if location_elem else "N/A"
+                        ad_id_elem = listing.query_selector("div.absolute[aria-owns^='search-ad-']")
+                        ad_id = ad_id_elem.get_attribute("aria-owns").replace("search-ad-", "") if ad_id_elem else "N/A"
 
-                    # Parse remaining details
-                    transmission = details[2] if len(details) > 2 else "N/A"
-                    fuel = details[3] if len(details) > 3 else "N/A"
-                    location_elem = listing.query_selector("div.text-detail span:first-child")
-                    location = location_elem.inner_text().strip() if location_elem else "N/A"
-                    ad_id_elem = listing.query_selector("div.absolute[aria-owns^='search-ad-']")
-                    ad_id = ad_id_elem.get_attribute("aria-owns").replace("search-ad-", "") if ad_id_elem else "N/A"
-
-                    car_data.append({
-                        "Annonse ID": ad_id,
-                        "Title": title,
-                        "Price": price,
-                        "Year": year,
-                        "Mileage": mileage,
-                        "Transmission": transmission,
-                        "Fuel": fuel,
-                        "Location": location,
-                        "Link": link
-                    })
+                        # Add the valid car to the list
+                        car_data.append({
+                            "Annonse ID": ad_id,
+                            "Title": title,
+                            "Price": price,
+                            "Year": year,
+                            "Mileage": mileage,
+                            "Transmission": transmission,
+                            "Fuel": fuel,
+                            "Location": location
+                        })
 
                 except Exception as e:
                     logging.error(f"⚠️ Error parsing listing: {e}")
                     continue
 
+            # Go to the next page
             if not go_to_next_page(page, page_number):
                 break
             page_number += 1
