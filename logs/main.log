@@ -4803,3 +4803,25 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-05-14 00:29:26,704 [INFO] 💾 Saved 6105 entries to 'D:\Projects\CodeA\PythonProject\finn_car_scraper\data\finn_cars.json'
 2025-05-14 00:40:49,697 [WARNING] 
 ❌ Scraper stopped by user.
+2025-05-14 18:40:11,981 [INFO] 🔁 Scraping every 15 min. Press Ctrl+C to stop.
+2025-05-14 18:40:11,982 [INFO] 
+⏳ Scraping new data...
+2025-05-14 18:40:17,688 [INFO] ✅ Cookie consent accepted.
+2025-05-14 18:40:18,189 [INFO] 📄 Scraping page 1
+2025-05-14 18:40:20,938 [INFO] 📄 Scraping page 2
+2025-05-14 18:40:23,592 [INFO] 📄 Scraping page 3
+2025-05-14 18:40:26,018 [INFO] 📄 Scraping page 4
+2025-05-14 18:40:27,701 [INFO] ⏩ Skipped (monthly payment): Tesla Model 3
+2025-05-14 18:40:29,676 [INFO] 📄 Scraping page 5
+2025-05-14 18:40:32,529 [INFO] ⏩ Skipped (monthly payment): BYD Sealion 7
+2025-05-14 18:40:34,489 [INFO] 📄 Scraping page 6
+2025-05-14 18:40:35,436 [INFO] ⏩ Skipped (monthly payment): Hyundai Kona
+2025-05-14 18:40:36,896 [INFO] ⏩ Skipped (monthly payment): BYD Dolphin
+2025-05-14 18:40:38,798 [INFO] 📄 Scraping page 7
+2025-05-14 18:40:41,298 [INFO] 📄 Scraping page 8
+2025-05-14 18:40:44,344 [INFO] 📄 Scraping page 9
+2025-05-14 18:40:46,902 [INFO] 📄 Scraping page 10
+2025-05-14 18:40:49,262 [INFO] 📄 Scraping page 11
+2025-05-14 18:40:51,629 [INFO] 📄 Scraping page 12
+2025-05-14 18:40:54,116 [INFO] 📄 Scraping page 13
+2025-05-14 18:40:56,578 [INFO] 📄 Scraping page 14
